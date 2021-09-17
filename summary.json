@@ -4,26 +4,33 @@
       "0": {
         "1": {
           "1": {
-            "Chaos Giant": {
-              "kills": 27,
+            "Chaotic Abomination": {
+              "kills": 4,
               "loot": {
-                "Chaos Talisman": 1,
-                "Chaos Rune": 120,
-                "Earth Rune": 2,
-                "Mind Rune": 1,
-                "Air Rune": 3,
-                "Nature Rune": 5,
-                "Water Rune": 4,
-                "Death Rune": 7,
-                "Chaos Fragment": 1
+                "Chaos Rune": {
+                  "multiplicity": {
+                    "3": 2,
+                    "6": 1,
+                    "8": 1
+                  },
+                  "total": 20,
+                  "minimum": 3,
+                  "maximum": 8
+                }
               }
             },
-            "Chaotic Abomination": {
-              "kills": 16,
+            "Chaos Giant": {
+              "kills": 2,
               "loot": {
-                "Chaos Rune": 95,
-                "Nature Rune": 4,
-                "Water Rune": 4
+                "Chaos Rune": {
+                  "multiplicity": {
+                    "3": 1,
+                    "4": 1
+                  },
+                  "total": 7,
+                  "minimum": 3,
+                  "maximum": 4
+                }
               }
             }
           }
