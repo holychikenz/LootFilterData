@@ -6,157 +6,157 @@
           "1": {
             "1": {
               "Chaos Giant": {
-                "kills": 7251,
+                "kills": 8488,
                 "loot": {
                   "Chaos Rune": {
                     "multiplicity": {},
-                    "total": 45997,
+                    "total": 53787,
                     "minimum": 2,
                     "maximum": 66
                   },
                   "Chaos Talisman": {
                     "multiplicity": {
-                      "1": 24,
+                      "1": 27,
                       "2": 4
                     },
-                    "total": 32,
+                    "total": 35,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Blood Rune": {
                     "multiplicity": {
-                      "3": 24,
-                      "4": 32,
-                      "1": 41,
-                      "2": 33
+                      "3": 27,
+                      "4": 35,
+                      "1": 44,
+                      "2": 41
                     },
-                    "total": 307,
+                    "total": 347,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Nature Rune": {
                     "multiplicity": {
-                      "1": 30,
-                      "4": 25,
-                      "3": 38,
-                      "2": 29
+                      "1": 35,
+                      "4": 28,
+                      "3": 40,
+                      "2": 38
                     },
-                    "total": 302,
+                    "total": 343,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Death Rune": {
                     "multiplicity": {
-                      "1": 37,
-                      "3": 34,
-                      "2": 31,
-                      "4": 29
+                      "1": 45,
+                      "3": 38,
+                      "2": 37,
+                      "4": 31
                     },
-                    "total": 317,
+                    "total": 357,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Earth Rune": {
                     "multiplicity": {
-                      "2": 34,
-                      "3": 22,
-                      "1": 43,
-                      "4": 25
+                      "2": 41,
+                      "3": 33,
+                      "1": 50,
+                      "4": 30
                     },
-                    "total": 277,
+                    "total": 351,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Mysterious Seed": {
                     "multiplicity": {
                       "2": 7,
-                      "1": 7,
+                      "1": 8,
                       "3": 3
                     },
-                    "total": 30,
+                    "total": 31,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Mind Rune": {
                     "multiplicity": {
-                      "2": 41,
-                      "3": 35,
-                      "1": 28,
-                      "4": 30
+                      "2": 48,
+                      "3": 41,
+                      "1": 35,
+                      "4": 35
                     },
-                    "total": 335,
+                    "total": 394,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Cosmic Rune": {
                     "multiplicity": {
-                      "2": 29,
-                      "1": 29,
-                      "3": 35,
-                      "4": 24
+                      "2": 34,
+                      "1": 35,
+                      "3": 42,
+                      "4": 28
                     },
-                    "total": 288,
+                    "total": 341,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Useless Scraps": {
                     "multiplicity": {
-                      "1": 15,
-                      "2": 5
+                      "1": 18,
+                      "2": 7
                     },
-                    "total": 25,
+                    "total": 32,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Fire Rune": {
                     "multiplicity": {
-                      "2": 40,
-                      "1": 29,
-                      "4": 25,
-                      "3": 28
+                      "2": 45,
+                      "1": 37,
+                      "4": 30,
+                      "3": 33
                     },
-                    "total": 293,
+                    "total": 346,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Water Rune": {
                     "multiplicity": {
-                      "1": 43,
-                      "2": 28,
-                      "3": 31,
-                      "4": 20
+                      "1": 47,
+                      "2": 34,
+                      "3": 39,
+                      "4": 23
                     },
-                    "total": 272,
+                    "total": 324,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Air Rune": {
                     "multiplicity": {
-                      "1": 27,
-                      "2": 37,
-                      "3": 34,
-                      "4": 29,
+                      "1": 32,
+                      "2": 42,
+                      "3": 40,
+                      "4": 31,
                       "6": 1
                     },
-                    "total": 325,
+                    "total": 366,
                     "minimum": 1,
                     "maximum": 6
                   },
                   "Chaos Fragment": {
                     "multiplicity": {
-                      "1": 6,
+                      "1": 10,
                       "2": 4
                     },
-                    "total": 14,
+                    "total": 18,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Satchel": {
                     "multiplicity": {
                       "2": 4,
-                      "1": 13
+                      "1": 14
                     },
-                    "total": 21,
+                    "total": 22,
                     "minimum": 1,
                     "maximum": 2
                   },
@@ -171,10 +171,10 @@
                   },
                   "Stygian Boots": {
                     "multiplicity": {
-                      "1": 8,
+                      "1": 9,
                       "2": 4
                     },
-                    "total": 16,
+                    "total": 17,
                     "minimum": 1,
                     "maximum": 2
                   },
@@ -188,11 +188,12 @@
                   },
                   "Ancient Nature Amulet": {
                     "multiplicity": {
-                      "1": 4
+                      "1": 5,
+                      "2": 1
                     },
-                    "total": 4,
+                    "total": 7,
                     "minimum": 1,
-                    "maximum": 1
+                    "maximum": 2
                   },
                   "Giant Scroll": {
                     "multiplicity": {
@@ -213,34 +214,34 @@
                 }
               },
               "Chaotic Abomination": {
-                "kills": 5613,
+                "kills": 6481,
                 "loot": {
                   "Chaos Rune": {
                     "multiplicity": {},
-                    "total": 36508,
+                    "total": 42201,
                     "minimum": 2,
                     "maximum": 66
                   },
                   "Earth Rune": {
                     "multiplicity": {
-                      "3": 22,
+                      "3": 24,
                       "4": 14,
-                      "2": 23,
-                      "1": 21
+                      "2": 27,
+                      "1": 27
                     },
-                    "total": 189,
+                    "total": 209,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Cosmic Rune": {
                     "multiplicity": {
-                      "2": 22,
-                      "3": 22,
-                      "1": 26,
-                      "4": 21,
+                      "2": 24,
+                      "3": 24,
+                      "1": 28,
+                      "4": 25,
                       "5": 1
                     },
-                    "total": 225,
+                    "total": 253,
                     "minimum": 1,
                     "maximum": 5
                   },
@@ -248,21 +249,21 @@
                     "multiplicity": {
                       "3": 25,
                       "1": 28,
-                      "2": 29,
-                      "4": 22
+                      "2": 33,
+                      "4": 27
                     },
-                    "total": 249,
+                    "total": 277,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Mind Rune": {
                     "multiplicity": {
-                      "2": 26,
-                      "4": 12,
-                      "3": 29,
-                      "1": 13
+                      "2": 27,
+                      "4": 14,
+                      "3": 34,
+                      "1": 18
                     },
-                    "total": 200,
+                    "total": 230,
                     "minimum": 1,
                     "maximum": 4
                   },
@@ -277,23 +278,23 @@
                   },
                   "Blood Rune": {
                     "multiplicity": {
-                      "1": 22,
-                      "3": 24,
-                      "2": 20,
-                      "4": 17
+                      "1": 23,
+                      "3": 26,
+                      "2": 24,
+                      "4": 19
                     },
-                    "total": 202,
+                    "total": 225,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Fire Rune": {
                     "multiplicity": {
-                      "1": 30,
-                      "2": 29,
-                      "4": 25,
-                      "3": 16
+                      "1": 34,
+                      "2": 34,
+                      "4": 29,
+                      "3": 21
                     },
-                    "total": 236,
+                    "total": 281,
                     "minimum": 1,
                     "maximum": 4
                   },
@@ -301,51 +302,51 @@
                     "multiplicity": {
                       "1": 7,
                       "2": 3,
-                      "3": 3
+                      "3": 4
                     },
-                    "total": 22,
+                    "total": 25,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Nature Rune": {
                     "multiplicity": {
-                      "2": 15,
+                      "2": 19,
                       "1": 27,
-                      "3": 20,
-                      "4": 27
+                      "3": 22,
+                      "4": 31
                     },
-                    "total": 225,
+                    "total": 255,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Water Rune": {
                     "multiplicity": {
                       "4": 11,
-                      "1": 18,
-                      "3": 30,
-                      "2": 16
+                      "1": 22,
+                      "3": 32,
+                      "2": 20
                     },
-                    "total": 184,
+                    "total": 202,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Useless Scraps": {
                     "multiplicity": {
-                      "1": 19,
+                      "1": 21,
                       "2": 2
                     },
-                    "total": 23,
+                    "total": 25,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Death Rune": {
                     "multiplicity": {
-                      "3": 31,
-                      "2": 23,
-                      "1": 19,
-                      "4": 12
+                      "3": 35,
+                      "2": 27,
+                      "1": 22,
+                      "4": 15
                     },
-                    "total": 206,
+                    "total": 241,
                     "minimum": 1,
                     "maximum": 4
                   },
@@ -359,18 +360,18 @@
                   },
                   "Chaos Fragment": {
                     "multiplicity": {
-                      "1": 3
+                      "1": 4
                     },
-                    "total": 3,
+                    "total": 4,
                     "minimum": 1,
                     "maximum": 1
                   },
                   "Satchel": {
                     "multiplicity": {
-                      "2": 4,
-                      "1": 10
+                      "2": 6,
+                      "1": 11
                     },
-                    "total": 18,
+                    "total": 23,
                     "minimum": 1,
                     "maximum": 2
                   },
@@ -384,29 +385,30 @@
                   },
                   "Chaos Talisman": {
                     "multiplicity": {
-                      "1": 9,
-                      "2": 3
+                      "1": 11,
+                      "2": 4
                     },
-                    "total": 15,
+                    "total": 19,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Shapeless Scroll": {
                     "multiplicity": {
                       "2": 1,
-                      "1": 1
+                      "1": 2
                     },
-                    "total": 3,
+                    "total": 4,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Ancient Nature Amulet": {
                     "multiplicity": {
-                      "1": 3
+                      "1": 3,
+                      "2": 1
                     },
-                    "total": 3,
+                    "total": 5,
                     "minimum": 1,
-                    "maximum": 1
+                    "maximum": 2
                   }
                 }
               }
@@ -419,11 +421,11 @@
           "1": {
             "1": {
               "Chaotic Abomination": {
-                "kills": 346,
+                "kills": 347,
                 "loot": {
                   "Chaos Rune": {
                     "multiplicity": {},
-                    "total": 2185,
+                    "total": 2217,
                     "minimum": 2,
                     "maximum": 37
                   },
@@ -532,7 +534,7 @@
                 }
               },
               "Chaos Giant": {
-                "kills": 485,
+                "kills": 486,
                 "loot": {
                   "Fire Rune": {
                     "multiplicity": {
@@ -547,7 +549,7 @@
                   },
                   "Chaos Rune": {
                     "multiplicity": {},
-                    "total": 3048,
+                    "total": 3051,
                     "minimum": 2,
                     "maximum": 38
                   },
@@ -7207,191 +7209,191 @@
           "1": {
             "1": {
               "Corrupted Tree": {
-                "kills": 2246,
+                "kills": 2906,
                 "loot": {
                   "Pumpkin Seed": {
                     "multiplicity": {
-                      "2": 7,
-                      "1": 11,
-                      "3": 10
+                      "2": 11,
+                      "1": 12,
+                      "3": 12
                     },
-                    "total": 55,
+                    "total": 70,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Log": {
                     "multiplicity": {},
-                    "total": 282,
+                    "total": 355,
                     "minimum": 1,
                     "maximum": 10
                   },
                   "Maple Log": {
                     "multiplicity": {},
-                    "total": 179,
+                    "total": 216,
                     "minimum": 1,
                     "maximum": 10
                   },
                   "Oak Log": {
                     "multiplicity": {},
-                    "total": 177,
-                    "minimum": 3,
+                    "total": 217,
+                    "minimum": 1,
                     "maximum": 10
                   },
                   "Willow Log": {
                     "multiplicity": {},
-                    "total": 137,
+                    "total": 160,
                     "minimum": 1,
                     "maximum": 10
                   },
                   "Chili Pepper Seed": {
                     "multiplicity": {
-                      "1": 10,
-                      "2": 14,
+                      "1": 12,
+                      "2": 17,
                       "3": 7
                     },
-                    "total": 59,
+                    "total": 67,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Wheat Seed": {
                     "multiplicity": {
-                      "3": 12,
-                      "1": 3,
-                      "2": 8
+                      "3": 13,
+                      "1": 5,
+                      "2": 12
                     },
-                    "total": 55,
+                    "total": 68,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Mushroom Spore": {
                     "multiplicity": {
-                      "1": 13,
-                      "3": 9,
-                      "2": 8
+                      "1": 16,
+                      "3": 15,
+                      "2": 9
                     },
-                    "total": 56,
+                    "total": 79,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Rice Seed": {
                     "multiplicity": {
-                      "3": 6,
-                      "1": 11,
-                      "2": 8
+                      "3": 9,
+                      "1": 15,
+                      "2": 11
                     },
-                    "total": 45,
+                    "total": 64,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Sugarcane Seed": {
                     "multiplicity": {
-                      "3": 12,
-                      "2": 10,
-                      "1": 4
+                      "3": 15,
+                      "2": 12,
+                      "1": 8
                     },
-                    "total": 60,
+                    "total": 77,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Nature Rune": {
                     "multiplicity": {},
-                    "total": 469,
+                    "total": 533,
                     "minimum": 2,
                     "maximum": 28
                   },
                   "Peppercorn Seed": {
                     "multiplicity": {
-                      "3": 11,
-                      "1": 6,
-                      "2": 9
+                      "3": 14,
+                      "1": 8,
+                      "2": 12
                     },
-                    "total": 57,
+                    "total": 74,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Wildberry Bush Seed": {
                     "multiplicity": {
-                      "3": 7,
-                      "1": 9,
-                      "2": 11
+                      "3": 12,
+                      "1": 10,
+                      "2": 13
                     },
-                    "total": 52,
+                    "total": 72,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Yew Log": {
                     "multiplicity": {},
-                    "total": 135,
+                    "total": 172,
                     "minimum": 1,
                     "maximum": 10
                   },
                   "Branch": {
                     "multiplicity": {},
-                    "total": 277,
+                    "total": 396,
                     "minimum": 1,
                     "maximum": 10
                   },
                   "Maple Tree Seed": {
                     "multiplicity": {
-                      "1": 4
+                      "1": 5
                     },
-                    "total": 4,
+                    "total": 5,
                     "minimum": 1,
                     "maximum": 1
                   },
                   "Yew Tree Seed": {
                     "multiplicity": {
-                      "1": 4
+                      "1": 7
                     },
-                    "total": 4,
+                    "total": 7,
                     "minimum": 1,
                     "maximum": 1
                   },
                   "Potato Seed": {
                     "multiplicity": {
-                      "3": 14,
-                      "1": 5,
-                      "2": 9
+                      "3": 17,
+                      "1": 9,
+                      "2": 10
                     },
-                    "total": 65,
+                    "total": 80,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Carrot Seed": {
                     "multiplicity": {
-                      "3": 7,
+                      "3": 9,
                       "2": 14,
-                      "1": 7
+                      "1": 8
                     },
-                    "total": 56,
+                    "total": 63,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Tomato Seed": {
                     "multiplicity": {
-                      "2": 15,
-                      "1": 5,
-                      "3": 6
+                      "2": 18,
+                      "1": 9,
+                      "3": 8
                     },
-                    "total": 53,
+                    "total": 69,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Willow Tree Seed": {
                     "multiplicity": {
-                      "1": 4
+                      "1": 5
                     },
-                    "total": 4,
+                    "total": 5,
                     "minimum": 1,
                     "maximum": 1
                   },
                   "Death Rune": {
                     "multiplicity": {
-                      "3": 1,
-                      "2": 2,
-                      "1": 2
+                      "3": 3,
+                      "2": 3,
+                      "1": 3
                     },
-                    "total": 9,
+                    "total": 18,
                     "minimum": 1,
                     "maximum": 3
                   },
@@ -7407,112 +7409,112 @@
                     "multiplicity": {
                       "2": 3,
                       "1": 2,
-                      "3": 1
+                      "3": 2
                     },
-                    "total": 11,
+                    "total": 14,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Mysterious Seed": {
+                    "multiplicity": {
+                      "1": 3
+                    },
+                    "total": 3,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Tree Seed": {
+                    "multiplicity": {
+                      "1": 7
+                    },
+                    "total": 7,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Oak Tree Seed": {
+                    "multiplicity": {
+                      "1": 3
+                    },
+                    "total": 3,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Satchel": {
                     "multiplicity": {
                       "1": 2
                     },
                     "total": 2,
                     "minimum": 1,
                     "maximum": 1
-                  },
-                  "Tree Seed": {
-                    "multiplicity": {
-                      "1": 5
-                    },
-                    "total": 5,
-                    "minimum": 1,
-                    "maximum": 1
-                  },
-                  "Oak Tree Seed": {
-                    "multiplicity": {
-                      "1": 1
-                    },
-                    "total": 1,
-                    "minimum": 1,
-                    "maximum": 1
-                  },
-                  "Satchel": {
-                    "multiplicity": {
-                      "1": 1
-                    },
-                    "total": 1,
-                    "minimum": 1,
-                    "maximum": 1
                   }
                 }
               },
               "Infected Naga": {
-                "kills": 2245,
+                "kills": 2899,
                 "loot": {
                   "Gold Ore": {
                     "multiplicity": {
-                      "1": 63,
-                      "2": 71,
-                      "3": 67,
-                      "4": 79
+                      "1": 81,
+                      "2": 91,
+                      "3": 84,
+                      "4": 92
                     },
-                    "total": 722,
+                    "total": 883,
                     "minimum": 1,
                     "maximum": 4
                   },
                   "Rune Slate": {
                     "multiplicity": {
-                      "2": 46,
-                      "1": 52,
-                      "3": 42
+                      "2": 58,
+                      "1": 59,
+                      "3": 50
                     },
-                    "total": 270,
+                    "total": 325,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Runite Bar": {
                     "multiplicity": {
-                      "1": 37,
-                      "2": 31,
-                      "3": 34
+                      "1": 47,
+                      "2": 42,
+                      "3": 46
                     },
-                    "total": 201,
+                    "total": 269,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Mysterious Seed": {
                     "multiplicity": {
-                      "2": 1,
+                      "2": 3,
                       "1": 1
                     },
-                    "total": 3,
+                    "total": 7,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Gold Bar": {
                     "multiplicity": {},
-                    "total": 520,
+                    "total": 679,
                     "minimum": 1,
                     "maximum": 10
                   },
                   "Runite Ore": {
                     "multiplicity": {
-                      "5": 32,
-                      "1": 27,
-                      "3": 26,
-                      "2": 32,
-                      "4": 28
+                      "5": 40,
+                      "1": 33,
+                      "3": 29,
+                      "2": 37,
+                      "4": 35
                     },
-                    "total": 441,
+                    "total": 534,
                     "minimum": 1,
                     "maximum": 5
                   },
                   "Emerald": {
                     "multiplicity": {
-                      "1": 6
+                      "1": 8
                     },
-                    "total": 6,
+                    "total": 8,
                     "minimum": 1,
                     "maximum": 1
                   },
@@ -7526,21 +7528,21 @@
                   },
                   "Death Rune": {
                     "multiplicity": {
-                      "2": 10,
-                      "3": 4,
-                      "1": 3
+                      "2": 12,
+                      "3": 7,
+                      "1": 4
                     },
-                    "total": 35,
+                    "total": 49,
                     "minimum": 1,
                     "maximum": 3
                   },
                   "Chaos Rune": {
                     "multiplicity": {
-                      "3": 6,
+                      "3": 7,
                       "2": 6,
-                      "1": 4
+                      "1": 5
                     },
-                    "total": 34,
+                    "total": 38,
                     "minimum": 1,
                     "maximum": 3
                   },
@@ -7563,7 +7565,7 @@
                 }
               },
               "Bone Giant": {
-                "kills": 562,
+                "kills": 727,
                 "loot": {
                   "Water Rune": {
                     "multiplicity": {
@@ -7576,19 +7578,19 @@
                   },
                   "Stygian Ore": {
                     "multiplicity": {
-                      "1": 17,
-                      "2": 10,
-                      "3": 8,
-                      "4": 16,
-                      "5": 13
+                      "1": 19,
+                      "2": 13,
+                      "3": 12,
+                      "4": 22,
+                      "5": 15
                     },
-                    "total": 190,
+                    "total": 244,
                     "minimum": 1,
                     "maximum": 5
                   },
                   "Death Rune": {
                     "multiplicity": {},
-                    "total": 406,
+                    "total": 464,
                     "minimum": 29,
                     "maximum": 29
                   },
@@ -7603,28 +7605,28 @@
                   },
                   "Nature Rune": {
                     "multiplicity": {
-                      "2": 7,
-                      "1": 3
+                      "2": 8,
+                      "1": 4
                     },
-                    "total": 17,
+                    "total": 20,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Chaos Rune": {
                     "multiplicity": {
-                      "1": 1,
-                      "2": 1
+                      "1": 2,
+                      "2": 2
                     },
-                    "total": 3,
+                    "total": 6,
                     "minimum": 1,
                     "maximum": 2
                   },
                   "Earth Rune": {
                     "multiplicity": {
                       "2": 3,
-                      "1": 3
+                      "1": 4
                     },
-                    "total": 9,
+                    "total": 10,
                     "minimum": 1,
                     "maximum": 2
                   },
@@ -7648,9 +7650,10 @@
                   "Stygian Bar": {
                     "multiplicity": {
                       "2": 1,
-                      "5": 2
+                      "5": 4,
+                      "3": 1
                     },
-                    "total": 12,
+                    "total": 25,
                     "minimum": 2,
                     "maximum": 5
                   },
@@ -7672,6 +7675,14 @@
                     "maximum": 2
                   },
                   "Corrupted Fragment": {
+                    "multiplicity": {
+                      "1": 1
+                    },
+                    "total": 1,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Fire Rune": {
                     "multiplicity": {
                       "1": 1
                     },
@@ -8519,24 +8530,120 @@
           "1": {
             "1": {
               "Ice Giant": {
-                "kills": 81,
+                "kills": 392,
                 "loot": {
                   "Raw Tuna": {
                     "multiplicity": {
-                      "2": 1,
-                      "3": 1
+                      "2": 5,
+                      "3": 2,
+                      "1": 1
                     },
-                    "total": 5,
-                    "minimum": 2,
+                    "total": 17,
+                    "minimum": 1,
                     "maximum": 3
                   },
                   "Water Rune": {
                     "multiplicity": {},
-                    "total": 256,
+                    "total": 1329,
                     "minimum": 1,
                     "maximum": 32
                   },
                   "Air Rune": {
+                    "multiplicity": {
+                      "1": 3,
+                      "3": 2
+                    },
+                    "total": 9,
+                    "minimum": 1,
+                    "maximum": 3
+                  },
+                  "Raw Shrimp": {
+                    "multiplicity": {
+                      "3": 1,
+                      "2": 2,
+                      "1": 1,
+                      "5": 1,
+                      "8": 3,
+                      "4": 1,
+                      "7": 2,
+                      "6": 1
+                    },
+                    "total": 61,
+                    "minimum": 1,
+                    "maximum": 8
+                  },
+                  "Raw Shark": {
+                    "multiplicity": {
+                      "2": 6,
+                      "1": 4
+                    },
+                    "total": 16,
+                    "minimum": 1,
+                    "maximum": 2
+                  },
+                  "Chaos Rune": {
+                    "multiplicity": {
+                      "1": 3,
+                      "2": 2,
+                      "3": 1
+                    },
+                    "total": 10,
+                    "minimum": 1,
+                    "maximum": 3
+                  },
+                  "Cosmic Rune": {
+                    "multiplicity": {
+                      "1": 2,
+                      "3": 1,
+                      "2": 1
+                    },
+                    "total": 7,
+                    "minimum": 1,
+                    "maximum": 3
+                  },
+                  "Raw Trout": {
+                    "multiplicity": {
+                      "2": 2,
+                      "5": 2,
+                      "6": 2
+                    },
+                    "total": 26,
+                    "minimum": 2,
+                    "maximum": 6
+                  },
+                  "Raw Anchovy": {
+                    "multiplicity": {
+                      "4": 3,
+                      "2": 1,
+                      "5": 2,
+                      "7": 3,
+                      "3": 1
+                    },
+                    "total": 48,
+                    "minimum": 2,
+                    "maximum": 7
+                  },
+                  "Raw Salmon": {
+                    "multiplicity": {
+                      "3": 2,
+                      "1": 3,
+                      "2": 2,
+                      "4": 3,
+                      "5": 1
+                    },
+                    "total": 30,
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "Earth Rune": {
+                    "multiplicity": {
+                      "2": 3
+                    },
+                    "total": 6,
+                    "minimum": 2,
+                    "maximum": 2
+                  },
+                  "Water Talisman": {
                     "multiplicity": {
                       "1": 1
                     },
@@ -8544,75 +8651,54 @@
                     "minimum": 1,
                     "maximum": 1
                   },
-                  "Raw Shrimp": {
+                  "Mysterious Seed": {
                     "multiplicity": {
-                      "3": 1,
                       "2": 1
-                    },
-                    "total": 5,
-                    "minimum": 2,
-                    "maximum": 3
-                  },
-                  "Raw Shark": {
-                    "multiplicity": {
-                      "2": 4,
-                      "1": 1
-                    },
-                    "total": 9,
-                    "minimum": 1,
-                    "maximum": 2
-                  },
-                  "Chaos Rune": {
-                    "multiplicity": {
-                      "1": 1,
-                      "2": 1
-                    },
-                    "total": 3,
-                    "minimum": 1,
-                    "maximum": 2
-                  },
-                  "Cosmic Rune": {
-                    "multiplicity": {
-                      "1": 2
                     },
                     "total": 2,
-                    "minimum": 1,
-                    "maximum": 1
-                  },
-                  "Raw Trout": {
-                    "multiplicity": {
-                      "2": 1,
-                      "5": 1
-                    },
-                    "total": 7,
                     "minimum": 2,
-                    "maximum": 5
+                    "maximum": 2
                   },
-                  "Raw Anchovy": {
+                  "Raw Lobster": {
                     "multiplicity": {
-                      "4": 1
+                      "3": 2,
+                      "4": 1,
+                      "1": 1,
+                      "2": 2
                     },
-                    "total": 4,
-                    "minimum": 4,
+                    "total": 15,
+                    "minimum": 1,
                     "maximum": 4
                   },
-                  "Raw Salmon": {
+                  "Death Rune": {
                     "multiplicity": {
-                      "3": 1
+                      "2": 2,
+                      "1": 1
                     },
-                    "total": 3,
-                    "minimum": 3,
-                    "maximum": 3
-                  },
-                  "Earth Rune": {
-                    "multiplicity": {
-                      "2": 1
-                    },
-                    "total": 2,
-                    "minimum": 2,
+                    "total": 5,
+                    "minimum": 1,
                     "maximum": 2
                   },
+                  "Blood Rune": {
+                    "multiplicity": {
+                      "1": 2,
+                      "2": 1,
+                      "3": 1
+                    },
+                    "total": 7,
+                    "minimum": 1,
+                    "maximum": 3
+                  },
                   "Mind Rune": {
+                    "multiplicity": {
+                      "1": 2,
+                      "3": 1
+                    },
+                    "total": 5,
+                    "minimum": 1,
+                    "maximum": 3
+                  },
+                  "Fire Rune": {
                     "multiplicity": {
                       "1": 1
                     },
@@ -8623,47 +8709,75 @@
                 }
               },
               "Fire Giant": {
-                "kills": 73,
+                "kills": 367,
                 "loot": {
                   "Fire Rune": {
                     "multiplicity": {},
-                    "total": 211,
+                    "total": 1010,
                     "minimum": 1,
-                    "maximum": 31
+                    "maximum": 32
                   },
                   "Burnt Fish": {
                     "multiplicity": {},
-                    "total": 139,
+                    "total": 304,
                     "minimum": 1,
                     "maximum": 54
                   },
                   "Coal": {
                     "multiplicity": {},
-                    "total": 535,
-                    "minimum": 22,
+                    "total": 2899,
+                    "minimum": 20,
                     "maximum": 50
                   },
                   "Ashes": {
                     "multiplicity": {
-                      "1": 4,
-                      "2": 1,
-                      "3": 4,
-                      "4": 6,
-                      "5": 5
+                      "1": 14,
+                      "2": 14,
+                      "3": 14,
+                      "4": 22,
+                      "5": 19
                     },
-                    "total": 67,
+                    "total": 267,
                     "minimum": 1,
                     "maximum": 5
                   },
                   "Water Rune": {
                     "multiplicity": {
-                      "2": 1
+                      "2": 2
                     },
-                    "total": 2,
+                    "total": 4,
                     "minimum": 2,
                     "maximum": 2
                   },
                   "Chaos Rune": {
+                    "multiplicity": {
+                      "1": 1,
+                      "3": 1
+                    },
+                    "total": 4,
+                    "minimum": 1,
+                    "maximum": 3
+                  },
+                  "Mind Rune": {
+                    "multiplicity": {
+                      "3": 1,
+                      "1": 2
+                    },
+                    "total": 5,
+                    "minimum": 1,
+                    "maximum": 3
+                  },
+                  "Nature Rune": {
+                    "multiplicity": {
+                      "3": 1,
+                      "2": 1,
+                      "1": 2
+                    },
+                    "total": 7,
+                    "minimum": 1,
+                    "maximum": 3
+                  },
+                  "Fire Fragment": {
                     "multiplicity": {
                       "1": 1
                     },
@@ -8671,51 +8785,76 @@
                     "minimum": 1,
                     "maximum": 1
                   },
-                  "Mind Rune": {
+                  "Blood Rune": {
                     "multiplicity": {
-                      "3": 1
+                      "2": 1,
+                      "3": 2
                     },
-                    "total": 3,
-                    "minimum": 3,
-                    "maximum": 3
-                  },
-                  "Nature Rune": {
-                    "multiplicity": {
-                      "3": 1
-                    },
-                    "total": 3,
-                    "minimum": 3,
-                    "maximum": 3
-                  }
-                }
-              },
-              "Moss Giant": {
-                "kills": 72,
-                "loot": {
-                  "Stone": {
-                    "multiplicity": {
-                      "1": 72
-                    },
-                    "total": 72,
-                    "minimum": 1,
-                    "maximum": 1
-                  },
-                  "Nature Rune": {
-                    "multiplicity": {
-                      "1": 25,
-                      "2": 20,
-                      "3": 27
-                    },
-                    "total": 146,
-                    "minimum": 1,
+                    "total": 8,
+                    "minimum": 2,
                     "maximum": 3
                   },
                   "Cosmic Rune": {
                     "multiplicity": {
-                      "3": 1
+                      "2": 2,
+                      "1": 1
+                    },
+                    "total": 5,
+                    "minimum": 1,
+                    "maximum": 2
+                  },
+                  "Earth Rune": {
+                    "multiplicity": {
+                      "2": 1,
+                      "1": 1
                     },
                     "total": 3,
-                    "minimum": 3,
+                    "minimum": 1,
+                    "maximum": 2
+                  },
+                  "Mysterious Seed": {
+                    "multiplicity": {
+                      "1": 1
+                    },
+                    "total": 1,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Death Rune": {
+                    "multiplicity": {
+                      "1": 1
+                    },
+                    "total": 1,
+                    "minimum": 1,
+                    "maximum": 1
+                  }
+                }
+              },
+              "Moss Giant": {
+                "kills": 365,
+                "loot": {
+                  "Stone": {
+                    "multiplicity": {
+                      "1": 365
+                    },
+                    "total": 365,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Nature Rune": {
+                    "multiplicity": {},
+                    "total": 835,
+                    "minimum": 1,
+                    "maximum": 25
+                  },
+                  "Cosmic Rune": {
+                    "multiplicity": {
+                      "3": 1,
+                      "1": 1,
+                      "2": 1
+                    },
+                    "total": 6,
+                    "minimum": 1,
                     "maximum": 3
                   },
                   "Death Rune": {
@@ -8732,6 +8871,73 @@
                     },
                     "total": 2,
                     "minimum": 2,
+                    "maximum": 2
+                  },
+                  "Fire Rune": {
+                    "multiplicity": {
+                      "2": 1,
+                      "1": 1
+                    },
+                    "total": 3,
+                    "minimum": 1,
+                    "maximum": 2
+                  },
+                  "Air Rune": {
+                    "multiplicity": {
+                      "1": 1,
+                      "2": 1
+                    },
+                    "total": 3,
+                    "minimum": 1,
+                    "maximum": 2
+                  },
+                  "Chaos Rune": {
+                    "multiplicity": {
+                      "3": 1
+                    },
+                    "total": 3,
+                    "minimum": 3,
+                    "maximum": 3
+                  },
+                  "Satchel": {
+                    "multiplicity": {
+                      "1": 1
+                    },
+                    "total": 1,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Blood Rune": {
+                    "multiplicity": {
+                      "1": 3
+                    },
+                    "total": 3,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Mysterious Seed": {
+                    "multiplicity": {
+                      "2": 1
+                    },
+                    "total": 2,
+                    "minimum": 2,
+                    "maximum": 2
+                  },
+                  "Water Rune": {
+                    "multiplicity": {
+                      "3": 2
+                    },
+                    "total": 6,
+                    "minimum": 3,
+                    "maximum": 3
+                  },
+                  "Mind Rune": {
+                    "multiplicity": {
+                      "2": 2,
+                      "1": 1
+                    },
+                    "total": 5,
+                    "minimum": 1,
                     "maximum": 2
                   }
                 }
@@ -9173,16 +9379,17 @@
           "1": {
             "1": {
               "Imp": {
-                "kills": 5,
+                "kills": 7,
                 "loot": {
                   "Gold": {
                     "multiplicity": {
                       "1": 2,
-                      "2": 1,
+                      "2": 2,
                       "3": 1,
-                      "5": 1
+                      "5": 1,
+                      "4": 1
                     },
-                    "total": 12,
+                    "total": 18,
                     "minimum": 1,
                     "maximum": 5
                   },
@@ -9205,7 +9412,7 @@
                 }
               },
               "Goblin": {
-                "kills": 2,
+                "kills": 6,
                 "loot": {
                   "Goblin Brain": {
                     "multiplicity": {
@@ -9214,19 +9421,176 @@
                     "total": 2,
                     "minimum": 1,
                     "maximum": 1
+                  },
+                  "Gold": {
+                    "multiplicity": {},
+                    "total": 23,
+                    "minimum": 23,
+                    "maximum": 23
                   }
                 }
               },
               "Greater Imp": {
-                "kills": 1,
+                "kills": 3,
                 "loot": {
                   "Gold": {
                     "multiplicity": {
-                      "4": 1
+                      "4": 2,
+                      "5": 1
+                    },
+                    "total": 13,
+                    "minimum": 4,
+                    "maximum": 5
+                  },
+                  "Coal": {
+                    "multiplicity": {
+                      "2": 2
                     },
                     "total": 4,
-                    "minimum": 4,
+                    "minimum": 2,
+                    "maximum": 2
+                  },
+                  "Burnt Fish": {
+                    "multiplicity": {
+                      "1": 1
+                    },
+                    "total": 1,
+                    "minimum": 1,
+                    "maximum": 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "5": {
+        "0": {
+          "1": {
+            "1": {
+              "Imp": {
+                "kills": 87,
+                "loot": {
+                  "Gold": {
+                    "multiplicity": {
+                      "1": 17,
+                      "2": 25,
+                      "3": 18,
+                      "4": 13,
+                      "5": 14
+                    },
+                    "total": 243,
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "Ashes": {
+                    "multiplicity": {
+                      "1": 13
+                    },
+                    "total": 13,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Burnt Fish": {
+                    "multiplicity": {
+                      "1": 28
+                    },
+                    "total": 28,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Coal": {
+                    "multiplicity": {
+                      "1": 7,
+                      "2": 10
+                    },
+                    "total": 27,
+                    "minimum": 1,
+                    "maximum": 2
+                  },
+                  "Gold Ore": {
+                    "multiplicity": {
+                      "1": 3
+                    },
+                    "total": 3,
+                    "minimum": 1,
+                    "maximum": 1
+                  }
+                }
+              },
+              "Greater Imp": {
+                "kills": 13,
+                "loot": {
+                  "Gold": {
+                    "multiplicity": {
+                      "1": 3,
+                      "2": 4,
+                      "3": 4,
+                      "4": 2
+                    },
+                    "total": 31,
+                    "minimum": 1,
                     "maximum": 4
+                  },
+                  "Burnt Fish": {
+                    "multiplicity": {
+                      "1": 4
+                    },
+                    "total": 4,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Ashes": {
+                    "multiplicity": {
+                      "1": 4
+                    },
+                    "total": 4,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Coal": {
+                    "multiplicity": {
+                      "1": 3,
+                      "2": 3
+                    },
+                    "total": 9,
+                    "minimum": 1,
+                    "maximum": 2
+                  }
+                }
+              },
+              "Goblin": {
+                "kills": 70,
+                "loot": {
+                  "Gold": {
+                    "multiplicity": {},
+                    "total": 1577,
+                    "minimum": 2,
+                    "maximum": 98
+                  },
+                  "Goblin Brain": {
+                    "multiplicity": {
+                      "1": 19
+                    },
+                    "total": 19,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Silver": {
+                    "multiplicity": {
+                      "1": 1
+                    },
+                    "total": 1,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Tin Ore": {
+                    "multiplicity": {
+                      "1": 2
+                    },
+                    "total": 2,
+                    "minimum": 1,
+                    "maximum": 1
                   }
                 }
               }
@@ -9462,75 +9826,59 @@
           "1": {
             "1": {
               "Spriggan": {
-                "kills": 38,
+                "kills": 131,
                 "loot": {
                   "Branch": {
-                    "multiplicity": {
-                      "8": 3,
-                      "4": 4,
-                      "1": 2,
-                      "2": 2,
-                      "6": 1,
-                      "3": 2,
-                      "9": 1
-                    },
-                    "total": 67,
+                    "multiplicity": {},
+                    "total": 220,
                     "minimum": 1,
-                    "maximum": 9
+                    "maximum": 10
                   },
                   "Maple Log": {
-                    "multiplicity": {
-                      "3": 2,
-                      "2": 2,
-                      "1": 2,
-                      "4": 1,
-                      "5": 1,
-                      "9": 2
-                    },
-                    "total": 39,
+                    "multiplicity": {},
+                    "total": 249,
                     "minimum": 1,
-                    "maximum": 9
+                    "maximum": 10
                   },
                   "Yew Log": {
-                    "multiplicity": {
-                      "1": 2,
-                      "8": 2,
-                      "2": 3,
-                      "4": 1,
-                      "7": 1,
-                      "9": 1,
-                      "5": 1,
-                      "3": 1
-                    },
-                    "total": 52,
+                    "multiplicity": {},
+                    "total": 189,
                     "minimum": 1,
-                    "maximum": 9
+                    "maximum": 10
                   },
                   "Log": {
                     "multiplicity": {},
-                    "total": 57,
-                    "minimum": 2,
+                    "total": 274,
+                    "minimum": 1,
                     "maximum": 10
                   },
                   "Oak Log": {
                     "multiplicity": {},
-                    "total": 58,
+                    "total": 171,
                     "minimum": 1,
                     "maximum": 10
                   },
                   "Willow Log": {
-                    "multiplicity": {
-                      "9": 4,
-                      "2": 3,
-                      "7": 2,
-                      "5": 2,
-                      "1": 1,
-                      "4": 1,
-                      "3": 1
-                    },
-                    "total": 74,
+                    "multiplicity": {},
+                    "total": 204,
                     "minimum": 1,
-                    "maximum": 9
+                    "maximum": 10
+                  },
+                  "Sageberry Bush Seed": {
+                    "multiplicity": {
+                      "1": 2
+                    },
+                    "total": 2,
+                    "minimum": 1,
+                    "maximum": 1
+                  },
+                  "Mysterious Seed": {
+                    "multiplicity": {
+                      "1": 1
+                    },
+                    "total": 1,
+                    "minimum": 1,
+                    "maximum": 1
                   }
                 }
               }
@@ -9543,60 +9891,50 @@
           "1": {
             "1": {
               "Spriggan": {
-                "kills": 15,
+                "kills": 52,
                 "loot": {
                   "Yew Log": {
                     "multiplicity": {
-                      "4": 3,
-                      "8": 2,
-                      "2": 1
+                      "4": 4,
+                      "8": 3,
+                      "2": 4,
+                      "9": 3,
+                      "5": 2,
+                      "3": 2
                     },
-                    "total": 30,
+                    "total": 91,
                     "minimum": 2,
-                    "maximum": 8
+                    "maximum": 9
                   },
                   "Log": {
-                    "multiplicity": {
-                      "2": 2,
-                      "6": 2
-                    },
-                    "total": 16,
-                    "minimum": 2,
-                    "maximum": 6
+                    "multiplicity": {},
+                    "total": 55,
+                    "minimum": 1,
+                    "maximum": 10
                   },
                   "Maple Log": {
-                    "multiplicity": {
-                      "6": 1,
-                      "7": 1,
-                      "9": 1
-                    },
-                    "total": 22,
-                    "minimum": 6,
-                    "maximum": 9
+                    "multiplicity": {},
+                    "total": 100,
+                    "minimum": 1,
+                    "maximum": 10
                   },
                   "Oak Log": {
                     "multiplicity": {},
-                    "total": 48,
+                    "total": 95,
                     "minimum": 1,
                     "maximum": 10
                   },
                   "Willow Log": {
-                    "multiplicity": {
-                      "1": 1,
-                      "9": 1,
-                      "5": 1
-                    },
-                    "total": 15,
+                    "multiplicity": {},
+                    "total": 68,
                     "minimum": 1,
-                    "maximum": 9
+                    "maximum": 10
                   },
                   "Branch": {
-                    "multiplicity": {
-                      "2": 1
-                    },
-                    "total": 2,
-                    "minimum": 2,
-                    "maximum": 2
+                    "multiplicity": {},
+                    "total": 79,
+                    "minimum": 1,
+                    "maximum": 10
                   }
                 }
               }
@@ -9611,20 +9949,21 @@
           "1": {
             "1": {
               "Greater Demon": {
-                "kills": 6,
+                "kills": 7,
                 "loot": {
                   "Gold Ore": {
                     "multiplicity": {},
-                    "total": 35,
+                    "total": 52,
                     "minimum": 3,
-                    "maximum": 13
+                    "maximum": 17
                   },
                   "Ichor": {
                     "multiplicity": {
-                      "2": 6
+                      "2": 6,
+                      "1": 1
                     },
-                    "total": 12,
-                    "minimum": 2,
+                    "total": 13,
+                    "minimum": 1,
                     "maximum": 2
                   },
                   "Burnt Fish": {
@@ -9659,6 +9998,14 @@
                     "minimum": 1,
                     "maximum": 1
                   },
+                  "Fire Rune": {
+                    "multiplicity": {
+                      "3": 1
+                    },
+                    "total": 3,
+                    "minimum": 3,
+                    "maximum": 3
+                  },
                   "Ashes": {
                     "multiplicity": {
                       "1": 1
@@ -9676,6 +10023,6 @@
     }
   },
   "header": {
-    "data": "2021-10-05 12:00:01"
+    "data": "2021-10-06 12:00:01"
   }
 }
