@@ -2,6 +2,8 @@
 Files here are pulled from the loot filter server hourly to act
 as a mirror (and reduce calls to the actual server api).
 
+[Github Pages View](https://holychikenz.github.io/LootFilterData)
+
 ### summary.json
 Dictionary containing a sum of all of the drops without any kind of scaling
 applied. Top level keys are integers that represent the zone that the drop was
