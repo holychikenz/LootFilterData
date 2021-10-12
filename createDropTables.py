@@ -36,7 +36,8 @@ def createTables(**kwargs):
                                 # Scrolls, +1 TH and +10% loot
                                 scrollboost = eval(Scroll)
                                 scrollTH = eval(Scroll)
-                                modifier = (1+0.3*(eval(TH)+scrollTH)) * (1 + leadboost) * (1 + 0.1*scrollboost)
+                                modifier = (1+0.03*(eval(TH)+scrollTH)) * (1 + leadboost) * (1 + 0.1*scrollboost)
+                                ## Test
                                 kills =  F["kills"] * modifier
                                 bigmonster["kills"] += kills
                                 for (name, count) in F["loot"].items():
