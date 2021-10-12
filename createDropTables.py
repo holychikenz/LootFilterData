@@ -20,12 +20,12 @@ def createTables(**kwargs):
                 baseDict[Zone] = {}
             for (TH, B) in A.items():
                 for (Scroll, C) in B.items():
-                    for (GroupLead, D) in C.items():
-                        for (GroupSize, E) in D.items():
+                    for (GroupSize, D) in C.items():
+                        for (GroupLead, E) in D.items():
                             for (Monster, F) in E.items():
                                 ## Throw out data when where the "score" affects the drops
                                 ## So if groupsize < zonegroupsize -2 or not 1
-                                if ( zonegroupsize.get(Zone, 1) - 1 > eval(GroupSize) ) and ( GroupSize != 1 ):
+                                if ( zonegroupsize.get(Zone, 1) - 1 > eval(GroupSize) ) and ( eval(GroupSize) != 1 ):
                                     continue
                                 if Monster not in baseDict[Zone]:
                                     baseDict[Zone][Monster] = {"kills":0, "loot":{}}

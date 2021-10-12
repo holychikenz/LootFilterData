@@ -153,16 +153,201 @@
       }
     }
   },
-  "700": {},
+  "700": {
+    "Elite Moss Giant": {
+      "kills": 205.42,
+      "loot": {
+        "Stone": 8995,
+        "Nature Talisman": 175,
+        "Nature Rune": 6625,
+        "Cosmic Rune": 372,
+        "Earth Rune": 633,
+        "Death Rune": 636,
+        "Air Rune": 675,
+        "Water Rune": 659,
+        "Chaos Rune": 540,
+        "Mind Rune": 320,
+        "Stygian Boots": 13,
+        "Blood Rune": 520,
+        "Fire Rune": 719,
+        "Satchel": 18,
+        "Moss Maul": 3
+      }
+    },
+    "Elite Fire Giant": {
+      "kills": 204.23999999999998,
+      "loot": {
+        "Burnt Fish": 31744,
+        "Coal": 23269,
+        "Fire Talisman": 174,
+        "Earth Rune": 1208,
+        "Fire Rune": 6171,
+        "Ashes": 6771,
+        "Water Rune": 943,
+        "Cosmic Rune": 357,
+        "Stygian Boots": 10,
+        "Mysterious Seed": 29,
+        "Air Rune": 833,
+        "Satchel": 23,
+        "Blood Rune": 979,
+        "Ancient Fire Amulet": 4,
+        "Chaos Rune": 318,
+        "Nature Rune": 322,
+        "Mind Rune": 237,
+        "Death Rune": 203,
+        "Fire Orb": 2
+      }
+    },
+    "Elite Ice Giant": {
+      "kills": 201.88,
+      "loot": {
+        "Raw Trout": 1849,
+        "Raw Salmon": 1229,
+        "Raw Lobster": 885,
+        "Mysterious Seed": 35,
+        "Water Talisman": 172,
+        "Water Rune": 8401,
+        "Nature Rune": 332,
+        "Cosmic Rune": 306,
+        "Satchel": 36,
+        "Raw Shrimp": 1761,
+        "Air Rune": 1173,
+        "Death Rune": 329,
+        "Fire Rune": 1031,
+        "Chaos Rune": 332,
+        "Raw Shark": 531,
+        "Blood Rune": 361,
+        "Raw Anchovy": 1500,
+        "Raw Tuna": 691,
+        "Earth Rune": 1077,
+        "Mind Rune": 384,
+        "Stygian Boots": 10,
+        "King's Crown": 4,
+        "Kalanahmatti": 3
+      }
+    },
+    "Chaos Giant": {
+      "kills": 401.4,
+      "loot": {
+        "Chaos Rune": 827,
+        "Cosmic Rune": 4,
+        "Nature Rune": 4,
+        "Air Rune": 7,
+        "Useless Scraps": 1,
+        "Earth Rune": 3,
+        "Stygian Boots": 1,
+        "Water Rune": 3,
+        "Fire Rune": 7,
+        "Mind Rune": 2,
+        "Death Rune": 3,
+        "Chaos Talisman": 1,
+        "Blood Rune": 3
+      }
+    },
+    "Elite Chaos Giant": {
+      "kills": 198.33999999999997,
+      "loot": {
+        "Chaos Talisman": 169,
+        "Earth Rune": 721,
+        "Chaos Rune": 6605,
+        "Satchel": 29,
+        "Useless Scraps": 15,
+        "Blood Rune": 683,
+        "Death Rune": 806,
+        "Mind Rune": 752,
+        "Cosmic Rune": 673,
+        "Mysterious Seed": 31,
+        "Air Rune": 763,
+        "Fire Rune": 610,
+        "Stygian Boots": 16,
+        "Nature Rune": 614,
+        "Scroll of Fortitude": 8,
+        "Ancient Nature Amulet": 3,
+        "Crystal Mace": 1
+      }
+    },
+    "The Advisor": {
+      "kills": 198.33999999999997,
+      "loot": {
+        "Blood Talisman": 169,
+        "Earth Rune": 2478,
+        "Fire Rune": 2566,
+        "Blood Rune": 2377,
+        "Death Rune": 8366,
+        "Nature Rune": 4676,
+        "Stygian Ore": 8765,
+        "Stygian Bar": 1466,
+        "Air Rune": 2890,
+        "Water Rune": 2747,
+        "Chaos Rune": 2438,
+        "Cosmic Rune": 2357,
+        "Mysterious Seed": 15,
+        "Mind Rune": 2393,
+        "Book": 19,
+        "Satchel": 24,
+        "Chorus of Souls": 5,
+        "Stygian Boots": 1,
+        "Decayed Cloak": 3,
+        "Ichor": 16
+      }
+    },
+    "Giant King": {
+      "kills": 195.98,
+      "loot": {
+        "Stone": 168
+      }
+    },
+    "Enraged Giant King": {
+      "kills": 191.26000000000002,
+      "loot": {
+        "Giant Scraps": 3398,
+        "Shapeless Scythe": 1
+      }
+    },
+    "Giant's Keep": {
+      "kills": 183.0,
+      "loot": {
+        "Gold": 3447971,
+        "Mysterious Seed": 410,
+        "Emerald": 103,
+        "Chaos Talisman": 166,
+        "Air Rune": 15296,
+        "Earth Rune": 14150,
+        "Fire Rune": 12722,
+        "Death Rune": 14471,
+        "Mind Rune": 2350,
+        "Cosmic Rune": 2376,
+        "Satchel": 390,
+        "Giant Scraps": 3141,
+        "Sapphire": 265,
+        "Blood Talisman": 165,
+        "Nature Talisman": 155,
+        "Nature Rune": 11514,
+        "Diamond": 26,
+        "Fire Talisman": 194,
+        "Water Talisman": 172,
+        "Water Rune": 12739,
+        "Blood Rune": 14369,
+        "Stygian Ore": 1794,
+        "Black Opal": 3,
+        "Giant Scroll": 14,
+        "Chaos Rune": 13657,
+        "Ruby": 36,
+        "Stygian Boots": 29,
+        "Giant King's Jewel": 6,
+        "Shapeless Scythe": 2
+      }
+    }
+  },
   "29": {
     "Chaotic Abomination": {
-      "kills": 22897.18,
+      "kills": 22899.72,
       "loot": {
-        "Chaos Rune": 57379,
+        "Chaos Rune": 57385,
         "Earth Rune": 294,
         "Cosmic Rune": 351,
         "Air Rune": 382,
-        "Mind Rune": 337,
+        "Mind Rune": 340,
         "Stygian Boots": 5,
         "Blood Rune": 338,
         "Fire Rune": 382,
@@ -181,19 +366,19 @@
       }
     },
     "Chaos Giant": {
-      "kills": 29940.360000000004,
+      "kills": 29944.230000000003,
       "loot": {
-        "Chaos Rune": 73439,
+        "Chaos Rune": 73454,
         "Blood Rune": 490,
         "Chaos Talisman": 44,
         "Nature Rune": 462,
         "Death Rune": 479,
         "Earth Rune": 470,
-        "Mysterious Seed": 36,
+        "Mysterious Seed": 37,
         "Mind Rune": 516,
         "Cosmic Rune": 450,
         "Useless Scraps": 39,
-        "Fire Rune": 448,
+        "Fire Rune": 450,
         "Water Rune": 464,
         "Air Rune": 481,
         "Chaos Fragment": 23,
@@ -218,7 +403,73 @@
       }
     }
   },
-  "702": {},
+  "702": {
+    "Black Knight": {
+      "kills": 78.0,
+      "loot": {
+        "Gold": 20934
+      }
+    },
+    "Black Knight Titan": {
+      "kills": 48.0,
+      "loot": {
+        "Gold": 589212,
+        "Satchel": 5,
+        "Obsidian Helm": 22,
+        "Obsidian Plate Leggings": 3,
+        "Stygian Boots": 3,
+        "Black Knight's Gauntlets": 2,
+        "Obsidian Greatsword": 5,
+        "Obsidian Chainmail": 2,
+        "Obsidian Daggers": 4,
+        "Mithril Boots": 2,
+        "Obsidian Boots": 2,
+        "Obsidian Full Helm": 2,
+        "Mysterious Seed": 1,
+        "Obsidian Scimitar": 2
+      }
+    },
+    "Familiar Stranger": {
+      "kills": 12.0,
+      "loot": {
+        "Stygian Ore": 464,
+        "Stygian Bar": 130,
+        "Blood Talisman": 12,
+        "Air Rune": 234,
+        "Earth Rune": 253,
+        "Fire Rune": 288,
+        "Water Rune": 156,
+        "Blood Rune": 160,
+        "Death Rune": 569,
+        "Chaos Rune": 276,
+        "Nature Rune": 357,
+        "Mind Rune": 198,
+        "Cosmic Rune": 191,
+        "Ichor": 91,
+        "Satchel": 1,
+        "Mysterious Seed": 1,
+        "Stygian Boots": 1
+      }
+    },
+    "Black Knight's Fortress": {
+      "kills": 12.0,
+      "loot": {
+        "Gold": 3735045,
+        "Obsidian Scimitar": 23,
+        "Obsidian Battleaxe": 24,
+        "Obsidian Daggers": 18,
+        "Obsidian Greatsword": 7,
+        "Obsidian Helm": 11,
+        "Obsidian Shield": 23,
+        "Obsidian Breastplate": 27,
+        "Obsidian Chainmail": 39,
+        "Obsidian Plate Leggings": 8,
+        "Obsidian Boots": 9,
+        "Mithril Boots": 14,
+        "Obsidian Full Helm": 16
+      }
+    }
+  },
   "606": {
     "Elite Moss Giant": {
       "kills": 31.443999999999996,
