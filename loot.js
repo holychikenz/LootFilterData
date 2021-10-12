@@ -29,6 +29,12 @@ class lootshow {
       zoneSelector.append(newoption)
     }
     zoneSelector.addEventListener("change", ()=>self.updateView(self));
+    let kph = document.getElementById("kph")
+    let th = document.getElementById("treasure")
+    let scroll = document.getElementById("scroll")
+    kph.addEventListener("change", ()=>self.updateView(self))
+    th.addEventListener("change", ()=>self.updateView(self))
+    scroll.addEventListener("change", ()=>self.updateView(self))
     self.updateView(self)
     document.body.append(self.dom)
   }
@@ -48,6 +54,7 @@ class lootshow {
     self.dom.innerHTML = ""
     let newdiv = document.createElement("div")
     // Convert dictionary to a set of tables
+    let zoneMarket = 0
     for( const [monster, log] of Object.entries(dtable) ){
       let market = 0
       let title = document.createElement("h3")
@@ -96,12 +103,22 @@ class lootshow {
         goldpk.innerText = gpk.toFixed(2)
         market += gpk
       }
+      // add to zoneMarket
+      try{
+        zoneMarket += market * zoneFrequency[zonevalue][monster]
+      } catch(error) {};
       newdiv.append(table)
       // Default sort
       sortTable(table, 1, "num")
       // Summary in header
-      title.innerText = `${monster}: ${(log.kills).toFixed(0)} kills -> ${market.toFixed(0)} gp/kill`
+      title.innerText = `${monster}: ${numberWithCommas((log.kills).toFixed(0))} kills -> ${numberWithCommas(market.toFixed(0))} gp/kill`
     }
+    // Update GPH
+    let kph = document.getElementById("kph")
+    let th = document.getElementById("treasure")
+    let scroll = document.getElementById("scroll")
+    let gph = document.getElementById("gph")
+    gph.innerText = numberWithCommas((zoneMarket * kph.value * (1+th.value*0.03+scroll.value*0.03) * (1 + 0.1*scroll.value)).toFixed(0))
     msg = JSON.stringify(dtable)
     //self.dom.innerText=msg
     self.dom.append(newdiv)
@@ -187,4 +204,25 @@ const getJSON = async url => {
   } catch(error) {
     return error;
   }
+}
+
+const zoneFrequency = {
+  "11": {"Guard": 0.8, "Black Knight": 0.2},
+  "13": {"Deadly Red Spider": 0.4, "Lesser Demon": 0.6},
+  "20": {"Greater Demon": 1.0},
+  "23": {"Goblin": 4/9, "Imp": 4/9, "Greater Imp": 1/9},
+  "26": {"Spriggan": 1.0},
+  "27": {"Fire Giant": 1/3, "Ice Giant": 1/3, "Moss Giant": 1/3},
+  "28": {"Corrupted Tree": 4/9, "Infected Naga": 4/9, "Bone Giant": 1/9},
+  "29": {"Chaos Giant": 1/1.75, "Chaotic Abomination": 0.75/1.75},
+  "605": {"Elite Black Knight": 1},
+  "606": {"Elite Moss Giant": 1/3, "Elite Ice Giant": 1/3, "Elite Fire Giant": 1/3},
+  "607": {"Elite Infected Naga": 2/3, "Elite Bone Giant": 1/3},
+  "613": {"Elite Chaos Giant": 1},
+  "700": {"Chaos Giant": 2, "Elite Chaos Giant": 1, "Elite Fire Giant": 1, "Elite Ice Giant": 1, "Elite Moss Giant": 1, "Enraged Giant King": 1, "Giant King": 1, "Giant's Keep": 1, "The Advisor": 1},
+  "702": {"Black Knight": 7, "Black Knight Titan": 4, "Familiar Stranger": 1, "Black Knight's Fortress": 1},
+}
+
+function numberWithCommas(x) {
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
