@@ -66,9 +66,13 @@ class lootshow {
       let dropFreq = document.createElement("th")
       dropFreq.innerText = "Drop Frequency"
       dropFreq.addEventListener('click', ()=>sortTable(table, 2, "num"))
+      let goldPerKill = document.createElement("th")
+      goldPerKill.innerText = "Gold Per Kill"
+      goldPerKill.addEventListener('click', ()=>sortTable(table, 3, "num"))
       head.append(itemName)
       head.append(dropCount)
       head.append(dropFreq)
+      head.append(goldPerKill)
       table.append(head)
       for( const [item, stats] of Object.entries(log.loot) ){
         let row = document.createElement("tr")
@@ -82,12 +86,15 @@ class lootshow {
         let frequency = document.createElement("td")
         row.append(frequency)
         frequency.innerText = (stats/log.kills).toFixed(4)
+        let goldpk = document.createElement("td")
+        row.append(goldpk)
         table.append(row)
         // Get market value
         let marketValue = self.itemdata[item]
         marketValue = (typeof(marketValue) === 'undefined')? 1 : marketValue
-        console.log(item, marketValue)
-        market += marketValue * (stats/log.kills)
+        let gpk = marketValue * (stats/log.kills)
+        goldpk.innerText = gpk.toFixed(2)
+        market += gpk
       }
       newdiv.append(table)
       // Default sort
