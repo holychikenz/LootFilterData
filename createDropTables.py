@@ -1,6 +1,7 @@
 import json
 import os
 import datetime as dt
+import os
 
 # Zone specific modifications
 zonegroupsize = {"29":2, "700":5, "701":3, "702":3}
@@ -11,8 +12,9 @@ zonegroupsize = {"29":2, "700":5, "701":3, "702":3}
 def createTables(**kwargs):
     # Here, using what we know about scaling, create a base table for each zone
     baseDict = {}
-    infile = kwargs.get("infile", "summary.json")
-    outfile = kwargs.get("outfile", "compiledTables.json")
+    pathToFile = os.path.abspath(os.path.dirname(__file__))
+    infile = kwargs.get("infile", f"{pathToFile}/summary.json")
+    outfile = kwargs.get("outfile", f"{pathToFile}/compiledTables.json")
     with open(infile) as jj:
         data = json.load(jj)['log']
         for (Zone, A) in data.items():
