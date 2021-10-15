@@ -357,54 +357,50 @@
   },
   "29": {
     "Chaotic Abomination": {
-      "kills": 34089.102,
+      "kills": 12083.841999999999,
       "loot": {
-        "Chaos Rune": 81494,
-        "Earth Rune": 425,
-        "Cosmic Rune": 520,
-        "Air Rune": 532,
-        "Mind Rune": 498,
-        "Stygian Boots": 9,
-        "Blood Rune": 472,
-        "Fire Rune": 543,
-        "Mysterious Seed": 40,
-        "Nature Rune": 490,
-        "Water Rune": 407,
-        "Useless Scraps": 48,
-        "Death Rune": 474,
-        "Scroll of Fortitude": 7,
-        "Chaos Fragment": 9,
-        "Satchel": 42,
-        "Ancient Fire Amulet": 3,
-        "Chaos Talisman": 38,
-        "Shapeless Scroll": 6,
-        "Ancient Nature Amulet": 7
+        "Chaos Rune": 26046,
+        "Blood Rune": 144,
+        "Mind Rune": 178,
+        "Satchel": 13,
+        "Cosmic Rune": 178,
+        "Nature Rune": 156,
+        "Death Rune": 164,
+        "Earth Rune": 135,
+        "Useless Scraps": 9,
+        "Air Rune": 153,
+        "Fire Rune": 164,
+        "Water Rune": 123,
+        "Mysterious Seed": 9,
+        "Scroll of Fortitude": 2,
+        "Shapeless Scroll": 1,
+        "Chaos Talisman": 13,
+        "Stygian Boots": 4,
+        "Chaos Fragment": 2
       }
     },
     "Chaos Giant": {
-      "kills": 45205.164,
+      "kills": 16369.564000000002,
       "loot": {
-        "Chaos Rune": 106092,
-        "Blood Rune": 699,
-        "Chaos Talisman": 58,
-        "Nature Rune": 682,
-        "Death Rune": 677,
-        "Earth Rune": 666,
-        "Mysterious Seed": 50,
-        "Mind Rune": 726,
-        "Cosmic Rune": 663,
-        "Useless Scraps": 55,
-        "Fire Rune": 684,
-        "Water Rune": 643,
-        "Air Rune": 683,
-        "Chaos Fragment": 26,
-        "Satchel": 51,
-        "Shapeless Scroll": 8,
-        "Stygian Boots": 28,
-        "Scroll of Fortitude": 5,
-        "Ancient Nature Amulet": 8,
-        "Giant Scroll": 1,
-        "Ancient Fire Amulet": 5,
+        "Chaos Rune": 34886,
+        "Blood Rune": 228,
+        "Water Rune": 192,
+        "Air Rune": 217,
+        "Mind Rune": 229,
+        "Death Rune": 216,
+        "Nature Rune": 230,
+        "Fire Rune": 254,
+        "Earth Rune": 201,
+        "Cosmic Rune": 222,
+        "Satchel": 18,
+        "Shapeless Scroll": 2,
+        "Useless Scraps": 16,
+        "Mysterious Seed": 14,
+        "Stygian Boots": 6,
+        "Chaos Talisman": 14,
+        "Chaos Fragment": 3,
+        "Ancient Fire Amulet": 1,
+        "Scroll of Fortitude": 2,
         "Crystal Mace": 1
       }
     }
@@ -417,82 +413,6 @@
         "Dark Key Piece": 1,
         "Obsidian Scimitar": 2,
         "Obsidian Helm": 1
-      }
-    }
-  },
-  "702": {
-    "Black Knight": {
-      "kills": 832.36,
-      "loot": {
-        "Gold": 180403,
-        "Obsidian Full Helm": 2
-      }
-    },
-    "Black Knight Titan": {
-      "kills": 519.52,
-      "loot": {
-        "Gold": 6056546,
-        "Satchel": 26,
-        "Obsidian Helm": 77,
-        "Obsidian Plate Leggings": 25,
-        "Stygian Boots": 8,
-        "Black Knight's Gauntlets": 5,
-        "Obsidian Greatsword": 15,
-        "Obsidian Chainmail": 26,
-        "Obsidian Daggers": 51,
-        "Mithril Boots": 20,
-        "Obsidian Boots": 54,
-        "Obsidian Full Helm": 27,
-        "Mysterious Seed": 37,
-        "Obsidian Scimitar": 25,
-        "Obsidian Shield": 22,
-        "Obsidian Battleaxe": 14,
-        "Black Knight Great Helm": 12,
-        "Obsidian Breastplate": 15
-      }
-    },
-    "Familiar Stranger": {
-      "kills": 129.88,
-      "loot": {
-        "Stygian Ore": 4860,
-        "Stygian Bar": 1065,
-        "Blood Talisman": 112,
-        "Air Rune": 2409,
-        "Earth Rune": 1643,
-        "Fire Rune": 1833,
-        "Water Rune": 1773,
-        "Blood Rune": 1880,
-        "Death Rune": 5554,
-        "Chaos Rune": 1779,
-        "Nature Rune": 3125,
-        "Mind Rune": 1518,
-        "Cosmic Rune": 1325,
-        "Ichor": 113,
-        "Satchel": 20,
-        "Mysterious Seed": 17,
-        "Stygian Boots": 5,
-        "Book": 13,
-        "Decayed Cloak": 1,
-        "Chorus of Souls": 2
-      }
-    },
-    "Black Knight's Fortress": {
-      "kills": 118.19999999999999,
-      "loot": {
-        "Gold": 27760955,
-        "Obsidian Scimitar": 226,
-        "Obsidian Battleaxe": 165,
-        "Obsidian Daggers": 199,
-        "Obsidian Greatsword": 147,
-        "Obsidian Helm": 186,
-        "Obsidian Shield": 177,
-        "Obsidian Breastplate": 172,
-        "Obsidian Chainmail": 221,
-        "Obsidian Plate Leggings": 146,
-        "Obsidian Boots": 170,
-        "Mithril Boots": 163,
-        "Obsidian Full Helm": 136,
-        "Black Knight Titan's Helm": 5
       }
     }
   },
@@ -1163,6 +1083,82 @@
         "Naga's Bracelet": 2,
         "Black Opal": 2,
         "Sapphire": 29
+      }
+    }
+  },
+  "702": {
+    "Black Knight": {
+      "kills": 754.36,
+      "loot": {
+        "Gold": 159469,
+        "Obsidian Full Helm": 2
+      }
+    },
+    "Black Knight Titan": {
+      "kills": 471.52,
+      "loot": {
+        "Gold": 5467334,
+        "Obsidian Greatsword": 10,
+        "Obsidian Shield": 22,
+        "Satchel": 21,
+        "Obsidian Boots": 52,
+        "Obsidian Battleaxe": 14,
+        "Obsidian Plate Leggings": 22,
+        "Mysterious Seed": 36,
+        "Obsidian Daggers": 47,
+        "Obsidian Chainmail": 24,
+        "Black Knight Great Helm": 12,
+        "Obsidian Scimitar": 23,
+        "Obsidian Helm": 55,
+        "Mithril Boots": 18,
+        "Obsidian Breastplate": 15,
+        "Obsidian Full Helm": 25,
+        "Black Knight's Gauntlets": 3,
+        "Stygian Boots": 5
+      }
+    },
+    "Familiar Stranger": {
+      "kills": 117.88,
+      "loot": {
+        "Stygian Ore": 4396,
+        "Stygian Bar": 935,
+        "Blood Talisman": 100,
+        "Water Rune": 1617,
+        "Death Rune": 4985,
+        "Nature Rune": 2768,
+        "Ichor": 22,
+        "Blood Rune": 1720,
+        "Cosmic Rune": 1134,
+        "Air Rune": 2175,
+        "Fire Rune": 1545,
+        "Satchel": 19,
+        "Chaos Rune": 1503,
+        "Mind Rune": 1320,
+        "Book": 13,
+        "Earth Rune": 1390,
+        "Mysterious Seed": 16,
+        "Stygian Boots": 4,
+        "Decayed Cloak": 1,
+        "Chorus of Souls": 2
+      }
+    },
+    "Black Knight's Fortress": {
+      "kills": 106.2,
+      "loot": {
+        "Gold": 24025910,
+        "Obsidian Scimitar": 203,
+        "Obsidian Battleaxe": 141,
+        "Obsidian Daggers": 181,
+        "Obsidian Greatsword": 140,
+        "Obsidian Breastplate": 145,
+        "Obsidian Chainmail": 182,
+        "Mithril Boots": 149,
+        "Obsidian Full Helm": 120,
+        "Obsidian Shield": 154,
+        "Obsidian Boots": 161,
+        "Obsidian Helm": 175,
+        "Obsidian Plate Leggings": 138,
+        "Black Knight Titan's Helm": 5
       }
     }
   }
