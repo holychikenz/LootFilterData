@@ -208,6 +208,7 @@ const getJSON = async url => {
 
 const zoneFrequency = {
   "11": {"Guard": 0.8, "Black Knight": 0.2},
+  "12": {"Small Rat":0.3, "Chicken":0.3, "Cow":0.3, "Goblin":0.1},
   "13": {"Deadly Red Spider": 0.4, "Lesser Demon": 0.6},
   "20": {"Greater Demon": 1.0},
   "23": {"Goblin": 4/9, "Imp": 4/9, "Greater Imp": 1/9},
