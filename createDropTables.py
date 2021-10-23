@@ -3,8 +3,10 @@ import os
 import datetime as dt
 import os
 
-# Zone specific modifications
+# Zone specific modifications, this is to determine double rolls
 zonegroupsize = {"29":2, "700":5, "701":3, "702":3}
+# Zone groupsize exceptions, for CW where we don't really know the mult
+zonegroupsizeexclude = {"29":[2]}
 
 # Read the data directory and create a single final table
 # Read data in order:
@@ -28,6 +30,9 @@ def createTables(**kwargs):
                                 ## Throw out data when where the "score" affects the drops
                                 ## So if groupsize < zonegroupsize -2 or not 1
                                 if ( zonegroupsize.get(Zone, 1) - 1 > eval(GroupSize) ) and ( eval(GroupSize) != 1 ):
+                                    continue
+                                ## Also just annoyances
+                                if ( eval(GroupSize) in zonegroupsizeexclude.get(Zone, []) ):
                                     continue
                                 if Monster not in baseDict[Zone]:
                                     baseDict[Zone][Monster] = {"kills":0, "loot":{}}
