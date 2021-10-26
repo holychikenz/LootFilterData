@@ -62,13 +62,13 @@ class chestshow {
     // Sortable
     itemName.addEventListener('click', ()=>sortTable(table, 0))
     let dropCount = document.createElement("th")
-    dropCount.innerText = "Kills / Drop"
+    dropCount.innerText = "Chests / Drop"
     dropCount.addEventListener('click', ()=>sortTable(table, 1, "num"))
     let dropFreq = document.createElement("th")
     dropFreq.innerText = "Drop Frequency"
     dropFreq.addEventListener('click', ()=>sortTable(table, 2, "num"))
     let goldPerKill = document.createElement("th")
-    goldPerKill.innerText = "Gold Per Kill"
+    goldPerKill.innerText = "Gold Per Chest"
     goldPerKill.addEventListener('click', ()=>sortTable(table, 3, "num"))
     head.append(itemName)
     head.append(dropCount)
