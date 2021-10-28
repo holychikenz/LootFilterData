@@ -8,7 +8,7 @@ zonegroupsize = {"29":2, "604":10, "700":5, "701":3, "702":3}
 # Zone groupsize exceptions, for CW where we don't really know the mult
 zonegroupsizeexclude = {"29":[2]}
 # Some scrolls are weird (info apparently)
-zonescrolloverride = {"604":20}
+zonescrolloverride = {"604":1}
 
 # Read the data directory and create a single final table
 # Read data in order:
