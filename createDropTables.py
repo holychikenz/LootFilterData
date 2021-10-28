@@ -4,7 +4,7 @@ import datetime as dt
 import os
 
 # Zone specific modifications, this is to determine double rolls
-zonegroupsize = {"29":2, "700":5, "701":3, "702":3}
+zonegroupsize = {"29":2, "604":10, "700":5, "701":3, "702":3}
 # Zone groupsize exceptions, for CW where we don't really know the mult
 zonegroupsizeexclude = {"29":[2]}
 

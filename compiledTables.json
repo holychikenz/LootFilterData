@@ -1360,7 +1360,7 @@
   },
   "604": {
     "Ot_to's Prized Hen": {
-      "kills": -131.236,
+      "kills": 61.004,
       "loot": {
         "Feather": 9826,
         "Raw Chicken": 1057,
@@ -1370,7 +1370,7 @@
       }
     },
     "Elite Goblin": {
-      "kills": -98.42699999999999,
+      "kills": 45.753,
       "loot": {
         "Gold": 265026,
         "Copper Ore": 650,
@@ -1388,7 +1388,7 @@
       }
     },
     "Elite Black Knight": {
-      "kills": -98.42699999999999,
+      "kills": 45.753,
       "loot": {
         "Gold": 2276982,
         "Obsidian Scimitar": 11,
@@ -1408,7 +1408,7 @@
       }
     },
     "Elite Lesser Demon": {
-      "kills": -65.618,
+      "kills": 30.502,
       "loot": {
         "Burnt Fish": 27,
         "Gold Ore": 517,
@@ -1437,7 +1437,7 @@
       }
     },
     "Elite Greater Demon": {
-      "kills": -32.809,
+      "kills": 15.251,
       "loot": {
         "Book": 16,
         "Burnt Fish": 12,
@@ -1465,7 +1465,7 @@
       }
     },
     "Elite Infected Naga": {
-      "kills": -65.618,
+      "kills": 30.502,
       "loot": {
         "Gold Ore": 3966,
         "Runite Ore": 1110,
@@ -1482,7 +1482,7 @@
       }
     },
     "Elite Bone Giant": {
-      "kills": -32.809,
+      "kills": 15.251,
       "loot": {
         "Stygian Ore": 1267,
         "Blood Talisman": 13,
@@ -1505,7 +1505,7 @@
       }
     },
     "Elite Spriggan": {
-      "kills": -32.809,
+      "kills": 15.251,
       "loot": {
         "Branch": 373,
         "Log": 911,
@@ -1517,7 +1517,7 @@
       }
     },
     "Elite Fire Giant": {
-      "kills": -32.809,
+      "kills": 15.251,
       "loot": {
         "Burnt Fish": 3679,
         "Coal": 2702,
@@ -1537,7 +1537,7 @@
       }
     },
     "Elite Moss Giant": {
-      "kills": -33.989,
+      "kills": 14.071,
       "loot": {
         "Stone": 822,
         "Nature Talisman": 14,
