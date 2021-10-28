@@ -1360,7 +1360,7 @@
   },
   "604": {
     "Ot_to's Prized Hen": {
-      "kills": 61.004,
+      "kills": 192.24,
       "loot": {
         "Feather": 9826,
         "Raw Chicken": 1057,
@@ -1370,7 +1370,7 @@
       }
     },
     "Elite Goblin": {
-      "kills": 45.753,
+      "kills": 144.18,
       "loot": {
         "Gold": 265026,
         "Copper Ore": 650,
@@ -1388,7 +1388,7 @@
       }
     },
     "Elite Black Knight": {
-      "kills": 45.753,
+      "kills": 144.18,
       "loot": {
         "Gold": 2276982,
         "Obsidian Scimitar": 11,
@@ -1408,7 +1408,7 @@
       }
     },
     "Elite Lesser Demon": {
-      "kills": 30.502,
+      "kills": 96.12,
       "loot": {
         "Burnt Fish": 27,
         "Gold Ore": 517,
@@ -1437,7 +1437,7 @@
       }
     },
     "Elite Greater Demon": {
-      "kills": 15.251,
+      "kills": 48.06,
       "loot": {
         "Book": 16,
         "Burnt Fish": 12,
@@ -1465,7 +1465,7 @@
       }
     },
     "Elite Infected Naga": {
-      "kills": 30.502,
+      "kills": 96.12,
       "loot": {
         "Gold Ore": 3966,
         "Runite Ore": 1110,
@@ -1482,7 +1482,7 @@
       }
     },
     "Elite Bone Giant": {
-      "kills": 15.251,
+      "kills": 48.06,
       "loot": {
         "Stygian Ore": 1267,
         "Blood Talisman": 13,
@@ -1505,7 +1505,7 @@
       }
     },
     "Elite Spriggan": {
-      "kills": 15.251,
+      "kills": 48.06,
       "loot": {
         "Branch": 373,
         "Log": 911,
@@ -1517,7 +1517,7 @@
       }
     },
     "Elite Fire Giant": {
-      "kills": 15.251,
+      "kills": 48.06,
       "loot": {
         "Burnt Fish": 3679,
         "Coal": 2702,
@@ -1537,7 +1537,7 @@
       }
     },
     "Elite Moss Giant": {
-      "kills": 14.071,
+      "kills": 42.72,
       "loot": {
         "Stone": 822,
         "Nature Talisman": 14,
@@ -1556,13 +1556,13 @@
       }
     },
     "Essence of INFO": {
-      "kills": 5.8999999999999995,
+      "kills": 26.7,
       "loot": {
         "Stone": 39576
       }
     },
     "Elite Ice Giant": {
-      "kills": 5.8999999999999995,
+      "kills": 26.7,
       "loot": {
         "Raw Shrimp": 160,
         "Raw Shark": 54,
@@ -1586,7 +1586,7 @@
       }
     },
     "Elite Chaos Giant": {
-      "kills": 5.8999999999999995,
+      "kills": 26.7,
       "loot": {
         "Chaos Talisman": 6,
         "Blood Rune": 86,
@@ -1606,19 +1606,19 @@
       }
     },
     "Giant King": {
-      "kills": 5.8999999999999995,
+      "kills": 26.7,
       "loot": {
         "Stone": 9
       }
     },
     "Enraged Giant King": {
-      "kills": 5.8999999999999995,
+      "kills": 26.7,
       "loot": {
         "Giant Scraps": 212
       }
     },
     "Shard of INFO": {
-      "kills": 5.8999999999999995,
+      "kills": 26.7,
       "loot": {
         "Stone": 7352
       }

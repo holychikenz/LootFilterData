@@ -7,6 +7,8 @@ import os
 zonegroupsize = {"29":2, "604":10, "700":5, "701":3, "702":3}
 # Zone groupsize exceptions, for CW where we don't really know the mult
 zonegroupsizeexclude = {"29":[2]}
+# Some scrolls are weird (info apparently)
+zonescrolloverride = {"604":20}
 
 # Read the data directory and create a single final table
 # Read data in order:
@@ -41,8 +43,10 @@ def createTables(**kwargs):
                                 # TH is 3%, if group lead, big boost
                                 leadboost = (zonegroupsize.get(Zone, 1) - eval(GroupSize))*eval(GroupLead)
                                 # Scrolls, +1 TH and +10% loot
-                                scrollboost = eval(Scroll)
-                                scrollTH = eval(Scroll)
+                                scrollLevel = zonescrolloverride.get(Zone, eval(Scroll))
+                                scrollboost = scrollLevel
+                                scrollTH = scrollLevel
+                                # I could just ignore scroll boost
                                 modifier = (1+0.03*(eval(TH)+scrollTH)) * (1 + leadboost) * (1 + 0.1*scrollboost)
                                 ## Test
                                 kills =  F["kills"] * modifier
