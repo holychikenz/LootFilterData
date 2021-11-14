@@ -1,80 +1,80 @@
 {
   "27": {
     "Fire Giant": {
-      "kills": 212094.88699999993,
+      "kills": 214015.4949999999,
       "loot": {
-        "Fire Rune": 455796,
-        "Burnt Fish": 227798,
-        "Coal": 1464049,
-        "Ashes": 125553,
-        "Earth Rune": 2886,
-        "Nature Rune": 2813,
-        "Cosmic Rune": 2825,
-        "Death Rune": 2630,
-        "Mind Rune": 2807,
-        "Chaos Rune": 2986,
-        "Air Rune": 2867,
-        "Water Rune": 2722,
-        "Mysterious Seed": 213,
-        "Blood Rune": 2699,
-        "Satchel": 199,
-        "Fire Talisman": 187,
+        "Fire Rune": 460133,
+        "Burnt Fish": 229998,
+        "Coal": 1477665,
+        "Ashes": 126673,
+        "Earth Rune": 2900,
+        "Nature Rune": 2836,
+        "Cosmic Rune": 2848,
+        "Death Rune": 2670,
+        "Mind Rune": 2835,
+        "Chaos Rune": 3003,
+        "Air Rune": 2913,
+        "Water Rune": 2763,
+        "Mysterious Seed": 214,
+        "Blood Rune": 2714,
+        "Satchel": 200,
+        "Fire Talisman": 191,
         "Stygian Boots": 122,
-        "Fire Fragment": 106,
+        "Fire Fragment": 108,
         "Fire Orb": 11,
         "Giant Scroll": 22
       }
     },
     "Ice Giant": {
-      "kills": 210807.54099999994,
+      "kills": 212760.1489999999,
       "loot": {
-        "Water Rune": 454931,
-        "Raw Anchovy": 20935,
-        "Raw Lobster": 12987,
-        "Raw Salmon": 15550,
-        "Raw Trout": 17828,
-        "Chaos Rune": 2804,
-        "Raw Tuna": 10303,
-        "Raw Shrimp": 23580,
-        "Fire Rune": 2797,
-        "Cosmic Rune": 2743,
-        "Mind Rune": 2715,
-        "Raw Shark": 7807,
-        "Blood Rune": 2825,
-        "Death Rune": 2721,
-        "Earth Rune": 2551,
-        "Nature Rune": 2706,
-        "Air Rune": 2857,
-        "Stygian Boots": 111,
-        "Satchel": 193,
-        "Water Talisman": 196,
+        "Water Rune": 459620,
+        "Raw Anchovy": 21137,
+        "Raw Lobster": 13104,
+        "Raw Salmon": 15664,
+        "Raw Trout": 17972,
+        "Chaos Rune": 2823,
+        "Raw Tuna": 10386,
+        "Raw Shrimp": 23825,
+        "Fire Rune": 2822,
+        "Cosmic Rune": 2773,
+        "Mind Rune": 2748,
+        "Raw Shark": 7863,
+        "Blood Rune": 2851,
+        "Death Rune": 2742,
+        "Earth Rune": 2568,
+        "Nature Rune": 2731,
+        "Air Rune": 2889,
+        "Stygian Boots": 112,
+        "Satchel": 197,
+        "Water Talisman": 199,
         "Mysterious Seed": 204,
-        "Kalanahmatti": 10,
+        "Kalanahmatti": 11,
         "Ice Fragment": 115,
         "King's Crown": 9,
         "Giant Scroll": 15
       }
     },
     "Moss Giant": {
-      "kills": 211192.34399999992,
+      "kills": 213201.71799999994,
       "loot": {
-        "Stone": 166263,
-        "Nature Rune": 395429,
-        "Fire Rune": 2819,
-        "Cosmic Rune": 2879,
+        "Stone": 167960,
+        "Nature Rune": 399532,
+        "Fire Rune": 2832,
+        "Cosmic Rune": 2903,
         "Nature Fragment": 114,
-        "Earth Rune": 2748,
-        "Blood Rune": 2773,
-        "Air Rune": 2804,
-        "Death Rune": 2723,
-        "Chaos Rune": 2858,
+        "Earth Rune": 2783,
+        "Blood Rune": 2804,
+        "Air Rune": 2822,
+        "Death Rune": 2756,
+        "Chaos Rune": 2877,
         "Stygian Boots": 90,
-        "Mind Rune": 2843,
-        "Water Rune": 2784,
+        "Mind Rune": 2875,
+        "Water Rune": 2811,
         "Giant Scroll": 14,
-        "Nature Talisman": 193,
-        "Satchel": 207,
-        "Mysterious Seed": 223,
+        "Nature Talisman": 197,
+        "Satchel": 208,
+        "Mysterious Seed": 227,
         "Moss Maul": 16
       }
     },
@@ -174,126 +174,173 @@
         "Raw Hammerhead Shark": 2,
         "Raw Great White Shark": 2
       }
+    },
+    "Shipwreck Bay": {
+      "kills": 8.48,
+      "loot": {
+        "Raw Shark": 22,
+        "Seaweed": 17,
+        "Raw Hammerhead Shark": 22,
+        "Rotten Drift Wood": 8,
+        "Sturdy Drift Wood": 13,
+        "Raw Great White Shark": 15,
+        "Raw Megalodon": 3
+      }
+    },
+    "The Open Ocean": {
+      "kills": 39.22,
+      "loot": {
+        "Raw Tuna": 124,
+        "Raw Shark": 99,
+        "Raw Hammerhead Shark": 49,
+        "Seaweed": 12,
+        "Sturdy Drift Wood": 19,
+        "Rotten Drift Wood": 10,
+        "Raw Great White Shark": 6
+      }
+    },
+    "Carefree Day": {
+      "kills": 10.600000000000001,
+      "loot": {
+        "Raw Tuna": 63,
+        "Seaweed": 18,
+        "Rotten Drift Wood": 17,
+        "Sturdy Drift Wood": 23,
+        "Raw Huge Tuna": 11,
+        "Aquamarine": 2
+      }
+    },
+    "Sharks Ate All The Tuna": {
+      "kills": 15.9,
+      "loot": {
+        "Raw Shark": 39,
+        "Raw Hammerhead Shark": 21,
+        "Rotten Drift Wood": 9,
+        "Sturdy Drift Wood": 6,
+        "Seaweed": 5,
+        "Raw Great White Shark": 28,
+        "Raw Tuna": 1
+      }
     }
   },
   "23": {
     "Goblin": {
-      "kills": 249915.56699999995,
+      "kills": 270814.0649999999,
       "loot": {
-        "Goblin Brain": 48884,
-        "Gold": 4971570,
-        "Copper Ore": 13438,
-        "Tin Ore": 13720,
-        "Silver": 4892,
-        "Bronze Boots": 234,
-        "Scrap of Stained Parchment": 293,
-        "Smelly Meat Bait": 5525,
+        "Goblin Brain": 52785,
+        "Gold": 5372163,
+        "Copper Ore": 14499,
+        "Tin Ore": 14794,
+        "Silver": 5321,
+        "Bronze Boots": 250,
+        "Scrap of Stained Parchment": 313,
+        "Smelly Meat Bait": 17276,
         "Satchel": 3,
-        "Bronze Bar": 764,
-        "Iron Boots": 113,
-        "Ladle": 34,
-        "Lesser Ladle": 29,
-        "Stew Stained Page": 20,
-        "Greater Ladle": 28
+        "Bronze Bar": 822,
+        "Iron Boots": 127,
+        "Ladle": 35,
+        "Lesser Ladle": 31,
+        "Stew Stained Page": 23,
+        "Greater Ladle": 30
       }
     },
     "Imp": {
-      "kills": 251506.79599999991,
+      "kills": 272278.959,
       "loot": {
-        "Gold": 663014,
-        "Coal": 73932,
-        "Ashes": 49401,
-        "Burnt Fish": 49383,
-        "Cosmic Rune": 172,
-        "Gold Ore": 2430,
-        "Smelly Meat Bait": 1625,
-        "Death Rune": 173,
-        "Earth Rune": 147,
-        "Mind Rune": 159,
-        "Water Rune": 185,
-        "Blood Rune": 203,
-        "Air Rune": 173,
-        "Fire Rune": 190,
-        "Rune Slate": 164,
-        "Chaos Rune": 142,
-        "Nature Rune": 160,
-        "Scroll": 58,
+        "Gold": 713144,
+        "Coal": 79768,
+        "Ashes": 53386,
+        "Burnt Fish": 53318,
+        "Cosmic Rune": 192,
+        "Gold Ore": 2646,
+        "Smelly Meat Bait": 5551,
+        "Death Rune": 182,
+        "Earth Rune": 154,
+        "Mind Rune": 175,
+        "Water Rune": 199,
+        "Blood Rune": 216,
+        "Air Rune": 186,
+        "Fire Rune": 200,
+        "Rune Slate": 177,
+        "Chaos Rune": 147,
+        "Nature Rune": 173,
+        "Scroll": 65,
         "Mysterious Seed": 2,
-        "Demonic Trial": 11,
-        "Satchel": 3
+        "Demonic Trial": 12,
+        "Satchel": 4
       }
     },
     "Greater Imp": {
-      "kills": 62475.63200000003,
+      "kills": 67722.81600000002,
       "loot": {
-        "Gold": 164788,
-        "Burnt Fish": 12213,
-        "Coal": 18467,
-        "Ashes": 12265,
-        "Gold Ore": 632,
-        "Nature Rune": 39,
-        "Death Rune": 44,
-        "Smelly Meat Bait": 428,
-        "Cosmic Rune": 39,
-        "Chaos Rune": 56,
-        "Air Rune": 43,
-        "Mind Rune": 41,
-        "Earth Rune": 48,
-        "Fire Rune": 39,
-        "Water Rune": 34,
-        "Rune Slate": 34,
-        "Scroll": 17,
+        "Gold": 177471,
+        "Burnt Fish": 13204,
+        "Coal": 19905,
+        "Ashes": 13297,
+        "Gold Ore": 673,
+        "Nature Rune": 42,
+        "Death Rune": 50,
+        "Smelly Meat Bait": 1484,
+        "Cosmic Rune": 41,
+        "Chaos Rune": 59,
+        "Air Rune": 48,
+        "Mind Rune": 44,
+        "Earth Rune": 52,
+        "Fire Rune": 41,
+        "Water Rune": 41,
+        "Rune Slate": 40,
+        "Scroll": 18,
         "Mysterious Seed": 1,
-        "Blood Rune": 29,
-        "Demonic Trial": 2
+        "Blood Rune": 30,
+        "Demonic Trial": 3
       }
     },
     "Sharks Ate All The Tuna": {
-      "kills": 72.08,
+      "kills": 77.38000000000001,
       "loot": {
-        "Raw Shark": 167,
+        "Raw Shark": 181,
         "Seaweed": 56,
-        "Raw Hammerhead Shark": 59,
-        "Rotten Drift Wood": 39,
-        "Raw Great White Shark": 61,
+        "Raw Hammerhead Shark": 64,
+        "Rotten Drift Wood": 41,
+        "Raw Great White Shark": 62,
         "Sturdy Drift Wood": 26,
         "Raw Tuna": 7
       }
     },
     "The Open Ocean": {
-      "kills": 124.02000000000001,
+      "kills": 136.74,
       "loot": {
-        "Raw Tuna": 382,
-        "Raw Shark": 231,
-        "Seaweed": 38,
-        "Raw Hammerhead Shark": 147,
-        "Rotten Drift Wood": 62,
-        "Sturdy Drift Wood": 67,
-        "Raw Great White Shark": 16
+        "Raw Tuna": 414,
+        "Raw Shark": 243,
+        "Seaweed": 42,
+        "Raw Hammerhead Shark": 170,
+        "Rotten Drift Wood": 64,
+        "Sturdy Drift Wood": 72,
+        "Raw Great White Shark": 17
       }
     },
     "Carefree Day": {
-      "kills": 69.96000000000001,
+      "kills": 75.26,
       "loot": {
-        "Raw Tuna": 483,
-        "Sturdy Drift Wood": 168,
-        "Raw Huge Tuna": 56,
-        "Seaweed": 118,
-        "Rotten Drift Wood": 86,
+        "Raw Tuna": 501,
+        "Sturdy Drift Wood": 178,
+        "Raw Huge Tuna": 60,
+        "Seaweed": 128,
+        "Rotten Drift Wood": 94,
         "Aquamarine": 16,
         "Sunken Treasure": 1
       }
     },
     "Shipwreck Bay": {
-      "kills": 21.200000000000003,
+      "kills": 25.44,
       "loot": {
-        "Raw Shark": 62,
-        "Seaweed": 45,
-        "Raw Great White Shark": 44,
-        "Raw Hammerhead Shark": 34,
-        "Sturdy Drift Wood": 47,
-        "Rotten Drift Wood": 36,
-        "Raw Megalodon": 12,
+        "Raw Shark": 69,
+        "Seaweed": 53,
+        "Raw Great White Shark": 52,
+        "Raw Hammerhead Shark": 40,
+        "Sturdy Drift Wood": 54,
+        "Rotten Drift Wood": 42,
+        "Raw Megalodon": 15,
         "Aquamarine": 2
       }
     },
@@ -365,38 +412,38 @@
   },
   "11": {
     "Guard": {
-      "kills": 1279182.075000001,
+      "kills": 1285842.405000001,
       "loot": {
-        "Gold": 506030558,
+        "Gold": 508835214,
         "Dark Key Piece": 197,
-        "Sapphire": 644,
+        "Sapphire": 650,
         "Black Opal": 76,
         "Mysterious Seed": 70,
-        "Iron Boots": 763,
-        "Ruby": 218,
-        "Emerald": 341,
+        "Iron Boots": 766,
+        "Ruby": 221,
+        "Emerald": 342,
         "Diamond": 177,
-        "Satchel": 34
+        "Satchel": 35
       }
     },
     "Black Knight": {
-      "kills": 319616.1110000001,
+      "kills": 321267.26100000006,
       "loot": {
-        "Gold": 63759635,
-        "Obsidian Daggers": 420,
-        "Obsidian Boots": 265,
+        "Gold": 64146704,
+        "Obsidian Daggers": 423,
+        "Obsidian Boots": 266,
         "Obsidian Scimitar": 271,
-        "Dark Key Piece": 156,
-        "Obsidian Full Helm": 249,
+        "Dark Key Piece": 157,
+        "Obsidian Full Helm": 251,
         "Obsidian Helm": 389,
         "Obsidian Chainmail": 139,
         "Mithril Boots": 120,
         "Obsidian Breastplate": 103,
-        "Obsidian Plate Leggings": 223,
-        "Obsidian Battleaxe": 140,
+        "Obsidian Plate Leggings": 226,
+        "Obsidian Battleaxe": 141,
         "Black Knight's Trial": 23,
-        "Obsidian Shield": 272,
-        "Obsidian Greatsword": 107,
+        "Obsidian Shield": 273,
+        "Obsidian Greatsword": 109,
         "Mysterious Seed": 12,
         "Satchel": 8
       }
@@ -435,12 +482,16 @@
       }
     },
     "The Still Lake": {
-      "kills": 50.559999999999995,
+      "kills": 76.53,
       "loot": {
-        "Raw Lobster": 329,
-        "Seaweed": 13,
-        "Raw Magnetic Minnow": 9,
-        "Raw Crab": 35
+        "Raw Lobster": 411,
+        "Seaweed": 22,
+        "Raw Magnetic Minnow": 31,
+        "Raw Crab": 66,
+        "Raw Tigerfish": 15,
+        "Raw Slippery Eel": 15,
+        "Rotten Drift Wood": 10,
+        "Sturdy Drift Wood": 10
       }
     },
     "Cage Match!": {
@@ -555,21 +606,21 @@
   },
   "700": {
     "Elite Moss Giant": {
-      "kills": 7206.984,
+      "kills": 7219.964000000001,
       "loot": {
-        "Stone": 309904,
-        "Nature Talisman": 6098,
-        "Nature Rune": 223772,
-        "Cosmic Rune": 11360,
+        "Stone": 310345,
+        "Nature Talisman": 6109,
+        "Nature Rune": 224153,
+        "Cosmic Rune": 11385,
         "Earth Rune": 22181,
-        "Death Rune": 23938,
-        "Air Rune": 22846,
-        "Water Rune": 23201,
-        "Chaos Rune": 21782,
-        "Mind Rune": 11358,
+        "Death Rune": 23968,
+        "Air Rune": 22876,
+        "Water Rune": 23229,
+        "Chaos Rune": 21888,
+        "Mind Rune": 11363,
         "Stygian Boots": 550,
-        "Blood Rune": 22834,
-        "Fire Rune": 21562,
+        "Blood Rune": 22880,
+        "Fire Rune": 21586,
         "Satchel": 761,
         "Mysterious Seed": 74,
         "Moss Maul": 49,
@@ -577,71 +628,71 @@
       }
     },
     "Elite Fire Giant": {
-      "kills": 7182.744,
+      "kills": 7195.723999999999,
       "loot": {
-        "Burnt Fish": 1076349,
-        "Coal": 822356,
-        "Fire Talisman": 6078,
-        "Earth Rune": 37724,
-        "Fire Rune": 212437,
-        "Ashes": 232104,
-        "Water Rune": 36831,
-        "Cosmic Rune": 11312,
+        "Burnt Fish": 1078112,
+        "Coal": 823946,
+        "Fire Talisman": 6089,
+        "Earth Rune": 37793,
+        "Fire Rune": 212776,
+        "Ashes": 232526,
+        "Water Rune": 36937,
+        "Cosmic Rune": 11339,
         "Stygian Boots": 335,
         "Mysterious Seed": 697,
-        "Air Rune": 36633,
-        "Satchel": 684,
-        "Blood Rune": 36385,
+        "Air Rune": 36732,
+        "Satchel": 685,
+        "Blood Rune": 36443,
         "Ancient Fire Amulet": 126,
-        "Chaos Rune": 11350,
-        "Nature Rune": 11363,
-        "Mind Rune": 11099,
-        "Death Rune": 10332,
-        "Fire Orb": 60,
+        "Chaos Rune": 11360,
+        "Nature Rune": 11411,
+        "Mind Rune": 11108,
+        "Death Rune": 10341,
+        "Fire Orb": 61,
         "RISE OF INFO": 5
       }
     },
     "Elite Ice Giant": {
-      "kills": 7137.904,
+      "kills": 7150.884,
       "loot": {
-        "Raw Trout": 52899,
-        "Raw Salmon": 46571,
-        "Raw Lobster": 37474,
-        "Mysterious Seed": 1101,
-        "Water Talisman": 6041,
-        "Water Rune": 274464,
+        "Raw Trout": 52977,
+        "Raw Salmon": 46724,
+        "Raw Lobster": 37507,
+        "Mysterious Seed": 1103,
+        "Water Talisman": 6052,
+        "Water Rune": 274792,
         "Nature Rune": 11137,
         "Cosmic Rune": 10642,
-        "Satchel": 1183,
-        "Raw Shrimp": 70366,
-        "Air Rune": 37698,
-        "Death Rune": 11786,
-        "Fire Rune": 37274,
-        "Chaos Rune": 10747,
-        "Raw Shark": 19582,
+        "Satchel": 1186,
+        "Raw Shrimp": 70481,
+        "Air Rune": 37796,
+        "Death Rune": 11850,
+        "Fire Rune": 37334,
+        "Chaos Rune": 10751,
+        "Raw Shark": 19623,
         "Blood Rune": 10943,
-        "Raw Anchovy": 62997,
-        "Raw Tuna": 27589,
-        "Earth Rune": 36359,
-        "Mind Rune": 11343,
+        "Raw Anchovy": 63045,
+        "Raw Tuna": 27648,
+        "Earth Rune": 36483,
+        "Mind Rune": 11350,
         "Stygian Boots": 476,
         "King's Crown": 33,
-        "Kalanahmatti": 47,
+        "Kalanahmatti": 48,
         "RISE OF INFO": 3
       }
     },
     "Chaos Giant": {
-      "kills": 14237.233,
+      "kills": 14263.193,
       "loot": {
-        "Chaos Rune": 32124,
+        "Chaos Rune": 32166,
         "Cosmic Rune": 152,
         "Nature Rune": 216,
         "Air Rune": 164,
-        "Mind Rune": 187,
+        "Mind Rune": 190,
         "Fire Rune": 207,
         "Earth Rune": 203,
         "Water Rune": 165,
-        "Chaos Talisman": 14,
+        "Chaos Talisman": 15,
         "Blood Rune": 189,
         "Useless Scraps": 16,
         "Death Rune": 163,
@@ -652,22 +703,22 @@
       }
     },
     "Elite Chaos Giant": {
-      "kills": 7081.993999999999,
+      "kills": 7094.973999999999,
       "loot": {
-        "Chaos Talisman": 5995,
-        "Earth Rune": 27232,
-        "Chaos Rune": 238332,
-        "Satchel": 1167,
-        "Useless Scraps": 443,
-        "Blood Rune": 27800,
-        "Death Rune": 28128,
-        "Mind Rune": 27299,
-        "Cosmic Rune": 26962,
-        "Mysterious Seed": 1050,
-        "Air Rune": 26136,
-        "Fire Rune": 27027,
-        "Stygian Boots": 750,
-        "Nature Rune": 26895,
+        "Chaos Talisman": 6006,
+        "Earth Rune": 27260,
+        "Chaos Rune": 238732,
+        "Satchel": 1169,
+        "Useless Scraps": 444,
+        "Blood Rune": 27847,
+        "Death Rune": 28204,
+        "Mind Rune": 27323,
+        "Cosmic Rune": 26973,
+        "Mysterious Seed": 1053,
+        "Air Rune": 26224,
+        "Fire Rune": 27070,
+        "Stygian Boots": 751,
+        "Nature Rune": 26976,
         "Scroll of Fortitude": 219,
         "Ancient Fire Amulet": 57,
         "Ancient Nature Amulet": 78,
@@ -676,98 +727,162 @@
       }
     },
     "The Advisor": {
-      "kills": 7040.6939999999995,
+      "kills": 7053.673999999999,
       "loot": {
-        "Blood Talisman": 5959,
-        "Earth Rune": 89392,
-        "Fire Rune": 91095,
-        "Blood Rune": 91356,
-        "Death Rune": 291375,
-        "Nature Rune": 179374,
-        "Stygian Ore": 306652,
-        "Stygian Bar": 46345,
-        "Air Rune": 90431,
-        "Water Rune": 87677,
-        "Chaos Rune": 90468,
-        "Cosmic Rune": 89348,
-        "Mysterious Seed": 746,
-        "Mind Rune": 88506,
-        "Book": 680,
-        "Satchel": 679,
+        "Blood Talisman": 5970,
+        "Earth Rune": 89590,
+        "Fire Rune": 91305,
+        "Blood Rune": 91461,
+        "Death Rune": 291958,
+        "Nature Rune": 179661,
+        "Stygian Ore": 307471,
+        "Stygian Bar": 46386,
+        "Air Rune": 90615,
+        "Water Rune": 87941,
+        "Chaos Rune": 90643,
+        "Cosmic Rune": 89451,
+        "Mysterious Seed": 750,
+        "Mind Rune": 88720,
+        "Book": 682,
+        "Satchel": 682,
         "Chorus of Souls": 63,
         "Stygian Boots": 190,
-        "Ichor": 34494,
+        "Ichor": 34602,
         "Decayed Cloak": 89
       }
     },
     "Giant King": {
-      "kills": 6920.878999999999,
+      "kills": 6933.8589999999995,
       "loot": {
-        "Stone": 5857
+        "Stone": 5868
       }
     },
     "Enraged Giant King": {
-      "kills": 6822.298999999998,
+      "kills": 6835.278999999998,
       "loot": {
-        "Giant Scraps": 123452,
+        "Giant Scraps": 123686,
         "Giant King's Jewel": 42,
         "Shapeless Scythe": 28
       }
     },
     "Giant's Keep": {
-      "kills": 6719.998999999999,
+      "kills": 6730.618999999998,
       "loot": {
-        "Gold": 128631687,
-        "Mysterious Seed": 14277,
-        "Emerald": 3956,
-        "Chaos Talisman": 6732,
-        "Air Rune": 514157,
-        "Earth Rune": 497046,
-        "Fire Rune": 498938,
-        "Death Rune": 496994,
-        "Mind Rune": 84560,
-        "Cosmic Rune": 87046,
-        "Satchel": 14199,
-        "Giant Scraps": 112726,
-        "Sapphire": 10077,
-        "Blood Talisman": 6611,
-        "Nature Talisman": 6703,
-        "Nature Rune": 510434,
+        "Gold": 128823605,
+        "Mysterious Seed": 14302,
+        "Emerald": 3960,
+        "Chaos Talisman": 6747,
+        "Air Rune": 515341,
+        "Earth Rune": 497715,
+        "Fire Rune": 499385,
+        "Death Rune": 497963,
+        "Mind Rune": 84638,
+        "Cosmic Rune": 87221,
+        "Satchel": 14221,
+        "Giant Scraps": 112909,
+        "Sapphire": 10087,
+        "Blood Talisman": 6622,
+        "Nature Talisman": 6721,
+        "Nature Rune": 510866,
         "Diamond": 655,
-        "Fire Talisman": 6821,
-        "Water Talisman": 6520,
-        "Water Rune": 507770,
-        "Blood Rune": 514845,
-        "Stygian Ore": 67321,
+        "Fire Talisman": 6828,
+        "Water Talisman": 6535,
+        "Water Rune": 508641,
+        "Blood Rune": 515714,
+        "Stygian Ore": 67496,
         "Black Opal": 204,
-        "Giant Scroll": 250,
-        "Chaos Rune": 502645,
-        "Ruby": 1590,
-        "Stygian Boots": 1277,
+        "Giant Scroll": 251,
+        "Chaos Rune": 503700,
+        "Ruby": 1591,
+        "Stygian Boots": 1278,
         "Giant King's Jewel": 365,
-        "Shapeless Scythe": 64
+        "Shapeless Scythe": 65
+      }
+    },
+    "Carefree Day": {
+      "kills": 11.0,
+      "loot": {
+        "Raw Tuna": 80,
+        "Raw Huge Tuna": 32,
+        "Rotten Drift Wood": 15,
+        "Sturdy Drift Wood": 25,
+        "Seaweed": 25
+      }
+    },
+    "Sharks Ate All The Tuna": {
+      "kills": 7.0,
+      "loot": {
+        "Raw Shark": 20,
+        "Raw Great White Shark": 7,
+        "Raw Hammerhead Shark": 12,
+        "Raw Tuna": 1,
+        "Raw Megalodon": 4,
+        "Seaweed": 1,
+        "Sturdy Drift Wood": 4
+      }
+    },
+    "The Open Ocean": {
+      "kills": 22.0,
+      "loot": {
+        "Raw Tuna": 91,
+        "Raw Shark": 60,
+        "Seaweed": 4,
+        "Raw Great White Shark": 12,
+        "Sturdy Drift Wood": 11,
+        "Rotten Drift Wood": 8,
+        "Raw Hammerhead Shark": 24,
+        "Raw Huge Tuna": 4
+      }
+    },
+    "Shipwreck Bay": {
+      "kills": 10.0,
+      "loot": {
+        "Raw Shark": 34,
+        "Seaweed": 24,
+        "Raw Great White Shark": 28,
+        "Raw Hammerhead Shark": 26,
+        "Sturdy Drift Wood": 19,
+        "Rotten Drift Wood": 20,
+        "Raw Megalodon": 14
+      }
+    },
+    "Almost Jurassic": {
+      "kills": 7.0,
+      "loot": {
+        "Raw Megalodon": 8,
+        "Raw Huge Tuna": 45,
+        "Raw Great White Shark": 11,
+        "Raw Hammerhead Shark": 7
+      }
+    },
+    "Playtester's Paradise": {
+      "kills": 1.0,
+      "loot": {
+        "Raw Megalodon": 3,
+        "Raw Great White Shark": 1,
+        "Raw Hammerhead Shark": 3
       }
     }
   },
   "29": {
     "Chaotic Abomination": {
-      "kills": 378249.69800000015,
+      "kills": 378526.77800000017,
       "loot": {
-        "Chaos Rune": 813384,
-        "Earth Rune": 4692,
-        "Cosmic Rune": 5143,
-        "Air Rune": 5020,
-        "Mind Rune": 5108,
+        "Chaos Rune": 813946,
+        "Earth Rune": 4694,
+        "Cosmic Rune": 5153,
+        "Air Rune": 5026,
+        "Mind Rune": 5113,
         "Stygian Boots": 178,
-        "Blood Rune": 4918,
-        "Fire Rune": 4981,
+        "Blood Rune": 4922,
+        "Fire Rune": 4984,
         "Mysterious Seed": 382,
-        "Nature Rune": 4964,
-        "Water Rune": 4867,
+        "Nature Rune": 4969,
+        "Water Rune": 4870,
         "Useless Scraps": 523,
-        "Death Rune": 4670,
-        "Scroll of Fortitude": 68,
-        "Satchel": 406,
+        "Death Rune": 4673,
+        "Scroll of Fortitude": 69,
+        "Satchel": 407,
         "Chaos Talisman": 376,
         "Chaos Fragment": 89,
         "Ancient Fire Amulet": 19,
@@ -777,21 +892,21 @@
       }
     },
     "Chaos Giant": {
-      "kills": 504464.8899999999,
+      "kills": 504909.20999999996,
       "loot": {
-        "Chaos Rune": 1076577,
+        "Chaos Rune": 1077511,
         "Blood Rune": 6397,
-        "Chaos Talisman": 472,
-        "Nature Rune": 6647,
-        "Death Rune": 6677,
-        "Earth Rune": 6753,
+        "Chaos Talisman": 473,
+        "Nature Rune": 6652,
+        "Death Rune": 6682,
+        "Earth Rune": 6766,
         "Mysterious Seed": 499,
-        "Mind Rune": 6552,
-        "Cosmic Rune": 6717,
+        "Mind Rune": 6565,
+        "Cosmic Rune": 6720,
         "Useless Scraps": 652,
-        "Fire Rune": 6665,
-        "Water Rune": 6498,
-        "Air Rune": 6731,
+        "Fire Rune": 6671,
+        "Water Rune": 6501,
+        "Air Rune": 6737,
         "Chaos Fragment": 195,
         "Satchel": 499,
         "Stygian Boots": 258,
@@ -1092,100 +1207,189 @@
   },
   "606": {
     "Elite Moss Giant": {
-      "kills": 558.597,
+      "kills": 569.692,
       "loot": {
-        "Stone": 21634,
-        "Nature Talisman": 417,
-        "Air Rune": 1739,
-        "Earth Rune": 1557,
-        "Nature Rune": 16791,
-        "Cosmic Rune": 595,
+        "Stone": 21919,
+        "Nature Talisman": 424,
+        "Air Rune": 1785,
+        "Earth Rune": 1585,
+        "Nature Rune": 17199,
+        "Cosmic Rune": 647,
         "Satchel": 56,
-        "Chaos Rune": 1840,
-        "Nature Fragment": 108,
-        "Death Rune": 1359,
+        "Chaos Rune": 1876,
+        "Nature Fragment": 110,
+        "Death Rune": 1376,
         "Mind Rune": 949,
         "Moss Maul": 1,
-        "Fire Rune": 1847,
-        "Blood Rune": 1689,
-        "Water Rune": 1900,
+        "Fire Rune": 1853,
+        "Blood Rune": 1729,
+        "Water Rune": 2003,
         "Mysterious Seed": 6,
         "Stygian Boots": 28
       }
     },
     "Elite Ice Giant": {
-      "kills": 505.84000000000003,
+      "kills": 522.5699999999999,
       "loot": {
-        "Raw Shrimp": 5564,
-        "Raw Trout": 4028,
-        "Water Talisman": 369,
-        "Earth Rune": 2757,
-        "Water Rune": 18373,
-        "Chaos Rune": 592,
+        "Raw Shrimp": 5857,
+        "Raw Trout": 4114,
+        "Water Talisman": 379,
+        "Earth Rune": 2837,
+        "Water Rune": 18873,
+        "Chaos Rune": 602,
         "Ice Fragment": 84,
-        "Raw Salmon": 3611,
-        "Fire Rune": 2188,
-        "Cosmic Rune": 913,
-        "Raw Lobster": 2479,
-        "Raw Tuna": 1674,
+        "Raw Salmon": 3766,
+        "Fire Rune": 2222,
+        "Cosmic Rune": 921,
+        "Raw Lobster": 2589,
+        "Raw Tuna": 1755,
         "Mysterious Seed": 64,
         "Death Rune": 613,
         "Mind Rune": 1070,
-        "Satchel": 68,
+        "Satchel": 73,
         "Air Rune": 2672,
         "King's Crown": 3,
-        "Stygian Boots": 45,
-        "Raw Anchovy": 4639,
-        "Nature Rune": 862,
-        "Raw Shark": 1105,
-        "Blood Rune": 757,
+        "Stygian Boots": 47,
+        "Raw Anchovy": 4681,
+        "Nature Rune": 895,
+        "Raw Shark": 1159,
+        "Blood Rune": 801,
         "Kalanahmatti": 3
       }
     },
     "Elite Fire Giant": {
-      "kills": 597.8319999999999,
+      "kills": 610.7469999999997,
       "loot": {
-        "Burnt Fish": 86529,
-        "Coal": 59328,
-        "Fire Talisman": 426,
-        "Fire Rune": 15632,
-        "Nature Rune": 745,
-        "Mind Rune": 823,
-        "Ashes": 18074,
-        "Water Rune": 3004,
-        "Death Rune": 918,
-        "Fire Fragment": 115,
-        "Stygian Boots": 28,
-        "Air Rune": 2781,
-        "Blood Rune": 3059,
-        "Satchel": 54,
-        "Earth Rune": 3239,
+        "Burnt Fish": 88347,
+        "Coal": 60523,
+        "Fire Talisman": 434,
+        "Fire Rune": 16034,
+        "Nature Rune": 763,
+        "Mind Rune": 830,
+        "Ashes": 18483,
+        "Water Rune": 3107,
+        "Death Rune": 963,
+        "Fire Fragment": 117,
+        "Stygian Boots": 29,
+        "Air Rune": 2879,
+        "Blood Rune": 3102,
+        "Satchel": 56,
+        "Earth Rune": 3305,
         "Chaos Rune": 906,
-        "Ancient Fire Amulet": 13,
-        "Mysterious Seed": 54,
+        "Ancient Fire Amulet": 16,
+        "Mysterious Seed": 57,
         "Cosmic Rune": 929,
         "Fire Orb": 4
+      }
+    },
+    "Shipwreck Bay": {
+      "kills": 78.652,
+      "loot": {
+        "Raw Shark": 196,
+        "Raw Hammerhead Shark": 151,
+        "Rotten Drift Wood": 72,
+        "Sturdy Drift Wood": 108,
+        "Raw Megalodon": 75,
+        "Raw Great White Shark": 153,
+        "Seaweed": 82,
+        "Aquamarine": 7
+      }
+    },
+    "Carefree Day": {
+      "kills": 51.996,
+      "loot": {
+        "Raw Tuna": 276,
+        "Seaweed": 74,
+        "Rotten Drift Wood": 72,
+        "Raw Huge Tuna": 83,
+        "Sturdy Drift Wood": 72,
+        "Aquamarine": 7
+      }
+    },
+    "The Open Ocean": {
+      "kills": 92.512,
+      "loot": {
+        "Raw Tuna": 276,
+        "Raw Shark": 226,
+        "Rotten Drift Wood": 53,
+        "Sturdy Drift Wood": 50,
+        "Raw Huge Tuna": 50,
+        "Raw Hammerhead Shark": 120,
+        "Raw Great White Shark": 27,
+        "Raw Megalodon": 12,
+        "Seaweed": 44,
+        "Sunken Treasure": 1,
+        "Aquamarine": 2
+      }
+    },
+    "Sharks Ate All The Tuna": {
+      "kills": 61.152,
+      "loot": {
+        "Raw Shark": 174,
+        "Raw Great White Shark": 65,
+        "Seaweed": 25,
+        "Raw Megalodon": 36,
+        "Raw Hammerhead Shark": 70,
+        "Rotten Drift Wood": 27,
+        "Sturdy Drift Wood": 17,
+        "Raw Tuna": 14
+      }
+    },
+    "Almost Jurassic": {
+      "kills": 34.496,
+      "loot": {
+        "Raw Megalodon": 49,
+        "Raw Huge Tuna": 146,
+        "Raw Great White Shark": 41,
+        "Raw Hammerhead Shark": 35,
+        "Aquamarine": 5
+      }
+    },
+    "The Stormy Seas": {
+      "kills": 3.136,
+      "loot": {
+        "Raw Tuna": 2,
+        "Raw Shark": 10,
+        "Raw Great White Shark": 4,
+        "Sturdy Drift Wood": 1,
+        "Raw Huge Tuna": 2,
+        "Raw Hammerhead Shark": 2,
+        "Rotten Drift Wood": 4,
+        "Aquamarine": 2
+      }
+    },
+    "Eye of the Storm": {
+      "kills": 4.704000000000001,
+      "loot": {
+        "Raw Tuna": 10,
+        "Raw Shark": 5,
+        "Seaweed": 4,
+        "Raw Hammerhead Shark": 4,
+        "Rotten Drift Wood": 4,
+        "Sturdy Drift Wood": 10,
+        "Raw Huge Tuna": 1,
+        "Raw Great White Shark": 1
       }
     }
   },
   "12": {
     "Small Rat": {
-      "kills": 52106.119999999995,
+      "kills": 52118.299999999996,
       "loot": {
-        "Book": 83
+        "Book": 84
       }
     },
     "Cow": {
-      "kills": 46801.920000000006,
+      "kills": 46811.920000000006,
       "loot": {
-        "Raw Beef": 45353,
-        "Milk": 18432
+        "Raw Beef": 45363,
+        "Milk": 18438
       }
     },
     "Goblin": {
-      "kills": 13942.7,
+      "kills": 13946.7,
       "loot": {
-        "Gold": 287062,
+        "Gold": 287067,
         "Goblin Brain": 2761,
         "Copper Ore": 784,
         "Tin Ore": 728,
@@ -1197,50 +1401,55 @@
         "Bronze Bar": 44,
         "Ladle": 5,
         "Lesser Ladle": 1,
-        "Smelly Meat Bait": 3,
+        "Smelly Meat Bait": 7,
         "Stew Stained Page": 1,
         "Mysterious Seed": 1
       }
     },
     "Chicken": {
-      "kills": 46417.78,
+      "kills": 46420.78,
       "loot": {
-        "Branch": 22906,
-        "Feather": 28154,
-        "Raw Chicken": 44944,
-        "Egg": 22783,
+        "Branch": 22908,
+        "Feather": 28160,
+        "Raw Chicken": 44947,
+        "Egg": 22786,
         "Satchel": 2,
         "Cluster-Cluck": 1,
         "Mysterious Seed": 1
       }
     },
     "The Shallow Pond": {
-      "kills": 20.0,
+      "kills": 57.0,
       "loot": {
-        "Raw Shrimp": 97,
-        "Raw Anchovy": 54,
-        "Seaweed": 2
+        "Raw Shrimp": 263,
+        "Raw Anchovy": 159,
+        "Seaweed": 24,
+        "Raw Magnetic Minnow": 6,
+        "Rotten Drift Wood": 7
       }
     },
     "Small Schools of Fish": {
-      "kills": 4.0,
+      "kills": 17.0,
       "loot": {
-        "Raw Anchovy": 34,
-        "Seaweed": 2
+        "Raw Anchovy": 103,
+        "Seaweed": 17,
+        "Raw Magnetic Minnow": 22,
+        "Rotten Drift Wood": 32,
+        "Sunken Treasure": 1
       }
     },
     "Oops, All Shrimp!": {
-      "kills": 14.0,
+      "kills": 36.0,
       "loot": {
-        "Raw Shrimp": 249
+        "Raw Shrimp": 545
       }
     },
     "Drifting Around": {
-      "kills": 8.0,
+      "kills": 19.0,
       "loot": {
-        "Raw Anchovy": 62,
-        "Rotten Drift Wood": 27,
-        "Seaweed": 13
+        "Raw Anchovy": 116,
+        "Rotten Drift Wood": 58,
+        "Seaweed": 46
       }
     },
     "The Lazy River": {
@@ -1262,6 +1471,14 @@
         "Rotten Drift Wood": 9,
         "Seaweed": 4,
         "Raw Tigerfish": 5
+      }
+    },
+    "The Stormy Seas": {
+      "kills": 1.0,
+      "loot": {
+        "Raw Great White Shark": 2,
+        "Raw Hammerhead Shark": 7,
+        "Rotten Drift Wood": 1
       }
     }
   },
@@ -1294,35 +1511,46 @@
   },
   "20": {
     "Greater Demon": {
-      "kills": 15569.054000000002,
+      "kills": 15820.354000000003,
       "loot": {
-        "Burnt Fish": 6225,
-        "Ichor": 20624,
-        "Gold Ore": 82509,
-        "Blood Rune": 722,
-        "Ashes": 9306,
-        "Death Rune": 671,
-        "Cosmic Rune": 699,
-        "Scroll": 1613,
-        "Fire Rune": 579,
-        "Book": 165,
-        "Rune Slate": 341,
-        "Mind Rune": 640,
-        "Nature Rune": 626,
-        "Water Rune": 628,
-        "Earth Rune": 645,
-        "Chaos Rune": 595,
-        "Air Rune": 628,
+        "Burnt Fish": 6349,
+        "Ichor": 20986,
+        "Gold Ore": 84323,
+        "Blood Rune": 733,
+        "Ashes": 9452,
+        "Death Rune": 686,
+        "Cosmic Rune": 710,
+        "Scroll": 1644,
+        "Fire Rune": 585,
+        "Book": 167,
+        "Rune Slate": 349,
+        "Mind Rune": 650,
+        "Nature Rune": 633,
+        "Water Rune": 643,
+        "Earth Rune": 654,
+        "Chaos Rune": 602,
+        "Air Rune": 640,
         "Runite Boots": 12,
         "Emerald": 10,
         "Demonic Trial": 3,
-        "Sapphire": 35,
+        "Sapphire": 36,
         "Adamantite Boots": 12,
         "Satchel": 3,
         "Diamond": 12,
         "Mysterious Seed": 1,
         "Ruby": 8,
         "Black Opal": 3
+      }
+    },
+    "Eye of the Storm": {
+      "kills": 1.15,
+      "loot": {
+        "Raw Tuna": 6,
+        "Raw Shark": 3,
+        "Seaweed": 5,
+        "Raw Hammerhead Shark": 2,
+        "Rotten Drift Wood": 3,
+        "Sturdy Drift Wood": 8
       }
     },
     "The Shallow Pond": {
@@ -1355,170 +1583,220 @@
   },
   "28": {
     "Bone Giant": {
-      "kills": 80104.733,
+      "kills": 82462.69299999997,
       "loot": {
-        "Stygian Ore": 23775,
-        "Blood Rune": 613,
-        "Earth Rune": 594,
-        "Stygian Bar": 2250,
-        "Water Rune": 570,
-        "Fire Rune": 563,
-        "Chaos Rune": 545,
-        "Death Rune": 46052,
-        "Cosmic Rune": 616,
-        "Nature Rune": 1205,
-        "Air Rune": 573,
-        "Corrupted Fragment": 166,
-        "Mind Rune": 603,
-        "Mysterious Seed": 67,
-        "Ichor": 5223,
-        "Blood Talisman": 73,
+        "Stygian Ore": 24611,
+        "Blood Rune": 633,
+        "Earth Rune": 604,
+        "Stygian Bar": 2287,
+        "Water Rune": 587,
+        "Fire Rune": 579,
+        "Chaos Rune": 566,
+        "Death Rune": 46806,
+        "Cosmic Rune": 647,
+        "Nature Rune": 1244,
+        "Air Rune": 587,
+        "Corrupted Fragment": 171,
+        "Mind Rune": 624,
+        "Mysterious Seed": 73,
+        "Ichor": 5259,
+        "Blood Talisman": 74,
         "Satchel": 77,
-        "Book": 84,
-        "Corroded Scroll": 6,
+        "Book": 87,
+        "Corroded Scroll": 7,
         "Stygian Boots": 23,
-        "Decayed Cloak": 9,
+        "Decayed Cloak": 11,
         "Chorus of Souls": 4
       }
     },
     "Infected Naga": {
-      "kills": 319911.35,
+      "kills": 329633.79,
       "loot": {
-        "Gold Ore": 78072,
-        "Gold Bar": 57467,
-        "Runite Bar": 20678,
-        "Runite Ore": 46571,
-        "Rune Slate": 30770,
-        "Emerald": 205,
-        "Chaos Rune": 3166,
-        "Death Rune": 3102,
-        "Ruby": 172,
-        "Diamond": 98,
-        "Mysterious Seed": 322,
-        "Stygian Boots": 61,
-        "Satchel": 303,
-        "Black Opal": 105,
-        "Ichor": 21045,
-        "Sapphire": 318,
+        "Gold Ore": 80378,
+        "Gold Bar": 59302,
+        "Runite Bar": 21282,
+        "Runite Ore": 48041,
+        "Rune Slate": 31655,
+        "Emerald": 207,
+        "Chaos Rune": 3245,
+        "Death Rune": 3239,
+        "Ruby": 175,
+        "Diamond": 100,
+        "Mysterious Seed": 330,
+        "Stygian Boots": 63,
+        "Satchel": 315,
+        "Black Opal": 108,
+        "Ichor": 21187,
+        "Sapphire": 331,
         "Naga's Bracelet": 35,
         "Corroded Scroll": 25
       }
     },
     "Corrupted Tree": {
-      "kills": 320429.25599999994,
+      "kills": 330034.41599999997,
       "loot": {
-        "Carrot Seed": 6224,
-        "Pumpkin Seed": 6234,
-        "Tomato Seed": 6393,
-        "Oak Log": 24812,
-        "Nature Rune": 48477,
-        "Sugarcane Seed": 6166,
-        "Branch": 34930,
-        "Mushroom Spore": 6307,
-        "Log": 28183,
-        "Peppercorn Seed": 6308,
-        "Wheat Seed": 6183,
-        "Yew Log": 16966,
-        "Willow Log": 21556,
-        "Mysterious Seed": 419,
-        "Maple Tree Seed": 442,
-        "Death Rune": 1574,
-        "Rice Seed": 6321,
-        "Yew Tree Seed": 442,
-        "Maple Log": 18694,
-        "Potato Seed": 6333,
-        "Oak Tree Seed": 457,
-        "Chili Pepper Seed": 6307,
-        "Banana Tree Seed": 442,
-        "Wildberry Bush Seed": 6077,
-        "Willow Tree Seed": 468,
-        "Chaos Rune": 1624,
-        "Apple Tree Seed": 433,
-        "Satchel": 313,
-        "Tree Seed": 445,
-        "Ichor": 10617
+        "Carrot Seed": 6447,
+        "Pumpkin Seed": 6431,
+        "Tomato Seed": 6576,
+        "Oak Log": 25545,
+        "Nature Rune": 49688,
+        "Sugarcane Seed": 6373,
+        "Branch": 35940,
+        "Mushroom Spore": 6497,
+        "Log": 28959,
+        "Peppercorn Seed": 6486,
+        "Wheat Seed": 6363,
+        "Yew Log": 17496,
+        "Willow Log": 22136,
+        "Mysterious Seed": 429,
+        "Maple Tree Seed": 457,
+        "Death Rune": 1616,
+        "Rice Seed": 6507,
+        "Yew Tree Seed": 454,
+        "Maple Log": 19295,
+        "Potato Seed": 6472,
+        "Oak Tree Seed": 474,
+        "Chili Pepper Seed": 6494,
+        "Banana Tree Seed": 458,
+        "Wildberry Bush Seed": 6263,
+        "Willow Tree Seed": 476,
+        "Chaos Rune": 1665,
+        "Apple Tree Seed": 440,
+        "Satchel": 330,
+        "Tree Seed": 454,
+        "Ichor": 10686
       }
     },
     "The Shallow Pond": {
-      "kills": 37.0,
+      "kills": 46.0,
       "loot": {
-        "Raw Shrimp": 113,
-        "Raw Anchovy": 49,
-        "Seaweed": 11,
-        "Raw Magnetic Minnow": 3,
-        "Rotten Drift Wood": 1
+        "Raw Shrimp": 171,
+        "Raw Anchovy": 83,
+        "Seaweed": 28,
+        "Raw Magnetic Minnow": 9,
+        "Rotten Drift Wood": 15
       }
     },
     "The Lazy River": {
-      "kills": 32.0,
+      "kills": 146.0,
       "loot": {
-        "Raw Trout": 78,
-        "Raw Salmon": 48,
-        "Rotten Drift Wood": 6,
-        "Seaweed": 7,
-        "Raw Magnetic Minnow": 6
+        "Raw Trout": 553,
+        "Raw Salmon": 336,
+        "Rotten Drift Wood": 59,
+        "Seaweed": 78,
+        "Raw Magnetic Minnow": 47
       }
     },
     "Migrating Schools": {
-      "kills": 15.0,
+      "kills": 58.0,
       "loot": {
-        "Raw Magnetic Minnow": 23,
-        "Raw Tigerfish": 6,
-        "Raw Trout": 18,
-        "Raw Salmon": 63,
-        "Rotten Drift Wood": 6,
-        "Seaweed": 2
+        "Raw Magnetic Minnow": 105,
+        "Raw Tigerfish": 21,
+        "Raw Trout": 119,
+        "Raw Salmon": 272,
+        "Rotten Drift Wood": 59,
+        "Seaweed": 15,
+        "Sunken Treasure": 2
       }
     },
     "Drifting Around": {
-      "kills": 5.0,
+      "kills": 9.0,
       "loot": {
-        "Raw Anchovy": 35,
-        "Rotten Drift Wood": 9,
-        "Seaweed": 5
+        "Raw Anchovy": 60,
+        "Rotten Drift Wood": 37,
+        "Seaweed": 14
       }
     },
     "Oops, All Shrimp!": {
-      "kills": 18.0,
+      "kills": 30.0,
       "loot": {
-        "Raw Shrimp": 230
+        "Raw Shrimp": 480
       }
     },
     "Small Schools of Fish": {
-      "kills": 8.0,
+      "kills": 10.0,
       "loot": {
-        "Raw Anchovy": 41,
-        "Seaweed": 5,
-        "Raw Magnetic Minnow": 2,
-        "Rotten Drift Wood": 2
+        "Raw Anchovy": 64,
+        "Seaweed": 12,
+        "Raw Magnetic Minnow": 9,
+        "Rotten Drift Wood": 9
+      }
+    },
+    "The Still Lake": {
+      "kills": 638.0,
+      "loot": {
+        "Raw Magnetic Minnow": 324,
+        "Raw Crab": 487,
+        "Raw Lobster": 2320,
+        "Seaweed": 302,
+        "Sturdy Drift Wood": 111,
+        "Rotten Drift Wood": 92
+      }
+    },
+    "Cage Match!": {
+      "kills": 99.0,
+      "loot": {
+        "Raw Lobster": 422,
+        "Raw Crab": 291
+      }
+    },
+    "The Open Ocean": {
+      "kills": 80.0,
+      "loot": {
+        "Raw Shark": 88,
+        "Rotten Drift Wood": 21,
+        "Sturdy Drift Wood": 25,
+        "Raw Tuna": 171,
+        "Seaweed": 25,
+        "Raw Hammerhead Shark": 38
+      }
+    },
+    "Sharks Ate All The Tuna": {
+      "kills": 16.0,
+      "loot": {
+        "Raw Hammerhead Shark": 6,
+        "Raw Shark": 16,
+        "Raw Great White Shark": 7,
+        "Sturdy Drift Wood": 5,
+        "Rotten Drift Wood": 2,
+        "Seaweed": 2
+      }
+    },
+    "Carefree Day": {
+      "kills": 14.0,
+      "loot": {
+        "Raw Tuna": 111,
+        "Seaweed": 11,
+        "Rotten Drift Wood": 14,
+        "Sturdy Drift Wood": 4
       }
     }
   },
   "13": {
     "Lesser Demon": {
-      "kills": 170045.25999999995,
+      "kills": 171222.05999999997,
       "loot": {
-        "Ichor": 120449,
-        "Burnt Fish": 67574,
-        "Gold Ore": 889726,
-        "Mind Rune": 6916,
-        "Ashes": 68298,
-        "Water Rune": 6835,
-        "Death Rune": 6988,
-        "Blood Rune": 6731,
-        "Nature Rune": 6763,
-        "Air Rune": 6923,
-        "Earth Rune": 6719,
-        "Cosmic Rune": 6658,
-        "Rune Slate": 3345,
-        "Adamantite Boots": 202,
-        "Chaos Rune": 6715,
-        "Emerald": 147,
-        "Fire Rune": 6791,
-        "Scroll": 1722,
-        "Runite Boots": 99,
+        "Ichor": 121382,
+        "Burnt Fish": 67994,
+        "Gold Ore": 895909,
+        "Mind Rune": 6972,
+        "Ashes": 68750,
+        "Water Rune": 6881,
+        "Death Rune": 7025,
+        "Blood Rune": 6771,
+        "Nature Rune": 6831,
+        "Air Rune": 6968,
+        "Earth Rune": 6765,
+        "Cosmic Rune": 6716,
+        "Rune Slate": 3365,
+        "Adamantite Boots": 205,
+        "Chaos Rune": 6757,
+        "Emerald": 148,
+        "Fire Rune": 6826,
+        "Scroll": 1741,
+        "Runite Boots": 101,
         "Ruby": 95,
-        "Diamond": 72,
+        "Diamond": 73,
         "Sapphire": 271,
         "Black Opal": 31,
         "Satchel": 16,
@@ -1527,9 +1805,9 @@
       }
     },
     "Deadly Red Spider": {
-      "kills": 113410.434,
+      "kills": 114108.77399999999,
       "loot": {
-        "Spider Legs": 22729,
+        "Spider Legs": 22852,
         "Sapphire": 36,
         "Diamond": 7,
         "Ruby": 8,
@@ -1648,20 +1926,20 @@
   },
   "0": {
     "Ice Giant": {
-      "kills": 4495.62,
+      "kills": 4515.68,
       "loot": {
-        "Water Rune": 10220,
+        "Water Rune": 10254,
         "Raw Anchovy": 526,
         "Raw Lobster": 285,
         "Raw Shrimp": 581,
         "Raw Tuna": 238,
         "Fire Rune": 67,
-        "Raw Salmon": 401,
+        "Raw Salmon": 402,
         "Raw Shark": 202,
         "Mind Rune": 69,
         "Raw Trout": 431,
         "Air Rune": 81,
-        "Nature Rune": 49,
+        "Nature Rune": 52,
         "Cosmic Rune": 62,
         "Earth Rune": 72,
         "Chaos Rune": 41,
@@ -1694,14 +1972,14 @@
       }
     },
     "Moss Giant": {
-      "kills": 4572.0599999999995,
+      "kills": 4594.48,
       "loot": {
-        "Stone": 3885,
-        "Nature Rune": 9154,
+        "Stone": 3904,
+        "Nature Rune": 9198,
         "Cosmic Rune": 56,
-        "Air Rune": 58,
+        "Air Rune": 60,
         "Fire Rune": 49,
-        "Death Rune": 56,
+        "Death Rune": 58,
         "Chaos Rune": 86,
         "Mind Rune": 65,
         "Water Rune": 71,
@@ -1715,19 +1993,19 @@
       }
     },
     "Fire Giant": {
-      "kills": 4702.22,
+      "kills": 4730.54,
       "loot": {
-        "Fire Rune": 11336,
-        "Ashes": 3136,
-        "Burnt Fish": 5223,
-        "Coal": 37138,
-        "Cosmic Rune": 63,
+        "Fire Rune": 11416,
+        "Ashes": 3149,
+        "Burnt Fish": 5276,
+        "Coal": 37360,
+        "Cosmic Rune": 65,
         "Nature Rune": 77,
         "Mind Rune": 68,
         "Chaos Rune": 43,
         "Air Rune": 70,
         "Blood Rune": 67,
-        "Death Rune": 62,
+        "Death Rune": 66,
         "Water Rune": 65,
         "Earth Rune": 52,
         "Fire Orb": 1,
@@ -1740,199 +2018,209 @@
       }
     },
     "Migrating Schools": {
-      "kills": 2319.779,
+      "kills": 2459.779,
       "loot": {
-        "Raw Trout": 4971,
-        "Raw Salmon": 12542,
-        "Raw Magnetic Minnow": 3754,
-        "Rotten Drift Wood": 1936,
-        "Seaweed": 613,
-        "Raw Tigerfish": 976,
+        "Raw Trout": 5340,
+        "Raw Salmon": 13456,
+        "Raw Magnetic Minnow": 4049,
+        "Rotten Drift Wood": 2166,
+        "Seaweed": 655,
+        "Raw Tigerfish": 1293,
         "Ancient Harpoon": 1,
-        "Sturdy Drift Wood": 236,
-        "Sunken Treasure": 4,
+        "Sturdy Drift Wood": 311,
+        "Sunken Treasure": 6,
         "Fish Oil": 15,
-        "Ancient Fishing Net": 1
+        "Ancient Fishing Net": 1,
+        "Ancient Fishing Rod": 1
       }
     },
     "The Lazy River": {
-      "kills": 6581.6939999999995,
+      "kills": 6860.874,
       "loot": {
-        "Raw Trout": 26887,
-        "Raw Salmon": 15397,
-        "Rotten Drift Wood": 2255,
-        "Seaweed": 2876,
-        "Raw Magnetic Minnow": 2306,
-        "Sturdy Drift Wood": 239,
+        "Raw Trout": 28765,
+        "Raw Salmon": 16664,
+        "Rotten Drift Wood": 2500,
+        "Seaweed": 3136,
+        "Raw Magnetic Minnow": 2481,
+        "Sturdy Drift Wood": 322,
         "Ancient Fishing Net": 1,
         "Ancient Treasure": 1,
         "Ancient Fishing Rod": 1,
-        "Sunken Treasure": 8,
-        "Raw Tigerfish": 2,
+        "Sunken Treasure": 9,
+        "Raw Tigerfish": 46,
         "Fish Oil": 31,
         "Ancient Harpoon": 1
       }
     },
     "Oops, All Shrimp!": {
-      "kills": 691.98,
+      "kills": 890.98,
       "loot": {
-        "Raw Shrimp": 10165,
+        "Raw Shrimp": 12959,
         "Ancient Treasure": 2,
         "Sunken Treasure": 1,
         "Gold": 240
       }
     },
     "The Shallow Pond": {
-      "kills": 1317.76,
+      "kills": 1678.76,
       "loot": {
-        "Raw Shrimp": 5533,
-        "Raw Anchovy": 2967,
-        "Seaweed": 290,
-        "Raw Magnetic Minnow": 69,
-        "Rotten Drift Wood": 68,
+        "Raw Shrimp": 7242,
+        "Raw Anchovy": 3943,
+        "Seaweed": 505,
+        "Raw Magnetic Minnow": 141,
+        "Rotten Drift Wood": 150,
         "Sunken Treasure": 4,
-        "Gold": 1070
+        "Gold": 1070,
+        "Ancient Treasure": 1
       }
     },
     "Drifting Around": {
-      "kills": 263.68,
+      "kills": 360.68,
       "loot": {
-        "Raw Anchovy": 1641,
-        "Seaweed": 416,
-        "Rotten Drift Wood": 440,
+        "Raw Anchovy": 2161,
+        "Seaweed": 662,
+        "Rotten Drift Wood": 721,
         "Sunken Treasure": 1,
         "Gold": 510
       }
     },
     "Small Schools of Fish": {
-      "kills": 256.5,
+      "kills": 339.5,
       "loot": {
-        "Raw Anchovy": 1868,
-        "Seaweed": 189,
-        "Raw Magnetic Minnow": 219,
-        "Rotten Drift Wood": 148,
-        "Gold": 420
+        "Raw Anchovy": 2371,
+        "Seaweed": 303,
+        "Raw Magnetic Minnow": 381,
+        "Rotten Drift Wood": 275,
+        "Gold": 420,
+        "Sunken Treasure": 1
       }
     },
     "The Stormy Seas": {
-      "kills": 165.54,
+      "kills": 239.54,
       "loot": {
-        "Raw Tuna": 255,
-        "Raw Shark": 356,
-        "Raw Hammerhead Shark": 185,
-        "Raw Great White Shark": 34,
-        "Seaweed": 42,
-        "Sturdy Drift Wood": 70,
-        "Rotten Drift Wood": 87,
-        "Raw Huge Tuna": 36,
-        "Raw Megalodon": 3,
+        "Raw Tuna": 384,
+        "Raw Shark": 536,
+        "Raw Hammerhead Shark": 283,
+        "Raw Great White Shark": 57,
+        "Seaweed": 86,
+        "Sturdy Drift Wood": 115,
+        "Rotten Drift Wood": 146,
+        "Raw Huge Tuna": 70,
+        "Raw Megalodon": 4,
         "Fish Oil": 2,
         "Aquamarine": 2
       }
     },
     "ANGY bois": {
-      "kills": 106.8,
+      "kills": 156.8,
       "loot": {
-        "Raw Trout": 124,
-        "Raw Salmon": 185,
-        "Raw Tigerfish": 517,
-        "Rotten Drift Wood": 94,
-        "Sturdy Drift Wood": 90,
+        "Raw Trout": 199,
+        "Raw Salmon": 334,
+        "Raw Tigerfish": 858,
+        "Rotten Drift Wood": 149,
+        "Sturdy Drift Wood": 156,
         "Ancient Treasure": 1
       }
     },
     "Cage Match!": {
-      "kills": 2594.764,
+      "kills": 3186.764,
       "loot": {
-        "Raw Lobster": 12662,
-        "Raw Crab": 8630,
-        "Raw Ancient Lobster": 1299,
+        "Raw Lobster": 15682,
+        "Raw Crab": 10635,
+        "Raw Ancient Lobster": 1588,
         "Ancient Treasure": 4,
-        "Fisherman's Waders": 1,
+        "Fisherman's Waders": 2,
         "Sunken Treasure": 4,
-        "Fish Oil": 19
+        "Fish Oil": 22,
+        "Ancient Fishing Net": 1
       }
     },
     "The Still Lake": {
-      "kills": 11306.02,
+      "kills": 14107.380000000001,
       "loot": {
-        "Raw Lobster": 44244,
-        "Raw Magnetic Minnow": 6609,
-        "Raw Slippery Eel": 1871,
-        "Raw Crab": 11591,
-        "Rotten Drift Wood": 2773,
-        "Seaweed": 5275,
-        "Sturdy Drift Wood": 2877,
-        "Raw Tigerfish": 1708,
+        "Raw Lobster": 56904,
+        "Raw Magnetic Minnow": 8354,
+        "Raw Slippery Eel": 2219,
+        "Raw Crab": 14513,
+        "Rotten Drift Wood": 3392,
+        "Seaweed": 6849,
+        "Sturdy Drift Wood": 3451,
+        "Raw Tigerfish": 2060,
         "Fisherman's Smock": 2,
-        "Sunken Treasure": 21,
-        "Fish Oil": 63,
-        "Ancient Treasure": 3,
+        "Sunken Treasure": 32,
+        "Fish Oil": 98,
+        "Ancient Treasure": 4,
         "Fisherman's Waders": 3,
         "Ancient Harpoon": 1
       }
     },
     "Big Catch!": {
-      "kills": 242.04,
+      "kills": 337.04,
       "loot": {
-        "Raw Lobster": 1112,
-        "Raw Crab": 786,
-        "Raw Slippery Eel": 441,
-        "Raw Tigerfish": 260,
-        "Raw Ancient Lobster": 156,
+        "Raw Lobster": 1468,
+        "Raw Crab": 1068,
+        "Raw Slippery Eel": 599,
+        "Raw Tigerfish": 332,
+        "Raw Ancient Lobster": 212,
         "Sunken Treasure": 1,
         "Ancient Fishing Net": 1,
         "Aquamarine": 2
       }
     },
     "Sharks Ate All The Tuna": {
-      "kills": 2992.56,
+      "kills": 7853.379999999999,
       "loot": {
-        "Raw Shark": 9034,
-        "Raw Great White Shark": 2482,
-        "Seaweed": 1481,
-        "Raw Hammerhead Shark": 3228,
-        "Rotten Drift Wood": 1452,
-        "Sturdy Drift Wood": 1523,
-        "Raw Tuna": 358,
-        "Raw Megalodon": 464,
-        "Sunken Treasure": 6,
-        "Fish Oil": 4,
-        "Fisherman's Smock": 1
+        "Raw Shark": 26045,
+        "Raw Great White Shark": 7047,
+        "Seaweed": 4331,
+        "Raw Hammerhead Shark": 9477,
+        "Rotten Drift Wood": 4315,
+        "Sturdy Drift Wood": 4393,
+        "Raw Tuna": 1180,
+        "Raw Megalodon": 1937,
+        "Sunken Treasure": 27,
+        "Fish Oil": 13,
+        "Fisherman's Smock": 2,
+        "Fisherman's Waders": 2,
+        "Ancient Treasure": 1
       }
     },
     "The Open Ocean": {
-      "kills": 7294.72,
+      "kills": 17948.4,
       "loot": {
-        "Raw Tuna": 25747,
-        "Raw Shark": 16416,
-        "Seaweed": 2243,
-        "Sturdy Drift Wood": 4483,
-        "Raw Hammerhead Shark": 9067,
-        "Rotten Drift Wood": 4579,
-        "Raw Great White Shark": 1475,
-        "Raw Huge Tuna": 1009,
-        "Sunken Treasure": 19,
-        "Aquamarine": 105,
-        "Raw Megalodon": 125,
-        "Fisherman's Smock": 3,
-        "Ancient Treasure": 2,
-        "Fish Oil": 34,
-        "Fisherman's Bucket Hat": 1
+        "Raw Tuna": 65280,
+        "Raw Shark": 43559,
+        "Seaweed": 6048,
+        "Sturdy Drift Wood": 11907,
+        "Raw Hammerhead Shark": 25266,
+        "Rotten Drift Wood": 12125,
+        "Raw Great White Shark": 4609,
+        "Raw Huge Tuna": 4329,
+        "Sunken Treasure": 59,
+        "Aquamarine": 384,
+        "Raw Megalodon": 532,
+        "Fisherman's Smock": 6,
+        "Ancient Treasure": 10,
+        "Fish Oil": 65,
+        "Fisherman's Bucket Hat": 4,
+        "Fisherman's Waders": 2
       }
     },
     "Carefree Day": {
-      "kills": 2610.38,
+      "kills": 6587.78,
       "loot": {
-        "Raw Tuna": 19661,
-        "Rotten Drift Wood": 4518,
-        "Sturdy Drift Wood": 5219,
-        "Raw Huge Tuna": 3260,
-        "Seaweed": 4516,
-        "Aquamarine": 357,
-        "Sunken Treasure": 11,
-        "Fish Oil": 17,
-        "Ancient Treasure": 2
+        "Raw Tuna": 50379,
+        "Rotten Drift Wood": 11587,
+        "Sturdy Drift Wood": 13690,
+        "Raw Huge Tuna": 10455,
+        "Seaweed": 11606,
+        "Aquamarine": 923,
+        "Sunken Treasure": 29,
+        "Fish Oil": 27,
+        "Ancient Treasure": 10,
+        "Fisherman's Smock": 1,
+        "Fisherman's Bucket Hat": 2,
+        "Fisherman's Waders": 1
       }
     },
     "Goblin": {
@@ -2110,41 +2398,46 @@
       }
     },
     "Shipwreck Bay": {
-      "kills": 1355.08,
+      "kills": 4345.94,
       "loot": {
-        "Raw Great White Shark": 3545,
-        "Raw Hammerhead Shark": 3691,
-        "Rotten Drift Wood": 2120,
-        "Sturdy Drift Wood": 3085,
-        "Raw Megalodon": 1978,
-        "Seaweed": 2438,
-        "Raw Shark": 4838,
-        "Aquamarine": 346,
-        "Sunken Treasure": 5,
-        "Ancient Treasure": 1,
+        "Raw Great White Shark": 11853,
+        "Raw Hammerhead Shark": 12221,
+        "Rotten Drift Wood": 6713,
+        "Sturdy Drift Wood": 9863,
+        "Raw Megalodon": 7299,
+        "Seaweed": 7715,
+        "Raw Shark": 15550,
+        "Aquamarine": 1052,
+        "Sunken Treasure": 18,
+        "Fisherman's Waders": 3,
+        "Ancient Treasure": 4,
         "Fisherman's Smock": 1,
-        "Fish Oil": 2
+        "Fish Oil": 14,
+        "Ancient Fishing Rod": 1
       }
     },
     "Almost Jurassic": {
-      "kills": 312.88,
+      "kills": 1444.22,
       "loot": {
-        "Raw Megalodon": 805,
-        "Raw Huge Tuna": 1921,
-        "Raw Great White Shark": 515,
-        "Raw Hammerhead Shark": 538,
-        "Sunken Treasure": 3,
-        "Raw Tentacle Meat": 30,
-        "Aquamarine": 24
+        "Raw Megalodon": 3853,
+        "Raw Huge Tuna": 9030,
+        "Raw Great White Shark": 2296,
+        "Raw Hammerhead Shark": 2334,
+        "Sunken Treasure": 11,
+        "Raw Tentacle Meat": 266,
+        "Aquamarine": 128,
+        "Fish Oil": 3,
+        "Ancient Treasure": 2,
+        "Ancient Fishing Net": 1
       }
     },
     "Playtester's Paradise": {
-      "kills": 13.36,
+      "kills": 53.36,
       "loot": {
-        "Raw Megalodon": 41,
-        "Raw Great White Shark": 19,
-        "Aquamarine": 2,
-        "Raw Hammerhead Shark": 5
+        "Raw Megalodon": 199,
+        "Raw Great White Shark": 110,
+        "Aquamarine": 27,
+        "Raw Hammerhead Shark": 39
       }
     },
     "Greater Demon": {
@@ -2185,19 +2478,19 @@
       }
     },
     "Eye of the Storm": {
-      "kills": 62.0,
+      "kills": 89.0,
       "loot": {
-        "Raw Tuna": 185,
-        "Raw Huge Tuna": 54,
-        "Raw Great White Shark": 23,
-        "Rotten Drift Wood": 119,
-        "Seaweed": 103,
-        "Raw Shark": 94,
-        "Sturdy Drift Wood": 125,
-        "Fish Oil": 1,
-        "Raw Megalodon": 36,
-        "Raw Hammerhead Shark": 22,
-        "Aquamarine": 3
+        "Raw Tuna": 271,
+        "Raw Huge Tuna": 90,
+        "Raw Great White Shark": 29,
+        "Rotten Drift Wood": 177,
+        "Seaweed": 152,
+        "Raw Shark": 153,
+        "Sturdy Drift Wood": 175,
+        "Fish Oil": 2,
+        "Raw Megalodon": 49,
+        "Raw Hammerhead Shark": 35,
+        "Aquamarine": 5
       }
     },
     "Greater Imp": {
@@ -2228,13 +2521,37 @@
       }
     },
     "Is that a tentacle?": {
-      "kills": 17.0,
+      "kills": 152.0,
       "loot": {
-        "Raw Megalodon": 49,
-        "Raw Tentacle Meat": 64,
-        "Raw Great White Shark": 129,
-        "Raw Hammerhead Shark": 93,
-        "Aquamarine": 6
+        "Raw Megalodon": 348,
+        "Raw Tentacle Meat": 475,
+        "Raw Great White Shark": 1046,
+        "Raw Hammerhead Shark": 717,
+        "Aquamarine": 74,
+        "Ancient Treasure": 1,
+        "Fish Oil": 2,
+        "Sunken Treasure": 1
+      }
+    },
+    "World's End": {
+      "kills": 2.0,
+      "loot": {
+        "Raw Tuna": 9,
+        "Raw Huge Tuna": 3,
+        "Raw Hammerhead Shark": 6,
+        "Raw Shark": 3,
+        "Raw Great White Shark": 1
+      }
+    },
+    "Yedyod's Cove": {
+      "kills": 1.0,
+      "loot": {
+        "Raw Ancient Lobster": 6,
+        "Seaweed": 1,
+        "Raw Tigerfish": 2,
+        "Raw Slippery Eel": 6,
+        "Rotten Drift Wood": 4,
+        "Sturdy Drift Wood": 2
       }
     },
     "Elite Moss Giant": {
@@ -2375,111 +2692,113 @@
   },
   "701": {
     "Goblin": {
-      "kills": 1730.36,
+      "kills": 2030.55,
       "loot": {
-        "Gold": 66741,
-        "Goblin Brain": 1113,
-        "Silver": 42,
-        "Smelly Meat Bait": 6251,
-        "Bronze Boots": 14,
-        "Iron Boots": 8,
-        "Copper Ore": 121,
+        "Gold": 78572,
+        "Goblin Brain": 1316,
+        "Silver": 48,
+        "Smelly Meat Bait": 13571,
+        "Bronze Boots": 21,
+        "Iron Boots": 12,
+        "Copper Ore": 139,
         "Lesser Ladle": 3,
-        "Tin Ore": 98,
-        "Ladle": 2,
+        "Tin Ore": 113,
+        "Ladle": 3,
         "Bronze Bar": 2,
         "Greater Ladle": 1
       }
     },
     "Elite Goblin": {
-      "kills": 732.6999999999999,
+      "kills": 859.3299999999999,
       "loot": {
-        "Gold": 3147223,
-        "Copper Ore": 7986,
-        "Tin Ore": 7248,
-        "Silver": 7255,
-        "Bronze Boots": 175,
-        "Ladle": 66,
-        "Goblin Brain": 643,
-        "Bronze Bar": 2424,
-        "Lesser Ladle": 56,
-        "Greater Ladle": 51,
-        "Smelly Meat Bait": 8503,
-        "Iron Boots": 110,
+        "Gold": 3717285,
+        "Copper Ore": 9224,
+        "Tin Ore": 8536,
+        "Silver": 8444,
+        "Bronze Boots": 229,
+        "Ladle": 79,
+        "Goblin Brain": 760,
+        "Bronze Bar": 2751,
+        "Lesser Ladle": 61,
+        "Greater Ladle": 67,
+        "Smelly Meat Bait": 19561,
+        "Iron Boots": 118,
         "Satchel": 1
       }
     },
     "Goblin Village": {
-      "kills": 234.88,
+      "kills": 274.73,
       "loot": {
-        "Raw Shrimp": 12011,
-        "Raw Anchovy": 14384,
-        "Raw Trout": 14181,
-        "Raw Salmon": 14409,
-        "Burnt Fish": 45954,
-        "Burnt Food": 45492,
-        "Copper Ore": 13651,
-        "Tin Ore": 12745,
-        "Silver": 22262,
-        "Coal": 28373,
-        "Rune Slate": 7137,
-        "Fertilizer": 12584,
-        "Carrot Seed": 3636,
-        "Potato Seed": 3802,
-        "Iron Ore": 9014,
-        "Searing Ladle": 3
+        "Raw Shrimp": 14091,
+        "Raw Anchovy": 15783,
+        "Raw Trout": 16629,
+        "Raw Salmon": 16956,
+        "Burnt Fish": 55342,
+        "Burnt Food": 54518,
+        "Copper Ore": 16595,
+        "Tin Ore": 13470,
+        "Silver": 25901,
+        "Coal": 33079,
+        "Rune Slate": 9315,
+        "Fertilizer": 14989,
+        "Carrot Seed": 4247,
+        "Potato Seed": 4332,
+        "Iron Ore": 10671,
+        "Searing Ladle": 4
       }
     },
     "The Open Ocean": {
-      "kills": 597.0,
+      "kills": 1155.0,
       "loot": {
-        "Raw Tuna": 537,
-        "Raw Shark": 363,
-        "Raw Hammerhead Shark": 145,
-        "Sturdy Drift Wood": 116,
-        "Rotten Drift Wood": 68,
-        "Seaweed": 56,
+        "Raw Tuna": 1027,
+        "Raw Shark": 652,
+        "Raw Hammerhead Shark": 273,
+        "Sturdy Drift Wood": 205,
+        "Rotten Drift Wood": 168,
+        "Seaweed": 103,
         "Sunken Treasure": 1
       }
     },
     "Sharks Ate All The Tuna": {
-      "kills": 156.0,
+      "kills": 327.0,
       "loot": {
-        "Raw Shark": 82,
-        "Seaweed": 12,
-        "Rotten Drift Wood": 13,
-        "Raw Hammerhead Shark": 34,
-        "Raw Great White Shark": 24,
-        "Sturdy Drift Wood": 17
+        "Raw Shark": 173,
+        "Seaweed": 29,
+        "Rotten Drift Wood": 28,
+        "Raw Hammerhead Shark": 63,
+        "Raw Great White Shark": 46,
+        "Sturdy Drift Wood": 38
       }
     },
     "Carefree Day": {
-      "kills": 168.0,
+      "kills": 327.0,
       "loot": {
-        "Raw Tuna": 410,
-        "Seaweed": 97,
-        "Rotten Drift Wood": 66,
-        "Sturdy Drift Wood": 73
+        "Raw Tuna": 734,
+        "Seaweed": 171,
+        "Rotten Drift Wood": 142,
+        "Sturdy Drift Wood": 165,
+        "Sunken Treasure": 1
       }
     }
   },
   "608": {
     "Elite Goblin": {
-      "kills": 716.1410000000001,
+      "kills": 821.7529999999999,
       "loot": {
-        "Gold": 2590603,
-        "Copper Ore": 7211,
-        "Tin Ore": 7700,
-        "Goblin Brain": 412,
-        "Silver": 7073,
-        "Bronze Boots": 142,
-        "Greater Ladle": 57,
-        "Lesser Ladle": 45,
-        "Bronze Bar": 2609,
-        "Ladle": 28,
-        "Scrap of Stained Parchment": 93,
+        "Gold": 2990150,
+        "Copper Ore": 8228,
+        "Tin Ore": 8698,
+        "Goblin Brain": 463,
+        "Silver": 7811,
+        "Bronze Boots": 152,
+        "Greater Ladle": 65,
+        "Lesser Ladle": 52,
+        "Bronze Bar": 2674,
+        "Ladle": 34,
+        "Scrap of Stained Parchment": 102,
         "Iron Boots": 92,
-        "Smelly Meat Bait": 12397,
+        "Smelly Meat Bait": 17757,
+        "Satchel": 2,
         "Mysterious Seed": 6
       }
     }
@@ -2865,80 +3184,164 @@
   },
   "26": {
     "Spriggan": {
-      "kills": 16466.742,
+      "kills": 16493.922,
       "loot": {
-        "Oak Log": 22679,
-        "Log": 22251,
-        "Willow Log": 22915,
-        "Branch": 22103,
-        "Maple Log": 22673,
-        "Yew Log": 22946,
+        "Oak Log": 22733,
+        "Log": 22279,
+        "Willow Log": 22942,
+        "Branch": 22144,
+        "Maple Log": 22680,
+        "Yew Log": 23024,
         "Mysterious Seed": 134,
         "Sageberry Bush Seed": 139,
         "Taproot Scroll": 6,
         "Ancient Nature Amulet": 1,
         "Satchel": 3
       }
+    },
+    "Cage Match!": {
+      "kills": 15.0,
+      "loot": {
+        "Raw Lobster": 61,
+        "Raw Crab": 53,
+        "Raw Ancient Lobster": 13
+      }
+    },
+    "The Still Lake": {
+      "kills": 32.0,
+      "loot": {
+        "Raw Lobster": 98,
+        "Rotten Drift Wood": 9,
+        "Seaweed": 18,
+        "Raw Magnetic Minnow": 17,
+        "Raw Tigerfish": 5,
+        "Raw Crab": 34,
+        "Sturdy Drift Wood": 5,
+        "Raw Slippery Eel": 8,
+        "Sunken Treasure": 1
+      }
     }
   },
   "607": {
     "Elite Infected Naga": {
-      "kills": 315.975,
+      "kills": 325.415,
       "loot": {
-        "Gold Ore": 29588,
-        "Runite Ore": 7924,
-        "Rune Slate": 249,
-        "Gold Bar": 4110,
-        "Runite Bar": 1049,
-        "Death Rune": 3234,
-        "Chaos Rune": 3201,
+        "Gold Ore": 31079,
+        "Runite Ore": 8595,
+        "Rune Slate": 266,
+        "Gold Bar": 4334,
+        "Runite Bar": 1153,
+        "Death Rune": 3487,
+        "Chaos Rune": 3323,
         "Stygian Boots": 17,
         "Diamond": 26,
-        "Satchel": 30,
-        "Ruby": 30,
+        "Satchel": 33,
+        "Ruby": 40,
         "Emerald": 53,
         "Ichor": 119,
-        "Sapphire": 115,
-        "Black Opal": 15,
+        "Sapphire": 129,
+        "Black Opal": 17,
         "Mysterious Seed": 14,
         "Naga's Bracelet": 3
       }
     },
     "Elite Bone Giant": {
-      "kills": 155.817,
+      "kills": 159.357,
       "loot": {
-        "Book": 11,
-        "Stygian Ore": 7390,
-        "Blood Talisman": 105,
-        "Air Rune": 2046,
-        "Earth Rune": 1776,
-        "Fire Rune": 1795,
+        "Book": 14,
+        "Stygian Ore": 7749,
+        "Blood Talisman": 109,
+        "Air Rune": 2208,
+        "Earth Rune": 1932,
+        "Fire Rune": 1933,
         "Water Rune": 1900,
-        "Blood Rune": 1929,
-        "Death Rune": 4901,
-        "Nature Rune": 3420,
-        "Mind Rune": 1948,
-        "Cosmic Rune": 2094,
-        "Chaos Rune": 1816,
-        "Stygian Bar": 906,
+        "Blood Rune": 1977,
+        "Death Rune": 5071,
+        "Nature Rune": 3558,
+        "Mind Rune": 1990,
+        "Cosmic Rune": 2140,
+        "Chaos Rune": 1975,
+        "Stygian Bar": 930,
         "Satchel": 8,
-        "Corrupted Fragment": 19,
+        "Corrupted Fragment": 22,
         "Ichor": 173,
         "Chorus of Souls": 1,
-        "Mysterious Seed": 6
+        "Mysterious Seed": 8
+      }
+    },
+    "Shipwreck Bay": {
+      "kills": 60.0,
+      "loot": {
+        "Raw Shark": 165,
+        "Raw Megalodon": 67,
+        "Raw Great White Shark": 124,
+        "Raw Hammerhead Shark": 108,
+        "Rotten Drift Wood": 92,
+        "Sturdy Drift Wood": 124,
+        "Aquamarine": 13,
+        "Seaweed": 88
+      }
+    },
+    "Sharks Ate All The Tuna": {
+      "kills": 116.0,
+      "loot": {
+        "Raw Shark": 332,
+        "Seaweed": 61,
+        "Raw Hammerhead Shark": 117,
+        "Raw Tuna": 25,
+        "Raw Great White Shark": 115,
+        "Sturdy Drift Wood": 61,
+        "Rotten Drift Wood": 42,
+        "Raw Megalodon": 12
+      }
+    },
+    "The Open Ocean": {
+      "kills": 238.0,
+      "loot": {
+        "Raw Tuna": 792,
+        "Raw Shark": 521,
+        "Raw Hammerhead Shark": 312,
+        "Rotten Drift Wood": 169,
+        "Sturdy Drift Wood": 114,
+        "Raw Great White Shark": 65,
+        "Raw Huge Tuna": 29,
+        "Seaweed": 84,
+        "Aquamarine": 9,
+        "Sunken Treasure": 1
+      }
+    },
+    "Carefree Day": {
+      "kills": 76.0,
+      "loot": {
+        "Raw Tuna": 511,
+        "Seaweed": 140,
+        "Raw Huge Tuna": 97,
+        "Sturdy Drift Wood": 120,
+        "Rotten Drift Wood": 115,
+        "Aquamarine": 11,
+        "Sunken Treasure": 1
+      }
+    },
+    "Almost Jurassic": {
+      "kills": 8.0,
+      "loot": {
+        "Raw Megalodon": 22,
+        "Raw Huge Tuna": 27,
+        "Raw Great White Shark": 6,
+        "Raw Hammerhead Shark": 11
       }
     }
   },
   "611": {
     "Elite Spriggan": {
-      "kills": 102.22599999999998,
+      "kills": 106.21899999999998,
       "loot": {
-        "Branch": 3117,
-        "Log": 2702,
-        "Oak Log": 2421,
-        "Willow Log": 3168,
-        "Maple Log": 2628,
-        "Yew Log": 2422,
+        "Branch": 3330,
+        "Log": 2747,
+        "Oak Log": 2491,
+        "Willow Log": 3264,
+        "Maple Log": 2729,
+        "Yew Log": 2553,
         "Mysterious Seed": 1,
         "Satchel": 2,
         "Elder Tree Seed": 2,
@@ -2949,126 +3352,130 @@
   },
   "54": {
     "The Still Lake": {
-      "kills": 183.0,
+      "kills": 262.176,
       "loot": {
-        "Raw Lobster": 1297,
-        "Raw Magnetic Minnow": 195,
-        "Raw Crab": 289,
-        "Seaweed": 201,
-        "Rotten Drift Wood": 70,
-        "Sturdy Drift Wood": 68,
-        "Raw Tigerfish": 29,
-        "Raw Slippery Eel": 14
-      }
-    },
-    "Cage Match!": {
-      "kills": 44.0,
-      "loot": {
-        "Raw Lobster": 324,
-        "Raw Crab": 237,
-        "Raw Ancient Lobster": 28
-      }
-    },
-    "Eye of the Storm": {
-      "kills": 1884.18,
-      "loot": {
-        "Raw Tuna": 6037,
-        "Raw Shark": 3255,
-        "Seaweed": 3368,
-        "Rotten Drift Wood": 3424,
-        "Raw Huge Tuna": 2121,
-        "Raw Great White Shark": 1082,
-        "Sturdy Drift Wood": 4221,
-        "Raw Hammerhead Shark": 1151,
-        "Raw Megalodon": 892,
-        "Aquamarine": 395,
-        "Sunken Treasure": 8,
-        "Fish Oil": 6,
-        "Fisherman's Smock": 1,
-        "Fisherman's Bucket Hat": 1,
-        "Ancient Fishing Net": 1,
+        "Raw Lobster": 1629,
+        "Raw Magnetic Minnow": 280,
+        "Raw Crab": 412,
+        "Seaweed": 262,
+        "Rotten Drift Wood": 116,
+        "Sturdy Drift Wood": 107,
+        "Raw Tigerfish": 99,
+        "Raw Slippery Eel": 70,
         "Fisherman's Waders": 1
       }
     },
-    "The Stormy Seas": {
-      "kills": 3649.18,
+    "Cage Match!": {
+      "kills": 84.36,
       "loot": {
-        "Raw Tuna": 6023,
-        "Raw Shark": 9070,
-        "Sturdy Drift Wood": 2530,
-        "Raw Great White Shark": 1265,
-        "Raw Hammerhead Shark": 5377,
-        "Rotten Drift Wood": 2622,
-        "Seaweed": 1398,
-        "Raw Huge Tuna": 1623,
-        "Raw Megalodon": 206,
-        "Aquamarine": 46,
-        "Ancient Treasure": 4,
-        "Sunken Treasure": 8,
-        "Fish Oil": 2,
+        "Raw Lobster": 552,
+        "Raw Crab": 417,
+        "Raw Ancient Lobster": 84,
+        "Sunken Treasure": 1
+      }
+    },
+    "Eye of the Storm": {
+      "kills": 3533.412,
+      "loot": {
+        "Raw Tuna": 11536,
+        "Raw Shark": 6207,
+        "Seaweed": 6656,
+        "Rotten Drift Wood": 6383,
+        "Raw Huge Tuna": 3860,
+        "Raw Great White Shark": 2110,
+        "Sturdy Drift Wood": 8513,
+        "Raw Hammerhead Shark": 2319,
+        "Raw Megalodon": 1723,
+        "Aquamarine": 773,
+        "Sunken Treasure": 17,
+        "Fish Oil": 20,
+        "Fisherman's Smock": 1,
+        "Fisherman's Bucket Hat": 1,
+        "Ancient Fishing Net": 1,
+        "Ancient Fishing Rod": 1,
+        "Ancient Harpoon": 1,
+        "Fisherman's Waders": 2
+      }
+    },
+    "The Stormy Seas": {
+      "kills": 6251.336,
+      "loot": {
+        "Raw Tuna": 11086,
+        "Raw Shark": 16649,
+        "Sturdy Drift Wood": 4519,
+        "Raw Great White Shark": 2361,
+        "Raw Hammerhead Shark": 9947,
+        "Rotten Drift Wood": 4749,
+        "Seaweed": 2467,
+        "Raw Huge Tuna": 3826,
+        "Raw Megalodon": 563,
+        "Aquamarine": 146,
+        "Ancient Treasure": 6,
+        "Sunken Treasure": 18,
+        "Fish Oil": 34,
         "Fisherman's Bucket Hat": 1
       }
     },
     "Swordfish": {
-      "kills": 835.36,
+      "kills": 1675.536,
       "loot": {
-        "Fish Guts Bait": 9877,
-        "Smelly Meat Bait": 4043,
+        "Fish Guts Bait": 18904,
+        "Smelly Meat Bait": 7546,
         "Mysterious Seed": 1,
         "Satchel": 1
       }
     },
     "Sharks Ate All The Tuna": {
-      "kills": 299.0,
+      "kills": 415.0,
       "loot": {
-        "Raw Shark": 1360,
-        "Raw Hammerhead Shark": 532,
-        "Raw Great White Shark": 391,
-        "Seaweed": 269,
-        "Rotten Drift Wood": 233,
-        "Sturdy Drift Wood": 274,
-        "Raw Tuna": 50,
+        "Raw Shark": 1916,
+        "Raw Hammerhead Shark": 762,
+        "Raw Great White Shark": 591,
+        "Seaweed": 357,
+        "Rotten Drift Wood": 327,
+        "Sturdy Drift Wood": 361,
+        "Raw Tuna": 73,
         "Fisherman's Waders": 1,
-        "Raw Megalodon": 181,
-        "Fish Oil": 2,
+        "Raw Megalodon": 239,
+        "Fish Oil": 5,
         "Sunken Treasure": 2
       }
     },
     "The Open Ocean": {
-      "kills": 635.0,
+      "kills": 929.0,
       "loot": {
-        "Raw Tuna": 3049,
-        "Seaweed": 295,
-        "Raw Hammerhead Shark": 1057,
-        "Raw Shark": 1955,
-        "Sturdy Drift Wood": 544,
-        "Rotten Drift Wood": 512,
-        "Fish Oil": 11,
-        "Raw Great White Shark": 158,
-        "Sunken Treasure": 3,
-        "Raw Megalodon": 45,
-        "Raw Huge Tuna": 295,
-        "Aquamarine": 15
+        "Raw Tuna": 4478,
+        "Seaweed": 441,
+        "Raw Hammerhead Shark": 1650,
+        "Raw Shark": 2953,
+        "Sturdy Drift Wood": 817,
+        "Rotten Drift Wood": 800,
+        "Fish Oil": 22,
+        "Raw Great White Shark": 233,
+        "Sunken Treasure": 5,
+        "Raw Megalodon": 81,
+        "Raw Huge Tuna": 529,
+        "Aquamarine": 19
       }
     },
     "Carefree Day": {
-      "kills": 238.0,
+      "kills": 359.0,
       "loot": {
-        "Raw Tuna": 2198,
-        "Sturdy Drift Wood": 592,
-        "Seaweed": 486,
-        "Rotten Drift Wood": 522,
-        "Raw Huge Tuna": 528,
-        "Aquamarine": 39,
-        "Fish Oil": 2
+        "Raw Tuna": 3261,
+        "Sturdy Drift Wood": 894,
+        "Seaweed": 731,
+        "Rotten Drift Wood": 772,
+        "Raw Huge Tuna": 819,
+        "Aquamarine": 56,
+        "Fish Oil": 8
       }
     },
     "Ascended": {
-      "kills": 91.0,
+      "kills": 188.38400000000001,
       "loot": {
-        "Shrimp Tail Bait": 4438,
-        "Fish Guts Bait": 2364,
-        "Smelly Meat Bait": 632
+        "Shrimp Tail Bait": 8441,
+        "Fish Guts Bait": 5332,
+        "Smelly Meat Bait": 1279
       }
     },
     "The Shallow Pond": {
@@ -3106,75 +3513,102 @@
       }
     },
     "Shipwreck Bay": {
-      "kills": 228.0,
+      "kills": 329.0,
       "loot": {
-        "Raw Shark": 952,
-        "Raw Megalodon": 622,
-        "Seaweed": 483,
-        "Raw Great White Shark": 859,
-        "Raw Hammerhead Shark": 907,
-        "Rotten Drift Wood": 442,
-        "Sturdy Drift Wood": 610,
-        "Aquamarine": 61,
+        "Raw Shark": 1364,
+        "Raw Megalodon": 845,
+        "Seaweed": 686,
+        "Raw Great White Shark": 1245,
+        "Raw Hammerhead Shark": 1289,
+        "Rotten Drift Wood": 571,
+        "Sturdy Drift Wood": 875,
+        "Aquamarine": 83,
         "Sunken Treasure": 3,
-        "Fisherman's Waders": 2
+        "Fisherman's Waders": 2,
+        "Fish Oil": 9,
+        "Ancient Fishing Net": 1
       }
     },
     "World's End": {
-      "kills": 23.0,
+      "kills": 92.384,
       "loot": {
-        "Raw Tuna": 59,
-        "Raw Shark": 71,
-        "Raw Huge Tuna": 49,
-        "Raw Great White Shark": 33,
-        "Raw Hammerhead Shark": 86,
-        "Raw Megalodon": 9,
-        "Rotten Drift Wood": 7,
-        "Sturdy Drift Wood": 7,
-        "Seaweed": 3,
-        "Sunken Treasure": 1,
-        "Aquamarine": 2
+        "Raw Tuna": 174,
+        "Raw Shark": 294,
+        "Raw Huge Tuna": 204,
+        "Raw Great White Shark": 126,
+        "Raw Hammerhead Shark": 364,
+        "Raw Megalodon": 81,
+        "Rotten Drift Wood": 25,
+        "Sturdy Drift Wood": 27,
+        "Seaweed": 17,
+        "Sunken Treasure": 2,
+        "Aquamarine": 7,
+        "Fish Oil": 2
       }
     },
     "Almost Jurassic": {
-      "kills": 73.0,
+      "kills": 132.0,
       "loot": {
-        "Raw Megalodon": 262,
-        "Raw Huge Tuna": 704,
-        "Raw Great White Shark": 167,
-        "Raw Hammerhead Shark": 125,
-        "Raw Tentacle Meat": 46,
-        "Aquamarine": 10
+        "Raw Megalodon": 455,
+        "Raw Huge Tuna": 1173,
+        "Raw Great White Shark": 280,
+        "Raw Hammerhead Shark": 242,
+        "Raw Tentacle Meat": 86,
+        "Aquamarine": 19,
+        "Fish Oil": 4,
+        "Ancient Treasure": 1,
+        "Sunken Treasure": 1
       }
     },
     "Is that a tentacle?": {
-      "kills": 25.0,
+      "kills": 47.0,
       "loot": {
-        "Raw Tentacle Meat": 116,
-        "Raw Great White Shark": 187,
-        "Raw Hammerhead Shark": 144,
-        "Aquamarine": 16,
-        "Raw Megalodon": 56
+        "Raw Tentacle Meat": 170,
+        "Raw Great White Shark": 306,
+        "Raw Hammerhead Shark": 222,
+        "Aquamarine": 20,
+        "Raw Megalodon": 100,
+        "Fish Oil": 2,
+        "Sunken Treasure": 1
       }
     },
     "Big Catch!": {
-      "kills": 5.0,
+      "kills": 28.52,
       "loot": {
-        "Raw Lobster": 27,
-        "Raw Tigerfish": 6,
-        "Raw Crab": 16,
-        "Raw Ancient Lobster": 6,
-        "Raw Slippery Eel": 5,
-        "Aquamarine": 2
+        "Raw Lobster": 149,
+        "Raw Tigerfish": 33,
+        "Raw Crab": 92,
+        "Raw Ancient Lobster": 17,
+        "Raw Slippery Eel": 38,
+        "Aquamarine": 2,
+        "Sunken Treasure": 1
       }
     },
     "Endless Vortex": {
-      "kills": 6.0,
+      "kills": 131.792,
       "loot": {
-        "Raw Megalodon": 42,
-        "Raw Tentacle Meat": 59,
+        "Raw Megalodon": 862,
+        "Raw Tentacle Meat": 1078,
         "Aquamarine": 1,
-        "Ancient Treasure": 1
+        "Ancient Treasure": 2,
+        "Fisherman's Bucket Hat": 1,
+        "Fish Oil": 8,
+        "Sunken Treasure": 1
+      }
+    },
+    "INFO's Stand": {
+      "kills": 2.0,
+      "loot": {
+        "Raw Tentacle Meat": 29,
+        "Fish Oil": 1
+      }
+    },
+    "Playtester's Paradise": {
+      "kills": 3.0,
+      "loot": {
+        "Raw Megalodon": 23,
+        "Raw Great White Shark": 11,
+        "Raw Hammerhead Shark": 2
       }
     }
   },
