@@ -93,9 +93,11 @@ class zoneshow {
           let gpk = marketValue * (stats/log.kills)
           market += gpk
         }
-        try{
-          zoneMarket += market * zoneFrequency[zone][monster]
-        } catch(error) {};
+        if( monster in zoneFrequency[zonevalue] ){
+          try{
+            zoneMarket += market * zoneFrequency[zone][monster]
+          } catch(error) {};
+        }
       }
       // Now we need to collect from rowDictionary
       let th = document.getElementById(`${zone}_treasure`).value
@@ -206,6 +208,7 @@ const zoneFrequency = {
   "607": {"Elite Infected Naga": 2/3, "Elite Bone Giant": 1/3},
   "613": {"Elite Chaos Giant": 1},
   "604": {"Ot_to's Prized Hen":4, "Elite Goblin":3, "Elite Black Knight": 3, "Elite Lesser Demon": 2, "Elite Greater Demon": 1, "Elite Infected Naga": 2, "Elite Bone Giant": 1, "Elite Spriggan": 1, "Elite Fire Giant": 1, "Elite Ice Giant": 1, "Elite Moss Giant": 1, "Elite Chaos Giant": 1, "Giant King": 1, "Enraged Giant King": 1, "Shard of INFO": 1, "Essence of INFO": 1},
+  "701": {"Goblin": 7, "Elite Goblin": 3, "Goblin Village": 1},
   "700": {"Chaos Giant": 2, "Elite Chaos Giant": 1, "Elite Fire Giant": 1, "Elite Ice Giant": 1, "Elite Moss Giant": 1, "Enraged Giant King": 1, "Giant King": 1, "Giant's Keep": 1, "The Advisor": 1},
   "702": {"Black Knight": 7, "Black Knight Titan": 4, "Familiar Stranger": 1, "Black Knight's Fortress": 1},
 }

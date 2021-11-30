@@ -104,9 +104,11 @@ class lootshow {
         market += gpk
       }
       // add to zoneMarket
-      try{
-        zoneMarket += market * zoneFrequency[zonevalue][monster]
-      } catch(error) {};
+      if( monster in zoneFrequency[zonevalue] ){
+        try{
+          zoneMarket += market * zoneFrequency[zonevalue][monster]
+        } catch(error) {};
+      }
       newdiv.append(table)
       // Default sort
       sortTable(table, 1, "num")
