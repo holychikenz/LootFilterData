@@ -93,7 +93,7 @@ class zoneshow {
           let gpk = marketValue * (stats/log.kills)
           market += gpk
         }
-        if( monster in zoneFrequency[zonevalue] ){
+        if( monster in zoneFrequency[zone] ){
           try{
             zoneMarket += market * zoneFrequency[zone][monster]
           } catch(error) {};
