@@ -93,11 +93,11 @@ class zoneshow {
           let gpk = marketValue * (stats/log.kills)
           market += gpk
         }
-        if( monster in zoneFrequency[zone] ){
-          try{
+        try{
+          if( monster in zoneFrequency[zone] ){
             zoneMarket += market * zoneFrequency[zone][monster]
-          } catch(error) {};
-        }
+          }
+        } catch(error) {};
       }
       // Now we need to collect from rowDictionary
       let th = document.getElementById(`${zone}_treasure`).value
