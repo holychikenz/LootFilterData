@@ -393,56 +393,55 @@
   },
   "29": {
     "Chaotic Abomination": {
-      "kills": 765273.2499999999,
+      "kills": 743269.23,
       "loot": {
-        "Chaos Rune": 1625921,
-        "Earth Rune": 9983,
-        "Cosmic Rune": 10181,
-        "Air Rune": 10129,
-        "Mind Rune": 10143,
-        "Stygian Boots": 369,
-        "Blood Rune": 9969,
-        "Fire Rune": 9903,
-        "Mysterious Seed": 738,
-        "Nature Rune": 10016,
-        "Water Rune": 9982,
-        "Useless Scraps": 969,
-        "Death Rune": 9822,
-        "Scroll of Fortitude": 123,
-        "Satchel": 759,
-        "Chaos Talisman": 764,
-        "Chaos Fragment": 179,
-        "Ancient Fire Amulet": 30,
-        "Shapeless Scroll": 72,
+        "Chaos Rune": 1570474,
+        "Earth Rune": 9693,
+        "Blood Rune": 9641,
+        "Useless Scraps": 930,
+        "Cosmic Rune": 9839,
+        "Air Rune": 9750,
+        "Nature Rune": 9682,
+        "Mysterious Seed": 707,
+        "Fire Rune": 9524,
+        "Water Rune": 9698,
+        "Mind Rune": 9823,
+        "Death Rune": 9512,
+        "Satchel": 730,
+        "Chaos Talisman": 739,
+        "Stygian Boots": 364,
+        "Shapeless Scroll": 67,
+        "Chaos Fragment": 172,
+        "Scroll of Fortitude": 118,
+        "Ancient Fire Amulet": 27,
         "Signet Ring": 106,
-        "Ancient Nature Amulet": 46
+        "Ancient Nature Amulet": 39
       }
     },
     "Chaos Giant": {
-      "kills": 1019772.7719999999,
+      "kills": 990937.172,
       "loot": {
-        "Chaos Rune": 2154297,
-        "Blood Rune": 13203,
-        "Chaos Talisman": 931,
-        "Nature Rune": 13667,
-        "Death Rune": 13448,
-        "Earth Rune": 13548,
-        "Mysterious Seed": 1002,
-        "Mind Rune": 13448,
-        "Cosmic Rune": 13514,
-        "Useless Scraps": 1401,
-        "Fire Rune": 13434,
-        "Water Rune": 13361,
-        "Air Rune": 13636,
-        "Chaos Fragment": 393,
-        "Satchel": 1036,
-        "Stygian Boots": 532,
-        "Shapeless Scroll": 74,
-        "Scroll of Fortitude": 117,
-        "Ancient Nature Amulet": 62,
-        "Giant Scroll": 1,
+        "Chaos Rune": 2083091,
+        "Blood Rune": 12732,
+        "Fire Rune": 13004,
+        "Earth Rune": 13083,
+        "Mind Rune": 12951,
+        "Cosmic Rune": 13073,
+        "Water Rune": 12910,
+        "Air Rune": 13170,
+        "Nature Rune": 13215,
+        "Death Rune": 12987,
+        "Useless Scraps": 1362,
+        "Chaos Talisman": 887,
+        "Stygian Boots": 510,
+        "Satchel": 1003,
+        "Mysterious Seed": 966,
+        "Chaos Fragment": 370,
+        "Scroll of Fortitude": 114,
+        "Ancient Nature Amulet": 54,
+        "Shapeless Scroll": 68,
         "Crystal Mace": 67,
-        "Ancient Fire Amulet": 43
+        "Ancient Fire Amulet": 39
       }
     }
   },
@@ -467,35 +466,6 @@
         "Obsidian Breastplate": 40,
         "Satchel": 10,
         "Black Knight Great Helm": 1
-      }
-    }
-  },
-  "54": {
-    "Ascended": {
-      "kills": 6582.239000000001,
-      "loot": {
-        "Shrimp Tail Bait": 287641,
-        "Fish Guts Bait": 179232,
-        "Smelly Meat Bait": 43699,
-        "Ancient Treasure": 1,
-        "Sunken Treasure": 2,
-        "Stormy Sea Scroll": 1,
-        "Satchel": 1
-      }
-    },
-    "Swordfish": {
-      "kills": 65463.828,
-      "loot": {
-        "Seaweed": 74578,
-        "Fish Guts Bait": 764674,
-        "Smelly Meat Bait": 315628,
-        "Rotten Driftwood": 11943,
-        "Sturdy Driftwood": 3740,
-        "Raw Tigerfish": 37261,
-        "Mystical Driftwood": 1193,
-        "Mysterious Seed": 14,
-        "Satchel": 8,
-        "Stormy Sea Scroll": 5
       }
     }
   },
@@ -940,53 +910,53 @@
   },
   "702": {
     "Familiar Stranger": {
-      "kills": 3970.9730000000004,
+      "kills": 3958.9730000000004,
       "loot": {
         "Book": 390,
-        "Stygian Ore": 175044,
-        "Blood Talisman": 3331,
-        "Air Rune": 50979,
-        "Earth Rune": 51179,
-        "Fire Rune": 49750,
-        "Water Rune": 49691,
-        "Blood Rune": 48800,
-        "Death Rune": 163863,
-        "Chaos Rune": 51331,
-        "Nature Rune": 101156,
-        "Mind Rune": 48949,
-        "Cosmic Rune": 49991,
-        "Ichor": 21451,
-        "Stygian Bar": 25676,
-        "Satchel": 390,
-        "Mysterious Seed": 394,
-        "Stygian Boots": 94,
+        "Stygian Ore": 174580,
+        "Blood Talisman": 3319,
+        "Air Rune": 50745,
+        "Earth Rune": 50926,
+        "Fire Rune": 49462,
+        "Water Rune": 49535,
+        "Blood Rune": 48640,
+        "Death Rune": 163294,
+        "Chaos Rune": 51055,
+        "Nature Rune": 100799,
+        "Mind Rune": 48751,
+        "Cosmic Rune": 49800,
+        "Ichor": 21360,
+        "Stygian Bar": 25546,
+        "Satchel": 389,
+        "Mysterious Seed": 393,
+        "Stygian Boots": 93,
         "Decayed Cloak": 40,
         "Chorus of Souls": 33
       }
     },
     "Black Knight's Fortress": {
-      "kills": 3842.1330000000003,
+      "kills": 3830.1330000000003,
       "loot": {
-        "Gold": 893443003,
-        "Obsidian Scimitar": 5664,
-        "Obsidian Battleaxe": 5738,
-        "Obsidian Daggers": 5726,
-        "Obsidian Greatsword": 5636,
-        "Obsidian Helm": 5701,
-        "Obsidian Full Helm": 5697,
-        "Obsidian Shield": 5827,
-        "Obsidian Breastplate": 5766,
-        "Obsidian Chainmail": 5757,
-        "Obsidian Plate Leggings": 5769,
-        "Obsidian Boots": 5768,
-        "Mithril Boots": 5728,
+        "Gold": 889707958,
+        "Obsidian Scimitar": 5641,
+        "Obsidian Battleaxe": 5714,
+        "Obsidian Daggers": 5708,
+        "Obsidian Greatsword": 5629,
+        "Obsidian Helm": 5690,
+        "Obsidian Full Helm": 5681,
+        "Obsidian Shield": 5804,
+        "Obsidian Breastplate": 5739,
+        "Obsidian Chainmail": 5718,
+        "Obsidian Plate Leggings": 5761,
+        "Obsidian Boots": 5759,
+        "Mithril Boots": 5714,
         "Black Knight Titan's Helm": 111
       }
     },
     "Black Knight": {
-      "kills": 28385.891000000003,
+      "kills": 28307.891000000003,
       "loot": {
-        "Gold": 6092336,
+        "Gold": 6071402,
         "Obsidian Plate Leggings": 14,
         "Obsidian Boots": 30,
         "Obsidian Daggers": 34,
@@ -1003,72 +973,72 @@
       }
     },
     "Black Knight Titan": {
-      "kills": 16570.832000000002,
+      "kills": 16522.832000000002,
       "loot": {
-        "Gold": 190977440,
-        "Obsidian Chainmail": 664,
-        "Obsidian Greatsword": 401,
-        "Satchel": 797,
+        "Gold": 190388228,
+        "Obsidian Chainmail": 662,
+        "Obsidian Greatsword": 396,
+        "Satchel": 792,
         "Obsidian Battleaxe": 629,
-        "Obsidian Full Helm": 791,
+        "Obsidian Full Helm": 789,
         "Obsidian Shield": 729,
         "Black Knight Great Helm": 415,
-        "Mysterious Seed": 1282,
-        "Obsidian Daggers": 2138,
-        "Obsidian Helm": 2126,
-        "Stygian Boots": 309,
-        "Mithril Boots": 742,
-        "Black Knight's Gauntlets": 329,
-        "Obsidian Plate Leggings": 799,
-        "Obsidian Boots": 1497,
-        "Obsidian Scimitar": 1030,
+        "Mysterious Seed": 1281,
+        "Obsidian Daggers": 2134,
+        "Obsidian Helm": 2104,
+        "Stygian Boots": 306,
+        "Mithril Boots": 740,
+        "Black Knight's Gauntlets": 327,
+        "Obsidian Plate Leggings": 796,
+        "Obsidian Boots": 1495,
+        "Obsidian Scimitar": 1028,
         "Obsidian Breastplate": 421
       }
     }
   },
   "12": {
     "Small Rat": {
-      "kills": 146891.94799999992,
+      "kills": 135912.18800000002,
       "loot": {
         "Smelly Meat Bait": 12500,
-        "Book": 266,
+        "Book": 246,
         "Satchel": 2
       }
     },
     "Cow": {
-      "kills": 141468.17099999997,
+      "kills": 134159.34100000001,
       "loot": {
-        "Raw Beef": 124568,
-        "Milk": 55139
+        "Raw Beef": 117267,
+        "Milk": 52263
       }
     },
     "Chicken": {
-      "kills": 140831.59,
+      "kills": 133896.74999999997,
       "loot": {
-        "Feather": 83247,
-        "Raw Chicken": 123917,
-        "Egg": 69175,
-        "Branch": 68855,
-        "Satchel": 4,
+        "Feather": 78852,
+        "Raw Chicken": 116988,
+        "Egg": 65788,
+        "Branch": 65392,
+        "Satchel": 3,
         "Cluster-Cluck": 7,
-        "Mysterious Seed": 4
+        "Mysterious Seed": 3
       }
     },
     "Goblin": {
-      "kills": 45457.84599999999,
+      "kills": 43874.69599999999,
       "loot": {
-        "Gold": 910702,
-        "Goblin Brain": 9066,
+        "Gold": 879152,
+        "Goblin Brain": 8763,
         "Smelly Meat Bait": 18613,
-        "Copper Ore": 2467,
-        "Tin Ore": 2357,
-        "Silver": 1009,
+        "Copper Ore": 2388,
+        "Tin Ore": 2300,
+        "Silver": 980,
         "Greater Ladle": 8,
-        "Bronze Boots": 45,
+        "Bronze Boots": 43,
         "Bronze Bar": 132,
-        "Scrap of Stained Parchment": 55,
+        "Scrap of Stained Parchment": 54,
         "Lesser Ladle": 5,
-        "Iron Boots": 24,
+        "Iron Boots": 23,
         "Ladle": 8,
         "Mysterious Seed": 5,
         "Stew Stained Page": 5
@@ -1871,6 +1841,31 @@
         "Sageberry Bush Seed": 15,
         "Elder Tree Seed": 8,
         "Ancient Nature Amulet": 5
+      }
+    }
+  },
+  "54": {
+    "Swordfish": {
+      "kills": 6230.246000000001,
+      "loot": {
+        "Seaweed": 9352,
+        "Fish Guts Bait": 74338,
+        "Smelly Meat Bait": 31074,
+        "Rotten Driftwood": 1487,
+        "Raw Tigerfish": 4768,
+        "Sturdy Driftwood": 406,
+        "Mystical Driftwood": 137,
+        "Stormy Sea Scroll": 5
+      }
+    },
+    "Ascended": {
+      "kills": 675.232,
+      "loot": {
+        "Shrimp Tail Bait": 30882,
+        "Fish Guts Bait": 18655,
+        "Smelly Meat Bait": 4282,
+        "Ancient Treasure": 1,
+        "Stormy Sea Scroll": 1
       }
     }
   },
