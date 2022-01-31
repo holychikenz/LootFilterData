@@ -1,7 +1,7 @@
 {
   "27": {
     "Fire Giant": {
-      "kills": 702191.0279999996,
+      "kills": 699446.0437228454,
       "loot": {
         "Fire Rune": 1500855,
         "Burnt Fish": 755841,
@@ -26,7 +26,7 @@
       }
     },
     "Ice Giant": {
-      "kills": 701074.1330000001,
+      "kills": 698303.3747065439,
       "loot": {
         "Water Rune": 1487406,
         "Raw Anchovy": 69386,
@@ -56,7 +56,7 @@
       }
     },
     "Moss Giant": {
-      "kills": 699450.3780000001,
+      "kills": 696711.1802141,
       "loot": {
         "Stone": 545583,
         "Nature Rune": 1303418,
@@ -81,7 +81,7 @@
   },
   "11": {
     "Guard": {
-      "kills": 5261459.810000002,
+      "kills": 5231060.095648888,
       "loot": {
         "Gold": 2038610729,
         "Sapphire": 2527,
@@ -96,7 +96,7 @@
       }
     },
     "Black Knight": {
-      "kills": 1315007.6539999999,
+      "kills": 1307409.3521141496,
       "loot": {
         "Gold": 258199751,
         "Obsidian Boots": 1074,
@@ -120,7 +120,7 @@
   },
   "700": {
     "Elite Moss Giant": {
-      "kills": 21629.066999999995,
+      "kills": 22869.227049617046,
       "loot": {
         "Stone": 897659,
         "Nature Talisman": 17578,
@@ -142,7 +142,7 @@
       }
     },
     "Elite Fire Giant": {
-      "kills": 21585.291999999998,
+      "kills": 22822.47038295038,
       "loot": {
         "Burnt Fish": 3231747,
         "Coal": 2372400,
@@ -167,7 +167,7 @@
       }
     },
     "Elite Ice Giant": {
-      "kills": 21517.451999999997,
+      "kills": 22755.35704961705,
       "loot": {
         "Raw Trout": 158670,
         "Raw Salmon": 137478,
@@ -196,7 +196,7 @@
       }
     },
     "Chaos Giant": {
-      "kills": 42934.44899999999,
+      "kills": 45407.27743256743,
       "loot": {
         "Chaos Rune": 92645,
         "Cosmic Rune": 558,
@@ -220,7 +220,7 @@
       }
     },
     "Elite Chaos Giant": {
-      "kills": 21368.602,
+      "kills": 22599.87371628372,
       "loot": {
         "Chaos Talisman": 17358,
         "Earth Rune": 81631,
@@ -244,7 +244,7 @@
       }
     },
     "The Advisor": {
-      "kills": 21176.064999999995,
+      "kills": 22388.043716283726,
       "loot": {
         "Blood Talisman": 17234,
         "Earth Rune": 265205,
@@ -269,13 +269,13 @@
       }
     },
     "Giant King": {
-      "kills": 20747.713999999993,
+      "kills": 21922.82704961705,
       "loot": {
         "Stone": 16885
       }
     },
     "Enraged Giant King": {
-      "kills": 20534.293999999998,
+      "kills": 21701.367049617056,
       "loot": {
         "Giant Scraps": 356469,
         "Giant King's Jewel": 130,
@@ -283,7 +283,7 @@
       }
     },
     "Giant's Keep": {
-      "kills": 20150.761999999995,
+      "kills": 21277.927049617057,
       "loot": {
         "Gold": 369039476,
         "Mysterious Seed": 41157,
@@ -319,7 +319,7 @@
   },
   "29": {
     "Chaotic Abomination": {
-      "kills": 1044723.808,
+      "kills": 1037090.1825787727,
       "loot": {
         "Chaos Rune": 2193835,
         "Blood Rune": 13342,
@@ -345,7 +345,7 @@
       }
     },
     "Chaos Giant": {
-      "kills": 1392602.334,
+      "kills": 1382748.2925746571,
       "loot": {
         "Chaos Rune": 2911039,
         "Blood Rune": 17527,
@@ -373,7 +373,7 @@
   },
   "605": {
     "Elite Black Knight": {
-      "kills": 1803.5300000000009,
+      "kills": 1508.3537144657885,
       "loot": {
         "Gold": 54067204,
         "Dark Key Piece": 277,
@@ -398,7 +398,7 @@
   },
   "28": {
     "Infected Naga": {
-      "kills": 1440008.7090000005,
+      "kills": 1434873.6249816704,
       "loot": {
         "Gold Ore": 354475,
         "Gold Bar": 256850,
@@ -421,7 +421,7 @@
       }
     },
     "Corrupted Tree": {
-      "kills": 1439142.6960000002,
+      "kills": 1433929.1115317736,
       "loot": {
         "Mushroom Spore": 28641,
         "Oak Log": 111904,
@@ -456,7 +456,7 @@
       }
     },
     "Bone Giant": {
-      "kills": 359571.8309999998,
+      "kills": 358289.66622165375,
       "loot": {
         "Stygian Bar": 10680,
         "Stygian Ore": 106888,
@@ -485,7 +485,7 @@
   },
   "609": {
     "Ot_to's Prized Hen": {
-      "kills": 528.2889999999999,
+      "kills": 431.23723546984417,
       "loot": {
         "Branch": 7684,
         "Feather": 44025,
@@ -498,7 +498,7 @@
   },
   "608": {
     "Elite Goblin": {
-      "kills": 2816.0979999999995,
+      "kills": 2229.3812943472412,
       "loot": {
         "Gold": 9839673,
         "Copper Ore": 30075,
@@ -520,7 +520,7 @@
   },
   "701": {
     "Goblin": {
-      "kills": 17824.784,
+      "kills": 18752.788,
       "loot": {
         "Gold": 677203,
         "Goblin Brain": 11394,
@@ -540,7 +540,7 @@
       }
     },
     "Elite Goblin": {
-      "kills": 7391.117000000005,
+      "kills": 7733.226571428574,
       "loot": {
         "Gold": 32489013,
         "Copper Ore": 77319,
@@ -559,7 +559,7 @@
       }
     },
     "Goblin Village": {
-      "kills": 2284.5830000000005,
+      "kills": 2368.842857142857,
       "loot": {
         "Raw Anchovy": 129822,
         "Raw Salmon": 120219,
@@ -582,7 +582,7 @@
   },
   "613": {
     "Elite Chaos Giant": {
-      "kills": 2845.4120000000003,
+      "kills": 2628.253720789015,
       "loot": {
         "Chaos Talisman": 2000,
         "Chaos Rune": 87764,
@@ -609,7 +609,7 @@
   },
   "606": {
     "Elite Ice Giant": {
-      "kills": 1637.3140000000003,
+      "kills": 1505.397012987013,
       "loot": {
         "Raw Shrimp": 17585,
         "Raw Salmon": 10438,
@@ -639,7 +639,7 @@
       }
     },
     "Elite Moss Giant": {
-      "kills": 1823.009,
+      "kills": 1674.6441025641027,
       "loot": {
         "Stone": 69430,
         "Nature Talisman": 1296,
@@ -662,7 +662,7 @@
       }
     },
     "Elite Fire Giant": {
-      "kills": 1835.9729999999997,
+      "kills": 1684.781365301365,
       "loot": {
         "Burnt Fish": 276710,
         "Coal": 186091,
@@ -689,7 +689,7 @@
   },
   "702": {
     "Familiar Stranger": {
-      "kills": 5697.446999999999,
+      "kills": 5902.215012987013,
       "loot": {
         "Book": 544,
         "Stygian Ore": 249646,
@@ -714,7 +714,7 @@
       }
     },
     "Black Knight's Fortress": {
-      "kills": 5444.946999999999,
+      "kills": 5632.295012987013,
       "loot": {
         "Gold": 1248906257,
         "Obsidian Scimitar": 7987,
@@ -733,7 +733,7 @@
       }
     },
     "Black Knight": {
-      "kills": 40556.738999999994,
+      "kills": 42159.755090909086,
       "loot": {
         "Gold": 8637528,
         "Obsidian Plate Leggings": 21,
@@ -753,7 +753,7 @@
       }
     },
     "Black Knight Titan": {
-      "kills": 23698.987999999998,
+      "kills": 24621.390051948052,
       "loot": {
         "Gold": 269550474,
         "Obsidian Chainmail": 883,
@@ -778,7 +778,7 @@
   },
   "12": {
     "Small Rat": {
-      "kills": 203857.77499999997,
+      "kills": 203408.53237762235,
       "loot": {
         "Smelly Meat Bait": 21541,
         "Book": 380,
@@ -787,14 +787,14 @@
       }
     },
     "Cow": {
-      "kills": 201849.36599999998,
+      "kills": 201393.44600599396,
       "loot": {
         "Raw Beef": 181206,
         "Milk": 79301
       }
     },
     "Chicken": {
-      "kills": 201408.12300000008,
+      "kills": 200957.0565401266,
       "loot": {
         "Feather": 119186,
         "Raw Chicken": 180759,
@@ -806,7 +806,7 @@
       }
     },
     "Goblin": {
-      "kills": 66255.74699999997,
+      "kills": 66106.37376623374,
       "loot": {
         "Gold": 1335954,
         "Goblin Brain": 13245,
@@ -828,7 +828,7 @@
   },
   "6": {
     "Aberrant Shrimp": {
-      "kills": 211.22200000000004,
+      "kills": 209.32434782608698,
       "loot": {
         "Shrimp Shell": 46,
         "Shrimp Greaves": 59,
@@ -840,7 +840,7 @@
   },
   "607": {
     "Elite Infected Naga": {
-      "kills": 1266.188,
+      "kills": 1084.5437818906241,
       "loot": {
         "Gold Ore": 114709,
         "Runite Ore": 26462,
@@ -862,7 +862,7 @@
       }
     },
     "Elite Bone Giant": {
-      "kills": 605.172,
+      "kills": 523.678979486286,
       "loot": {
         "Book": 62,
         "Stygian Ore": 26928,
@@ -890,7 +890,7 @@
   },
   "26": {
     "Spriggan": {
-      "kills": 33844.47699999999,
+      "kills": 33314.492736966844,
       "loot": {
         "Log": 43865,
         "Oak Log": 44791,
@@ -908,7 +908,7 @@
   },
   "54": {
     "Swordfish": {
-      "kills": 113168.59700000001,
+      "kills": 112398.67291042286,
       "loot": {
         "Seaweed": 165745,
         "Raw Tigerfish": 82869,
@@ -923,7 +923,7 @@
       }
     },
     "Ascended": {
-      "kills": 11420.677,
+      "kills": 11342.73277167277,
       "loot": {
         "Shrimp Tail Bait": 498342,
         "Fish Guts Bait": 302349,
@@ -951,7 +951,7 @@
   },
   "611": {
     "Elite Spriggan": {
-      "kills": 471.475,
+      "kills": 418.0535823653471,
       "loot": {
         "Branch": 12008,
         "Log": 11532,
@@ -1366,7 +1366,7 @@
   },
   "604": {
     "Ot_to's Prized Hen": {
-      "kills": 758.857,
+      "kills": 752.5854545454546,
       "loot": {
         "Feather": 130673,
         "Raw Chicken": 13038,
@@ -1377,7 +1377,7 @@
       }
     },
     "Elite Goblin": {
-      "kills": 597.4760000000001,
+      "kills": 592.5381818181819,
       "loot": {
         "Gold": 4133126,
         "Copper Ore": 13143,
@@ -1397,7 +1397,7 @@
       }
     },
     "Elite Black Knight": {
-      "kills": 550.495,
+      "kills": 545.9454545454546,
       "loot": {
         "Gold": 29117855,
         "Obsidian Battleaxe": 72,
@@ -1420,7 +1420,7 @@
       }
     },
     "Elite Lesser Demon": {
-      "kills": 337.2489999999999,
+      "kills": 334.46181818181816,
       "loot": {
         "Burnt Fish": 356,
         "Gold Ore": 6392,
@@ -1452,7 +1452,7 @@
       }
     },
     "Elite Greater Demon": {
-      "kills": 167.95899999999995,
+      "kills": 166.57090909090908,
       "loot": {
         "Book": 184,
         "Burnt Fish": 179,
@@ -1484,7 +1484,7 @@
       }
     },
     "Elite Infected Naga": {
-      "kills": 335.9179999999999,
+      "kills": 333.14181818181817,
       "loot": {
         "Gold Ore": 53529,
         "Runite Ore": 19068,
@@ -1506,7 +1506,7 @@
       }
     },
     "Elite Bone Giant": {
-      "kills": 166.62799999999993,
+      "kills": 165.25090909090903,
       "loot": {
         "Stygian Ore": 17824,
         "Stygian Bar": 2763,
@@ -1531,7 +1531,7 @@
       }
     },
     "Elite Spriggan": {
-      "kills": 163.96599999999995,
+      "kills": 162.61090909090905,
       "loot": {
         "Branch": 9985,
         "Log": 10485,
@@ -1547,7 +1547,7 @@
       }
     },
     "Elite Fire Giant": {
-      "kills": 162.63499999999993,
+      "kills": 161.29090909090905,
       "loot": {
         "Burnt Fish": 53903,
         "Coal": 27174,
@@ -1572,7 +1572,7 @@
       }
     },
     "Elite Moss Giant": {
-      "kills": 161.30399999999995,
+      "kills": 159.97090909090906,
       "loot": {
         "Stone": 11155,
         "Nature Talisman": 169,
@@ -1594,7 +1594,7 @@
       }
     },
     "Elite Ice Giant": {
-      "kills": 147.73,
+      "kills": 146.5090909090909,
       "loot": {
         "Mysterious Seed": 60,
         "Water Talisman": 150,
@@ -1622,7 +1622,7 @@
       }
     },
     "Elite Chaos Giant": {
-      "kills": 149.06099999999998,
+      "kills": 147.8290909090909,
       "loot": {
         "Chaos Talisman": 160,
         "Earth Rune": 1225,
@@ -1647,13 +1647,13 @@
       }
     },
     "Giant King": {
-      "kills": 145.06799999999998,
+      "kills": 143.8690909090909,
       "loot": {
         "Stone": 151
       }
     },
     "Enraged Giant King": {
-      "kills": 143.73699999999997,
+      "kills": 142.5490909090909,
       "loot": {
         "Giant Scraps": 3854,
         "Shapeless Scythe": 1,
@@ -1661,13 +1661,13 @@
       }
     },
     "Shard of INFO": {
-      "kills": 73.46900000000001,
+      "kills": 72.86181818181818,
       "loot": {
         "Stone": 51817
       }
     },
     "Essence of INFO": {
-      "kills": 39.93,
+      "kills": 39.6,
       "loot": {
         "Stone": 290243
       }
@@ -1675,7 +1675,7 @@
   },
   "614": {
     "Elite Ascended": {
-      "kills": 111.98099999999998,
+      "kills": 102.07370962370963,
       "loot": {
         "Smelly Meat Bait": 4695,
         "Writhing Tentacle Bait": 1056,
@@ -1689,7 +1689,7 @@
       }
     },
     "Elite Swordfish": {
-      "kills": 136.527,
+      "kills": 125.33705294705295,
       "loot": {
         "Smelly Meat Bait": 3188,
         "Writhing Tentacle Bait": 1165,
@@ -1709,7 +1709,7 @@
   },
   "13": {
     "Lesser Demon": {
-      "kills": 339164.91300000006,
+      "kills": 334585.7968648126,
       "loot": {
         "Gold Ore": 1694018,
         "Ichor": 196416,
@@ -1742,7 +1742,7 @@
       }
     },
     "Deadly Red Spider": {
-      "kills": 226103.44399999993,
+      "kills": 223072.12440537228,
       "loot": {
         "Spider Legs": 43216,
         "Sapphire": 64,
@@ -1757,7 +1757,7 @@
   },
   "23": {
     "Imp": {
-      "kills": 73949.92400000001,
+      "kills": 73809.06000000001,
       "loot": {
         "Gold": 186221,
         "Coal": 21937,
@@ -1783,7 +1783,7 @@
       }
     },
     "Goblin": {
-      "kills": 73801.65400000001,
+      "kills": 73650.69222222223,
       "loot": {
         "Gold": 1480363,
         "Goblin Brain": 14801,
@@ -1803,7 +1803,7 @@
       }
     },
     "Greater Imp": {
-      "kills": 18606.754,
+      "kills": 18566.867777777778,
       "loot": {
         "Gold": 47028,
         "Burnt Fish": 3691,
@@ -1868,7 +1868,7 @@
   },
   "704": {
     "Ember Demon": {
-      "kills": 64.04,
+      "kills": 89.80999999999999,
       "loot": {
         "Burnt Fish": 40,
         "Gold Ore": 545,
@@ -1889,7 +1889,7 @@
       }
     },
     "Flame Demon": {
-      "kills": 128.08,
+      "kills": 179.61999999999998,
       "loot": {
         "Burnt Fish": 162,
         "Gold Ore": 2645,
@@ -1919,7 +1919,7 @@
       }
     },
     "Inferno Demon": {
-      "kills": 62.22,
+      "kills": 87.32,
       "loot": {
         "Book": 78,
         "Burnt Fish": 77,
@@ -1950,7 +1950,7 @@
       }
     },
     "Inferno Giant": {
-      "kills": 62.22,
+      "kills": 87.32,
       "loot": {
         "Burnt Fish": 16609,
         "Coal": 11708,
@@ -1973,13 +1973,13 @@
       }
     },
     "Just a Chicken": {
-      "kills": 60.400000000000006,
+      "kills": 84.83,
       "loot": {
         "Feather": 75
       }
     },
     "Phoenix": {
-      "kills": 228.51999999999998,
+      "kills": 324.9,
       "loot": {
         "Feather": 29151,
         "Mysterious Seed": 37,
@@ -1988,7 +1988,7 @@
       }
     },
     "Palace of Flames": {
-      "kills": 46.68000000000001,
+      "kills": 69.1,
       "loot": {
         "Heat": 3035065,
         "Gold Ore": 63339,
@@ -2015,7 +2015,7 @@
   },
   "610": {
     "Elite Greater Demon": {
-      "kills": 79.82499999999999,
+      "kills": 67.6313767072281,
       "loot": {
         "Book": 51,
         "Burnt Fish": 50,
@@ -2046,7 +2046,7 @@
       }
     },
     "Elite Lesser Demon": {
-      "kills": 335.35200000000003,
+      "kills": 286.87603851257103,
       "loot": {
         "Burnt Fish": 220,
         "Gold Ore": 3940,
