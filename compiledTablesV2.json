@@ -362,7 +362,7 @@
         },
         "Mysterious Seed": {
           "count": 220.3339652679569,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Iron Boots": {
@@ -490,12 +490,12 @@
         "Nature Talisman": {
           "count": 11283.657449676353,
           "min": 1,
-          "max": 6.0
+          "max": 5.0
         },
         "Nature Rune": {
           "count": 418551.0954938721,
           "min": 1,
-          "max": 317.0
+          "max": 267.0
         },
         "Cosmic Rune": {
           "count": 20909.107879398518,
@@ -505,7 +505,7 @@
         "Earth Rune": {
           "count": 41829.24309462185,
           "min": 1,
-          "max": 60.0
+          "max": 59.0
         },
         "Death Rune": {
           "count": 43195.92839987389,
@@ -515,7 +515,7 @@
         "Air Rune": {
           "count": 42592.54545877939,
           "min": 1,
-          "max": 74.0
+          "max": 58.0
         },
         "Water Rune": {
           "count": 42775.165618465115,
@@ -575,17 +575,17 @@
         "Burnt Fish": {
           "count": 2062148.661802469,
           "min": 1,
-          "max": 1822.0
+          "max": 1511.0
         },
         "Coal": {
           "count": 1521709.2961548157,
           "min": 20,
-          "max": 964.0
+          "max": 891.0
         },
         "Fire Talisman": {
           "count": 11264.271335664365,
           "min": 1,
-          "max": 7.0
+          "max": 5.0
         },
         "Earth Rune": {
           "count": 69326.53613845794,
@@ -600,7 +600,7 @@
         "Ashes": {
           "count": 431857.0281034706,
           "min": 1,
-          "max": 306.0
+          "max": 268.0
         },
         "Water Rune": {
           "count": 68734.84269802699,
@@ -669,7 +669,7 @@
         },
         "RISE OF INFO": {
           "count": 4.094055860587253,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         }
       }
@@ -700,7 +700,7 @@
         "Water Talisman": {
           "count": 11215.486387489656,
           "min": 1,
-          "max": 6.0
+          "max": 5.0
         },
         "Water Rune": {
           "count": 520408.1458882109,
@@ -725,7 +725,7 @@
         "Raw Shrimp": {
           "count": 136157.1545919369,
           "min": 1,
-          "max": 161.0
+          "max": 156.0
         },
         "Air Rune": {
           "count": 69810.63798409713,
@@ -750,7 +750,7 @@
         "Raw Shark": {
           "count": 35758.83973419187,
           "min": 1,
-          "max": 53.0
+          "max": 40.0
         },
         "Blood Rune": {
           "count": 20671.909253574475,
@@ -785,7 +785,7 @@
         "Kalanahmatti": {
           "count": 103.51023377448392,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "King's Crown": {
           "count": 59.99711597914464,
@@ -794,7 +794,7 @@
         },
         "RISE OF INFO": {
           "count": 2.694915254237288,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         }
       }
@@ -835,7 +835,7 @@
         "Blood Rune": {
           "count": 364.8059923594376,
           "min": 1,
-          "max": 5.0
+          "max": 4.0
         },
         "Earth Rune": {
           "count": 364.6535372579423,
@@ -880,7 +880,7 @@
         "Satchel": {
           "count": 22.53227685227082,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Ancient Nature Amulet": {
           "count": 1.6949152542372883,
@@ -945,7 +945,7 @@
         "Cosmic Rune": {
           "count": 50394.58293310583,
           "min": 1,
-          "max": 72.0
+          "max": 59.0
         },
         "Mysterious Seed": {
           "count": 2040.6998724406617,
@@ -965,7 +965,7 @@
         "Stygian Boots": {
           "count": 1356.9264720194258,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Nature Rune": {
           "count": 52384.48583952838,
@@ -1010,7 +1010,7 @@
         "Earth Rune": {
           "count": 168967.89429637065,
           "min": 1,
-          "max": 150.0
+          "max": 117.0
         },
         "Fire Rune": {
           "count": 170117.00420549535,
@@ -1020,7 +1020,7 @@
         "Blood Rune": {
           "count": 169797.6357713149,
           "min": 1,
-          "max": 133.0
+          "max": 125.0
         },
         "Death Rune": {
           "count": 539043.0971006462,
@@ -1030,7 +1030,7 @@
         "Nature Rune": {
           "count": 338642.18180570914,
           "min": 1,
-          "max": 240.0
+          "max": 237.0
         },
         "Stygian Ore": {
           "count": 568960.4871506207,
@@ -1045,7 +1045,7 @@
         "Air Rune": {
           "count": 168949.47570989726,
           "min": 1,
-          "max": 199.0
+          "max": 132.0
         },
         "Water Rune": {
           "count": 166189.16496170097,
@@ -1060,7 +1060,7 @@
         "Cosmic Rune": {
           "count": 167052.53981563507,
           "min": 1,
-          "max": 185.0
+          "max": 156.0
         },
         "Mysterious Seed": {
           "count": 1320.5270245139695,
@@ -1070,7 +1070,7 @@
         "Mind Rune": {
           "count": 171631.54085751896,
           "min": 1,
-          "max": 145.0
+          "max": 137.0
         },
         "Book": {
           "count": 1338.0213020014482,
@@ -1150,7 +1150,7 @@
         "Emerald": {
           "count": 7821.201413566732,
           "min": 1,
-          "max": 10.0
+          "max": 8.0
         },
         "Chaos Talisman": {
           "count": 12829.011820891385,
@@ -1235,7 +1235,7 @@
         "Water Rune": {
           "count": 952587.9346263208,
           "min": 1,
-          "max": 691.0
+          "max": 653.0
         },
         "Blood Rune": {
           "count": 972208.179288915,
@@ -1513,7 +1513,7 @@
       "loot": {
         "Gold": {
           "count": 29007812.194870867,
-          "min": 52682,
+          "min": 25065,
           "max": 119102.0
         },
         "Dark Key Piece": {
@@ -1523,7 +1523,7 @@
         },
         "Obsidian Scimitar": {
           "count": 150.720511444968,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Obsidian Helm": {
@@ -1533,18 +1533,18 @@
         },
         "Mithril Boots": {
           "count": 55.52315407357483,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Obsidian Shield": {
           "count": 160.01758635327528,
-          "min": 1.0,
+          "min": 1,
           "max": 4.0
         },
         "Obsidian Chainmail": {
           "count": 61.334239167130086,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Obsidian Boots": {
           "count": 169.33675299840604,
@@ -1553,13 +1553,13 @@
         },
         "Obsidian Battleaxe": {
           "count": 72.7238526905781,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Obsidian Plate Leggings": {
           "count": 94.20806317996461,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Obsidian Daggers": {
           "count": 199.52105868728998,
@@ -1573,12 +1573,12 @@
         },
         "Obsidian Breastplate": {
           "count": 31.137240930218052,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Obsidian Greatsword": {
           "count": 27.60935274166711,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Black Knight Great Helm": {
@@ -1593,7 +1593,7 @@
         },
         "Mysterious Seed": {
           "count": 6.063627299918426,
-          "min": 2.0,
+          "min": 2,
           "max": 4.0
         },
         "Black Knight's Gauntlets": {
@@ -1977,27 +1977,27 @@
       "loot": {
         "Branch": {
           "count": 3798.069717716231,
-          "min": 8.0,
-          "max": 90.0
+          "min": 1,
+          "max": 83.0
         },
         "Feather": {
           "count": 22847.630436389158,
-          "min": 112,
-          "max": 275.0
+          "min": 26,
+          "max": 260.0
         },
         "Raw Chicken": {
           "count": 2176.418953166136,
-          "min": 11.0,
-          "max": 26.0
+          "min": 1,
+          "max": 25.0
         },
         "Egg": {
           "count": 6758.951972886576,
-          "min": 8,
-          "max": 78.0
+          "min": 1,
+          "max": 75.0
         },
         "Satchel": {
           "count": 2.846580986344766,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Mysterious Seed": {
@@ -2014,12 +2014,12 @@
       "loot": {
         "Gold": {
           "count": 4801438.701793146,
-          "min": 161.0,
+          "min": 10,
           "max": 23674.0
         },
         "Copper Ore": {
           "count": 14134.644657925004,
-          "min": 2.0,
+          "min": 1,
           "max": 80.0
         },
         "Goblin Brain": {
@@ -2029,58 +2029,58 @@
         },
         "Smelly Meat Bait": {
           "count": 61389.58805523859,
-          "min": 36.0,
+          "min": 25,
           "max": 274.0
         },
         "Tin Ore": {
           "count": 13999.234848211998,
-          "min": 8.0,
+          "min": 1,
           "max": 100.0
         },
         "Silver": {
           "count": 14174.049660317376,
-          "min": 3.0,
+          "min": 1,
           "max": 96.0
         },
         "Ladle": {
           "count": 83.21985005151421,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Scrap of Stained Parchment": {
           "count": 154.6002002941841,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Greater Ladle": {
           "count": 70.58390009159525,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Lesser Ladle": {
           "count": 81.14137170744061,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Bronze Bar": {
           "count": 4941.0998401029765,
-          "min": 6.0,
+          "min": 1,
           "max": 125.0
         },
         "Iron Boots": {
           "count": 157.53773080043058,
-          "min": 1.0,
-          "max": 6.0
+          "min": 1,
+          "max": 4.0
         },
         "Bronze Boots": {
           "count": 280.744250615177,
           "min": 1,
-          "max": 6.0
+          "max": 4.0
         },
         "Mysterious Seed": {
           "count": 2.802356797229688,
           "min": 2,
-          "max": 4.0
+          "max": 2.0
         },
         "Satchel": {
           "count": 0.6944444444444444,
@@ -2112,11 +2112,11 @@
         "Silver": {
           "count": 203.2392787278479,
           "min": 1,
-          "max": 7.0
+          "max": 5.0
         },
         "Copper Ore": {
           "count": 584.880001120511,
-          "min": 1.0,
+          "min": 1,
           "max": 15.0
         },
         "Greater Ladle": {
@@ -2161,7 +2161,7 @@
         },
         "Bronze Bar": {
           "count": 28.411854415947726,
-          "min": 1.0,
+          "min": 1,
           "max": 5.0
         },
         "Mysterious Seed": {
@@ -2187,7 +2187,7 @@
         "Silver": {
           "count": 43368.59012433373,
           "min": 1,
-          "max": 183.0
+          "max": 106.0
         },
         "Bronze Boots": {
           "count": 1091.7293180485788,
@@ -2197,7 +2197,7 @@
         "Goblin Brain": {
           "count": 3774.4014630380866,
           "min": 1,
-          "max": 6.0
+          "max": 3.0
         },
         "Smelly Meat Bait": {
           "count": 299202.53442357894,
@@ -2236,13 +2236,13 @@
         },
         "Mysterious Seed": {
           "count": 6.389830508474577,
-          "min": 2,
+          "min": 1,
           "max": 2.0
         },
         "Satchel": {
           "count": 1.3635883626379428,
           "min": 1,
-          "max": 3.0
+          "max": 1.0
         }
       }
     },
@@ -2251,22 +2251,22 @@
       "loot": {
         "Raw Anchovy": {
           "count": 72907.62465874387,
-          "min": 26,
+          "min": 25,
           "max": 551.0
         },
         "Raw Salmon": {
           "count": 70660.23533841924,
-          "min": 26,
+          "min": 25,
           "max": 492.0
         },
         "Burnt Fish": {
           "count": 266165.6543723492,
-          "min": 101,
+          "min": 100,
           "max": 974.0
         },
         "Burnt Food": {
           "count": 263196.5240667091,
-          "min": 101,
+          "min": 100,
           "max": 976.0
         },
         "Copper Ore": {
@@ -2276,7 +2276,7 @@
         },
         "Silver": {
           "count": 117939.24721443137,
-          "min": 53,
+          "min": 50,
           "max": 590.0
         },
         "Coal": {
@@ -2291,12 +2291,12 @@
         },
         "Raw Trout": {
           "count": 73923.2346658948,
-          "min": 27,
+          "min": 25,
           "max": 513.0
         },
         "Fertilizer": {
           "count": 66128.95753743823,
-          "min": 40,
+          "min": 25,
           "max": 690.0
         },
         "Potato Seed": {
@@ -2306,22 +2306,22 @@
         },
         "Iron Ore": {
           "count": 56529.145555092524,
-          "min": 53.0,
-          "max": 736.0
+          "min": 50,
+          "max": 665.0
         },
         "Carrot Seed": {
           "count": 19570.36046726596,
-          "min": 29,
+          "min": 25,
           "max": 203.0
         },
         "Tin Ore": {
           "count": 71834.03703924434,
-          "min": 52,
+          "min": 50,
           "max": 773.0
         },
         "Rune Slate": {
           "count": 49115.022109649915,
-          "min": 26,
+          "min": 25,
           "max": 516.0
         },
         "Searing Ladle": {
@@ -2343,13 +2343,13 @@
         },
         "Chaos Rune": {
           "count": 53615.12949548141,
-          "min": 16.0,
+          "min": 1,
           "max": 131.0
         },
         "Nature Rune": {
           "count": 6766.353047507746,
-          "min": 12,
-          "max": 38.0
+          "min": 1,
+          "max": 35.0
         },
         "Satchel": {
           "count": 259.7020143367815,
@@ -2363,12 +2363,12 @@
         },
         "Fire Rune": {
           "count": 6715.022865162775,
-          "min": 3.0,
+          "min": 1,
           "max": 41.0
         },
         "Cosmic Rune": {
           "count": 6557.71506644011,
-          "min": 5.0,
+          "min": 1,
           "max": 40.0
         },
         "Stygian Boots": {
@@ -2378,12 +2378,12 @@
         },
         "Air Rune": {
           "count": 6721.794372127921,
-          "min": 3,
+          "min": 1,
           "max": 43.0
         },
         "Earth Rune": {
           "count": 6484.076946419358,
-          "min": 3,
+          "min": 1,
           "max": 41.0
         },
         "Blood Rune": {
@@ -2393,12 +2393,12 @@
         },
         "Mind Rune": {
           "count": 6355.477603171697,
-          "min": 2.0,
+          "min": 1,
           "max": 42.0
         },
         "Death Rune": {
           "count": 7023.755419998132,
-          "min": 7.0,
+          "min": 1,
           "max": 40.0
         },
         "Chaos Fragment": {
@@ -2413,7 +2413,7 @@
         },
         "Crystal Mace": {
           "count": 7.044970837651352,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Useless Scraps": {
@@ -2423,7 +2423,7 @@
         },
         "Scroll of Fortitude": {
           "count": 54.0156838977763,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Ancient Nature Amulet": {
@@ -2445,22 +2445,22 @@
       "loot": {
         "Raw Shrimp": {
           "count": 10582.28099714543,
-          "min": 8,
+          "min": 1,
           "max": 106.0
         },
         "Raw Salmon": {
           "count": 6350.93081370943,
-          "min": 8,
+          "min": 1,
           "max": 65.0
         },
         "Raw Lobster": {
           "count": 5643.24229977143,
-          "min": 6,
+          "min": 1,
           "max": 47.0
         },
         "Raw Tuna": {
           "count": 3693.9140658911642,
-          "min": 3.0,
+          "min": 1,
           "max": 41.0
         },
         "Water Talisman": {
@@ -2470,17 +2470,17 @@
         },
         "Air Rune": {
           "count": 5226.789460663234,
-          "min": 7,
+          "min": 1,
           "max": 78.0
         },
         "Earth Rune": {
           "count": 5086.82129886618,
-          "min": 2,
-          "max": 65.0
+          "min": 1,
+          "max": 64.0
         },
         "Water Rune": {
           "count": 35236.32234622764,
-          "min": 4,
+          "min": 1,
           "max": 160.0
         },
         "Satchel": {
@@ -2490,17 +2490,17 @@
         },
         "Nature Rune": {
           "count": 1575.4903086357322,
-          "min": 2,
+          "min": 1,
           "max": 38.0
         },
         "Raw Anchovy": {
           "count": 9007.623565276324,
-          "min": 7,
+          "min": 1,
           "max": 101.0
         },
         "Fire Rune": {
           "count": 4950.722349166396,
-          "min": 2.0,
+          "min": 1,
           "max": 88.0
         },
         "Mysterious Seed": {
@@ -2515,12 +2515,12 @@
         },
         "Raw Shark": {
           "count": 2456.780871979036,
-          "min": 5,
+          "min": 1,
           "max": 25.0
         },
         "Blood Rune": {
           "count": 1632.9554200668008,
-          "min": 1.0,
+          "min": 1,
           "max": 44.0
         },
         "Stygian Boots": {
@@ -2530,7 +2530,7 @@
         },
         "Cosmic Rune": {
           "count": 1366.7650155902327,
-          "min": 1.0,
+          "min": 1,
           "max": 30.0
         },
         "Ice Fragment": {
@@ -2540,23 +2540,23 @@
         },
         "Death Rune": {
           "count": 1500.320505076085,
-          "min": 4,
-          "max": 37.0
+          "min": 1,
+          "max": 36.0
         },
         "Raw Trout": {
           "count": 7023.292251717746,
-          "min": 15,
+          "min": 1,
           "max": 88.0
         },
         "Chaos Rune": {
           "count": 1357.4754007778704,
-          "min": 5,
+          "min": 1,
           "max": 42.0
         },
         "Kalanahmatti": {
           "count": 7.825770412598482,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "King's Crown": {
           "count": 1.9708257096539121,
@@ -2575,7 +2575,7 @@
       "loot": {
         "Stone": {
           "count": 42146.414367595164,
-          "min": 2,
+          "min": 1,
           "max": 134.0
         },
         "Nature Talisman": {
@@ -2585,7 +2585,7 @@
         },
         "Chaos Rune": {
           "count": 3571.1631898392347,
-          "min": 4.0,
+          "min": 1,
           "max": 39.0
         },
         "Nature Rune": {
@@ -2595,7 +2595,7 @@
         },
         "Death Rune": {
           "count": 3029.839637232734,
-          "min": 2,
+          "min": 1,
           "max": 39.0
         },
         "Nature Fragment": {
@@ -2605,13 +2605,13 @@
         },
         "Water Rune": {
           "count": 3774.236469331075,
-          "min": 1.0,
+          "min": 1,
           "max": 44.0
         },
         "Fire Rune": {
           "count": 3494.737992909405,
-          "min": 5,
-          "max": 42.0
+          "min": 1,
+          "max": 38.0
         },
         "Satchel": {
           "count": 104.99374827465525,
@@ -2630,23 +2630,23 @@
         },
         "Blood Rune": {
           "count": 3480.0748589180344,
-          "min": 9,
-          "max": 39.0
+          "min": 1,
+          "max": 30.0
         },
         "Air Rune": {
           "count": 3453.6600794686956,
-          "min": 4,
-          "max": 33.0
+          "min": 1,
+          "max": 30.0
         },
         "Cosmic Rune": {
           "count": 1526.327979614951,
-          "min": 2.0,
+          "min": 1,
           "max": 41.0
         },
         "Mind Rune": {
           "count": 1641.1516677565487,
-          "min": 5.0,
-          "max": 35.0
+          "min": 1,
+          "max": 31.0
         },
         "Moss Maul": {
           "count": 6.374911638069533,
@@ -2656,7 +2656,7 @@
         "Mysterious Seed": {
           "count": 11.299659131514137,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "RISE OF INFO": {
           "count": 2.255639097744361,
@@ -2670,12 +2670,12 @@
       "loot": {
         "Burnt Fish": {
           "count": 166565.8908847505,
-          "min": 13.0,
+          "min": 1,
           "max": 705.0
         },
         "Coal": {
           "count": 112400.34199562884,
-          "min": 29,
+          "min": 21,
           "max": 358.0
         },
         "Fire Talisman": {
@@ -2685,22 +2685,22 @@
         },
         "Fire Rune": {
           "count": 28636.543719028363,
-          "min": 3,
+          "min": 1,
           "max": 126.0
         },
         "Ashes": {
           "count": 32988.868286320896,
-          "min": 10,
+          "min": 1,
           "max": 112.0
         },
         "Earth Rune": {
           "count": 5950.173519883274,
-          "min": 13,
+          "min": 1,
           "max": 43.0
         },
         "Water Rune": {
           "count": 5752.075110327501,
-          "min": 5.0,
+          "min": 1,
           "max": 42.0
         },
         "Satchel": {
@@ -2710,7 +2710,7 @@
         },
         "Air Rune": {
           "count": 5297.739922652321,
-          "min": 2,
+          "min": 1,
           "max": 35.0
         },
         "Nature Rune": {
@@ -2725,8 +2725,8 @@
         },
         "Death Rune": {
           "count": 1817.9939428660873,
-          "min": 2,
-          "max": 43.0
+          "min": 1,
+          "max": 34.0
         },
         "Blood Rune": {
           "count": 5909.911074922011,
@@ -2735,12 +2735,12 @@
         },
         "Cosmic Rune": {
           "count": 1694.6727467540688,
-          "min": 8.0,
-          "max": 42.0
+          "min": 1,
+          "max": 33.0
         },
         "Mind Rune": {
           "count": 1921.1063507334352,
-          "min": 9.0,
+          "min": 1,
           "max": 41.0
         },
         "Fire Fragment": {
@@ -2756,7 +2756,7 @@
         "Chaos Rune": {
           "count": 1438.932112811525,
           "min": 1,
-          "max": 45.0
+          "max": 38.0
         },
         "Ancient Fire Amulet": {
           "count": 24.31059985071432,
@@ -2765,7 +2765,7 @@
         },
         "Fire Orb": {
           "count": 5.876562137958739,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         }
       }
@@ -2782,72 +2782,72 @@
         },
         "Stygian Ore": {
           "count": 79676.30936016221,
-          "min": 7.0,
+          "min": 1,
           "max": 508.0
         },
         "Blood Talisman": {
           "count": 1502.2782633232905,
-          "min": 1.0,
-          "max": 5.0
+          "min": 1,
+          "max": 4.0
         },
         "Air Rune": {
           "count": 22749.175407832674,
-          "min": 4,
+          "min": 1,
           "max": 145.0
         },
         "Earth Rune": {
           "count": 23125.635286654633,
-          "min": 1.0,
+          "min": 1,
           "max": 142.0
         },
         "Fire Rune": {
           "count": 22136.792486870843,
-          "min": 3.0,
+          "min": 1,
           "max": 144.0
         },
         "Water Rune": {
           "count": 22795.860258411336,
-          "min": 12.0,
+          "min": 1,
           "max": 138.0
         },
         "Blood Rune": {
           "count": 22467.103828717158,
-          "min": 7.0,
+          "min": 1,
           "max": 141.0
         },
         "Death Rune": {
           "count": 73902.00893728029,
-          "min": 33.0,
-          "max": 221.0
+          "min": 29,
+          "max": 203.0
         },
         "Chaos Rune": {
           "count": 23325.094015103514,
-          "min": 2,
+          "min": 1,
           "max": 145.0
         },
         "Nature Rune": {
           "count": 45825.28292832854,
-          "min": 2.0,
+          "min": 1,
           "max": 218.0
         },
         "Mind Rune": {
           "count": 21981.133752510057,
-          "min": 3.0,
+          "min": 1,
           "max": 141.0
         },
         "Cosmic Rune": {
           "count": 22683.57108688164,
-          "min": 4,
+          "min": 1,
           "max": 141.0
         },
         "Ichor": {
           "count": 9929.307793033882,
-          "min": 3.0,
-          "max": 52.0
+          "min": 1,
+          "max": 47.0
         },
         "Stygian Bar": {
           "count": 11622.31306036065,
-          "min": 2,
+          "min": 1,
           "max": 74.0
         },
         "Satchel": {
@@ -2882,13 +2882,13 @@
       "loot": {
         "Gold": {
           "count": 399601814.4021892,
-          "min": 114141.0,
-          "max": 1583664.0
+          "min": 51195,
+          "max": 1439493.0
         },
         "Obsidian Scimitar": {
           "count": 2532.023818719188,
           "min": 1,
-          "max": 17.0
+          "max": 16.0
         },
         "Obsidian Battleaxe": {
           "count": 2580.5334180534524,
@@ -2907,8 +2907,8 @@
         },
         "Obsidian Helm": {
           "count": 2534.3138765512135,
-          "min": 1.0,
-          "max": 18.0
+          "min": 1,
+          "max": 15.0
         },
         "Obsidian Full Helm": {
           "count": 2540.1388298429843,
@@ -2917,18 +2917,18 @@
         },
         "Obsidian Shield": {
           "count": 2600.9035377333234,
-          "min": 1.0,
+          "min": 1,
           "max": 15.0
         },
         "Obsidian Breastplate": {
           "count": 2560.198148930322,
-          "min": 2,
+          "min": 1,
           "max": 16.0
         },
         "Obsidian Chainmail": {
           "count": 2605.1072449748235,
           "min": 1,
-          "max": 17.0
+          "max": 15.0
         },
         "Obsidian Plate Leggings": {
           "count": 2626.422844124812,
@@ -2937,13 +2937,13 @@
         },
         "Obsidian Boots": {
           "count": 2547.1041921819838,
-          "min": 1.0,
+          "min": 1,
           "max": 15.0
         },
         "Mithril Boots": {
           "count": 2613.760713261833,
           "min": 1,
-          "max": 15.0
+          "max": 14.0
         },
         "Black Knight Titan's Helm": {
           "count": 52.379507247538456,
@@ -2957,7 +2957,7 @@
       "loot": {
         "Gold": {
           "count": 2808169.957872924,
-          "min": 152.0,
+          "min": 10,
           "max": 1637.0
         },
         "Obsidian Plate Leggings": {
@@ -2968,7 +2968,7 @@
         "Obsidian Boots": {
           "count": 14.101343747418719,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Obsidian Daggers": {
           "count": 17.56298241425957,
@@ -3037,7 +3037,7 @@
       "loot": {
         "Gold": {
           "count": 86569639.87899712,
-          "min": 10903.0,
+          "min": 2533,
           "max": 83516.0
         },
         "Obsidian Chainmail": {
@@ -3204,7 +3204,7 @@
         },
         "Mysterious Seed": {
           "count": 2.6756756756756754,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         }
       }
@@ -3284,7 +3284,7 @@
         },
         "Mysterious Seed": {
           "count": 4.481857764876633,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         }
       }
@@ -3328,12 +3328,12 @@
       "loot": {
         "Gold Ore": {
           "count": 62862.89937840925,
-          "min": 21,
+          "min": 1,
           "max": 428.0
         },
         "Runite Ore": {
           "count": 14473.294651985287,
-          "min": 16.0,
+          "min": 1,
           "max": 141.0
         },
         "Rune Slate": {
@@ -3348,7 +3348,7 @@
         },
         "Death Rune": {
           "count": 7233.677929813911,
-          "min": 2.0,
+          "min": 1,
           "max": 74.0
         },
         "Chaos Rune": {
@@ -3363,17 +3363,17 @@
         },
         "Mysterious Seed": {
           "count": 55.952168945392366,
-          "min": 1.0,
+          "min": 1,
           "max": 4.0
         },
         "Runite Bar": {
           "count": 2635.771293068688,
-          "min": 4,
+          "min": 1,
           "max": 27.0
         },
         "Sapphire": {
           "count": 269.5038162283976,
-          "min": 1.0,
+          "min": 1,
           "max": 9.0
         },
         "Stygian Boots": {
@@ -3383,32 +3383,32 @@
         },
         "Emerald": {
           "count": 123.52142173013004,
-          "min": 1.0,
-          "max": 10.0
+          "min": 1,
+          "max": 7.0
         },
         "Ruby": {
           "count": 50.73740150390632,
           "min": 1,
-          "max": 6.0
+          "max": 5.0
         },
         "Diamond": {
           "count": 67.24620756594332,
           "min": 1,
-          "max": 7.0
+          "max": 4.0
         },
         "Black Opal": {
           "count": 53.69968368765496,
-          "min": 1.0,
-          "max": 4.0
+          "min": 1,
+          "max": 3.0
         },
         "Naga's Bracelet": {
           "count": 11.239362867807209,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Ichor": {
           "count": 333.2981079523323,
-          "min": 1.0,
+          "min": 1,
           "max": 7.0
         }
       }
@@ -3418,17 +3418,17 @@
       "loot": {
         "Book": {
           "count": 33.798095310296574,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Stygian Ore": {
           "count": 15015.769878179659,
-          "min": 10.0,
+          "min": 2,
           "max": 277.0
         },
         "Stygian Bar": {
           "count": 2050.484908877376,
-          "min": 6,
+          "min": 1,
           "max": 44.0
         },
         "Blood Talisman": {
@@ -3438,42 +3438,42 @@
         },
         "Air Rune": {
           "count": 4551.1089763963855,
-          "min": 12.0,
+          "min": 1,
           "max": 76.0
         },
         "Earth Rune": {
           "count": 4219.4770424460075,
-          "min": 5.0,
+          "min": 1,
           "max": 71.0
         },
         "Water Rune": {
           "count": 4829.575123151878,
-          "min": 5.0,
+          "min": 1,
           "max": 71.0
         },
         "Blood Rune": {
           "count": 4159.582837280402,
-          "min": 9.0,
+          "min": 1,
           "max": 83.0
         },
         "Death Rune": {
           "count": 9909.558851780448,
-          "min": 36.0,
+          "min": 29,
           "max": 84.0
         },
         "Nature Rune": {
           "count": 8788.303649949092,
-          "min": 10.0,
-          "max": 117.0
+          "min": 1,
+          "max": 114.0
         },
         "Mind Rune": {
           "count": 4156.993278383366,
-          "min": 7.0,
+          "min": 1,
           "max": 72.0
         },
         "Cosmic Rune": {
           "count": 4460.411370023035,
-          "min": 6.0,
+          "min": 1,
           "max": 93.0
         },
         "Satchel": {
@@ -3483,27 +3483,27 @@
         },
         "Fire Rune": {
           "count": 4130.416014553149,
-          "min": 6,
+          "min": 1,
           "max": 81.0
         },
         "Chaos Rune": {
           "count": 4308.000122040111,
-          "min": 15.0,
+          "min": 1,
           "max": 63.0
         },
         "Chorus of Souls": {
           "count": 3.115038368838668,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Corrupted Fragment": {
           "count": 48.31655846131024,
-          "min": 1.0,
-          "max": 4.0
+          "min": 1,
+          "max": 3.0
         },
         "Ichor": {
           "count": 899.7742414959397,
-          "min": 4.0,
+          "min": 1,
           "max": 23.0
         },
         "Mysterious Seed": {
@@ -3514,11 +3514,11 @@
         "Stygian Boots": {
           "count": 6.650155097312863,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Decayed Cloak": {
           "count": 1.6334284910136305,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         }
       }
@@ -3699,7 +3699,7 @@
       "loot": {
         "Coal": {
           "count": 917.5187914517318,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         }
       }
@@ -3711,33 +3711,33 @@
       "loot": {
         "Branch": {
           "count": 6852.164102967109,
-          "min": 10.0,
+          "min": 1,
           "max": 141.0
         },
         "Log": {
           "count": 6515.416922387778,
-          "min": 2.0,
-          "max": 125.0
+          "min": 2,
+          "max": 105.0
         },
         "Oak Log": {
           "count": 6616.470109578298,
-          "min": 7,
+          "min": 1,
           "max": 133.0
         },
         "Willow Log": {
           "count": 7471.0888772887765,
-          "min": 2,
+          "min": 1,
           "max": 126.0
         },
         "Maple Log": {
           "count": 6798.937688230963,
           "min": 1,
-          "max": 118.0
+          "max": 105.0
         },
         "Yew Log": {
           "count": 7127.5183981469045,
-          "min": 2,
-          "max": 114.0
+          "min": 1,
+          "max": 105.0
         },
         "Satchel": {
           "count": 4.105855369466421,
@@ -3746,13 +3746,13 @@
         },
         "Sageberry Bush Seed": {
           "count": 17.271387015779446,
-          "min": 1.0,
-          "max": 3.0
+          "min": 1,
+          "max": 2.0
         },
         "Mysterious Seed": {
           "count": 8.881964611290426,
-          "min": 1.0,
-          "max": 5.0
+          "min": 1,
+          "max": 4.0
         },
         "Elder Tree Seed": {
           "count": 6.251113086635182,
@@ -3762,7 +3762,7 @@
         "Ancient Nature Amulet": {
           "count": 4.415414651952625,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         }
       }
     }
@@ -3793,12 +3793,12 @@
         },
         "Raw Tuna": {
           "count": 192.3728813559322,
-          "min": 2,
+          "min": 1,
           "max": 3.0
         },
         "Raw Salmon": {
           "count": 322.0338983050848,
-          "min": 5,
+          "min": 1,
           "max": 5.0
         },
         "Raw Shark": {
@@ -3898,7 +3898,7 @@
         },
         "Air Rune": {
           "count": 23.88135593220339,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Cosmic Rune": {
@@ -3973,7 +3973,7 @@
         },
         "Cosmic Rune": {
           "count": 45.76271186440678,
-          "min": 3,
+          "min": 1,
           "max": 3.0
         },
         "Air Rune": {
@@ -3983,7 +3983,7 @@
         },
         "Fire Rune": {
           "count": 41.52542372881356,
-          "min": 3,
+          "min": 1,
           "max": 3.0
         },
         "Death Rune": {
@@ -4203,7 +4203,7 @@
       "loot": {
         "Gold": {
           "count": 1644253.6680524466,
-          "min": 13,
+          "min": 10,
           "max": 500.0
         },
         "Obsidian Helm": {
@@ -4283,7 +4283,7 @@
       "loot": {
         "Death Rune": {
           "count": 18.10169491525424,
-          "min": 2,
+          "min": 1,
           "max": 3.0
         },
         "Chili Pepper Seed": {
@@ -4293,22 +4293,22 @@
         },
         "Log": {
           "count": 181.72881355932205,
-          "min": 2,
+          "min": 1,
           "max": 10.0
         },
         "Oak Log": {
           "count": 97.98305084745763,
-          "min": 8.0,
+          "min": 1,
           "max": 10.0
         },
         "Pumpkin Seed": {
           "count": 45.3728813559322,
-          "min": 2.0,
+          "min": 1,
           "max": 3.0
         },
         "Mushroom Spore": {
           "count": 50.45762711864407,
-          "min": 3,
+          "min": 1,
           "max": 3.0
         },
         "Rice Seed": {
@@ -4438,7 +4438,7 @@
         },
         "Earth Rune": {
           "count": 11.322033898305087,
-          "min": 2.0,
+          "min": 1,
           "max": 3.0
         },
         "Blood Rune": {
@@ -4508,12 +4508,12 @@
       "loot": {
         "Runite Bar": {
           "count": 157.23728813559322,
-          "min": 2.0,
+          "min": 1,
           "max": 3.0
         },
         "Gold Ore": {
           "count": 573.9491525423729,
-          "min": 3.0,
+          "min": 1,
           "max": 4.0
         },
         "Rune Slate": {
@@ -4678,7 +4678,7 @@
         },
         "Water Rune": {
           "count": 18.64406779661017,
-          "min": 2,
+          "min": 1,
           "max": 3.0
         },
         "Ashes": {
@@ -4693,7 +4693,7 @@
         },
         "Earth Rune": {
           "count": 14.40677966101695,
-          "min": 3,
+          "min": 1,
           "max": 3.0
         },
         "Air Rune": {
@@ -4708,22 +4708,22 @@
         },
         "Chaos Rune": {
           "count": 16.949152542372882,
-          "min": 3,
+          "min": 1,
           "max": 3.0
         },
         "Nature Rune": {
           "count": 22.033898305084747,
-          "min": 2,
+          "min": 1,
           "max": 3.0
         },
         "Mind Rune": {
           "count": 26.271186440677965,
-          "min": 3,
+          "min": 1,
           "max": 3.0
         },
         "Death Rune": {
           "count": 10.16949152542373,
-          "min": 2,
+          "min": 1,
           "max": 3.0
         },
         "Ichor": {
@@ -4733,7 +4733,7 @@
         },
         "Cosmic Rune": {
           "count": 20.33898305084746,
-          "min": 3,
+          "min": 1,
           "max": 3.0
         },
         "Fire Rune": {
@@ -5211,7 +5211,7 @@
         "Feather": {
           "count": 96698.42215256009,
           "min": 25,
-          "max": 761.0
+          "max": 759.0
         },
         "Raw Chicken": {
           "count": 9658.095611285264,
@@ -5226,7 +5226,7 @@
         "Branch": {
           "count": 18184.059561128524,
           "min": 2,
-          "max": 177.0
+          "max": 175.0
         },
         "Mysterious Seed": {
           "count": 23.484848484848484,
@@ -5246,27 +5246,27 @@
         "Gold": {
           "count": 2945907.7701098705,
           "min": 77,
-          "max": 58964.0
+          "max": 54218.0
         },
         "Copper Ore": {
           "count": 9356.446089620678,
           "min": 1,
-          "max": 222.0
+          "max": 208.0
         },
         "Tin Ore": {
           "count": 10577.492695620413,
           "min": 1,
-          "max": 272.0
+          "max": 261.0
         },
         "Goblin Brain": {
           "count": 444.00219131387524,
           "min": 1,
-          "max": 10.0
+          "max": 9.0
         },
         "Silver": {
           "count": 9510.539585679357,
           "min": 1,
-          "max": 204.0
+          "max": 192.0
         },
         "Greater Ladle": {
           "count": 56.80060565480719,
@@ -5276,7 +5276,7 @@
         "Bronze Boots": {
           "count": 230.0195797952745,
           "min": 1,
-          "max": 13.0
+          "max": 12.0
         },
         "Bronze Bar": {
           "count": 4228.825719532114,
@@ -5286,12 +5286,12 @@
         "Scrap of Stained Parchment": {
           "count": 144.78982154994873,
           "min": 1,
-          "max": 5.0
+          "max": 4.0
         },
         "Smelly Meat Bait": {
           "count": 28960.81999269562,
           "min": 25,
-          "max": 1009.0
+          "max": 954.0
         },
         "Ladle": {
           "count": 61.635851315295575,
@@ -5306,7 +5306,7 @@
         "Iron Boots": {
           "count": 117.5468951314281,
           "min": 1,
-          "max": 8.0
+          "max": 7.0
         },
         "Satchel": {
           "count": 1.5151515151515151,
@@ -5315,7 +5315,7 @@
         },
         "Mysterious Seed": {
           "count": 3.2082965578111207,
-          "min": 2.0,
+          "min": 2,
           "max": 4.0
         }
       }
@@ -5326,7 +5326,7 @@
         "Gold": {
           "count": 21145893.888948064,
           "min": 25007,
-          "max": 486030.0
+          "max": 449079.0
         },
         "Obsidian Battleaxe": {
           "count": 52.83212100922177,
@@ -5346,7 +5346,7 @@
         "Dark Key Piece": {
           "count": 137.57142060037938,
           "min": 1,
-          "max": 5.0
+          "max": 4.0
         },
         "Obsidian Shield": {
           "count": 147.67852613851943,
@@ -5391,12 +5391,12 @@
         "Obsidian Breastplate": {
           "count": 34.52491097787381,
           "min": 1,
-          "max": 4.0
+          "max": 3.0
         },
         "Black Knight's Gauntlets": {
           "count": 5.303030303030303,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Mysterious Seed": {
           "count": 2.2727272727272725,
@@ -5405,7 +5405,7 @@
         },
         "Satchel": {
           "count": 2.2727272727272725,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Black Knight Great Helm": {
@@ -5431,12 +5431,12 @@
         "Sapphire": {
           "count": 183.5997910135841,
           "min": 1,
-          "max": 5.0
+          "max": 4.0
         },
         "Runite Boots": {
           "count": 17.93103448275862,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Scroll": {
           "count": 444.2163009404388,
@@ -5466,7 +5466,7 @@
         "Fire Rune": {
           "count": 1444.791013584117,
           "min": 1,
-          "max": 42.0
+          "max": 38.0
         },
         "Cosmic Rune": {
           "count": 1465.590386624869,
@@ -5486,7 +5486,7 @@
         "Nature Rune": {
           "count": 1279.1065830721002,
           "min": 1,
-          "max": 41.0
+          "max": 37.0
         },
         "Rune Slate": {
           "count": 4408.787878787878,
@@ -5500,7 +5500,7 @@
         },
         "Blood Rune": {
           "count": 1225.3448275862067,
-          "min": 2,
+          "min": 1,
           "max": 37.0
         },
         "Ruby": {
@@ -5536,11 +5536,11 @@
         "Mysterious Seed": {
           "count": 14.64994775339603,
           "min": 2,
-          "max": 4.0
+          "max": 3.0
         },
         "Satchel": {
           "count": 2.2727272727272725,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Molten Ashes": {
@@ -5590,8 +5590,8 @@
         },
         "Fire Rune": {
           "count": 1606.9070010449323,
-          "min": 1.0,
-          "max": 75.0
+          "min": 1,
+          "max": 74.0
         },
         "Water Rune": {
           "count": 1511.1233019853707,
@@ -5606,7 +5606,7 @@
         "Adamantite Boots": {
           "count": 28.286311389759664,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Scroll": {
           "count": 466.7032392894461,
@@ -5616,7 +5616,7 @@
         "Ashes": {
           "count": 5926.280041797283,
           "min": 2,
-          "max": 140.0
+          "max": 139.0
         },
         "Sapphire": {
           "count": 189.27899686520374,
@@ -5636,7 +5636,7 @@
         "Mind Rune": {
           "count": 1652.972831765935,
           "min": 3,
-          "max": 78.0
+          "max": 75.0
         },
         "Ichor": {
           "count": 838.9602925809822,
@@ -5665,7 +5665,7 @@
         },
         "Nature Rune": {
           "count": 1646.1912225705328,
-          "min": 3,
+          "min": 1,
           "max": 74.0
         },
         "Mysterious Seed": {
@@ -5706,7 +5706,7 @@
         "Runite Ore": {
           "count": 14266.520376175547,
           "min": 1,
-          "max": 167.0
+          "max": 166.0
         },
         "Rune Slate": {
           "count": 510.38662486938347,
@@ -5731,7 +5731,7 @@
         "Chaos Rune": {
           "count": 6189.4618599791,
           "min": 1,
-          "max": 81.0
+          "max": 74.0
         },
         "Satchel": {
           "count": 36.995820271682334,
@@ -5766,12 +5766,12 @@
         "Sapphire": {
           "count": 211.26436781609192,
           "min": 1,
-          "max": 14.0
+          "max": 12.0
         },
         "Naga's Bracelet": {
           "count": 5.052246603970742,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Black Opal": {
           "count": 41.03970741901776,
@@ -5806,16 +5806,16 @@
         "Air Rune": {
           "count": 3725.402298850575,
           "min": 1,
-          "max": 94.0
+          "max": 93.0
         },
         "Earth Rune": {
           "count": 4079.6760710553813,
           "min": 1,
-          "max": 95.0
+          "max": 93.0
         },
         "Fire Rune": {
           "count": 3935.747126436782,
-          "min": 2,
+          "min": 1,
           "max": 93.0
         },
         "Water Rune": {
@@ -5826,7 +5826,7 @@
         "Blood Rune": {
           "count": 3974.8589341692787,
           "min": 1,
-          "max": 100.0
+          "max": 93.0
         },
         "Death Rune": {
           "count": 5743.934169278997,
@@ -5835,18 +5835,18 @@
         },
         "Chaos Rune": {
           "count": 3985.8725182863104,
-          "min": 2,
+          "min": 1,
           "max": 92.0
         },
         "Nature Rune": {
           "count": 7472.084639498431,
           "min": 2,
-          "max": 156.0
+          "max": 155.0
         },
         "Mind Rune": {
           "count": 3863.6624869383486,
           "min": 2,
-          "max": 98.0
+          "max": 93.0
         },
         "Cosmic Rune": {
           "count": 3715.120167189132,
@@ -5911,7 +5911,7 @@
         "Willow Log": {
           "count": 7228.416927899687,
           "min": 6,
-          "max": 203.0
+          "max": 191.0
         },
         "Maple Log": {
           "count": 7206.175548589341,
@@ -5920,7 +5920,7 @@
         },
         "Yew Log": {
           "count": 7990.229885057471,
-          "min": 6,
+          "min": 1,
           "max": 196.0
         },
         "Elder Tree Seed": {
@@ -5955,12 +5955,12 @@
       "loot": {
         "Burnt Fish": {
           "count": 40481.123301985375,
-          "min": 4,
+          "min": 2,
           "max": 976.0
         },
         "Coal": {
           "count": 20413.82445141066,
-          "min": 32,
+          "min": 26,
           "max": 451.0
         },
         "Fire Talisman": {
@@ -5971,7 +5971,7 @@
         "Fire Rune": {
           "count": 6551.546499477534,
           "min": 2,
-          "max": 147.0
+          "max": 144.0
         },
         "Blood Rune": {
           "count": 1466.0083594566352,
@@ -5990,18 +5990,18 @@
         },
         "Ashes": {
           "count": 6187.2309299895505,
-          "min": 2,
-          "max": 154.0
+          "min": 1,
+          "max": 140.0
         },
         "Air Rune": {
           "count": 1691.708463949843,
           "min": 1,
-          "max": 57.0
+          "max": 55.0
         },
         "Water Rune": {
           "count": 1313.6102403343782,
           "min": 1,
-          "max": 56.0
+          "max": 55.0
         },
         "Mind Rune": {
           "count": 426.5151515151515,
@@ -6021,12 +6021,12 @@
         "Earth Rune": {
           "count": 1677.4869383490072,
           "min": 1,
-          "max": 57.0
+          "max": 56.0
         },
         "Nature Rune": {
           "count": 437.7951933124346,
           "min": 8,
-          "max": 49.0
+          "max": 46.0
         },
         "Stygian Boots": {
           "count": 17.173458725182865,
@@ -6041,7 +6041,7 @@
         "Mysterious Seed": {
           "count": 10.229885057471263,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Ancient Fire Amulet": {
           "count": 5.303030303030303,
@@ -6076,17 +6076,17 @@
         "Nature Rune": {
           "count": 7812.481713688611,
           "min": 1,
-          "max": 182.0
+          "max": 177.0
         },
         "Earth Rune": {
           "count": 1045.8881922675025,
           "min": 3,
-          "max": 59.0
+          "max": 55.0
         },
         "Death Rune": {
           "count": 1150.8620689655172,
           "min": 1,
-          "max": 59.0
+          "max": 56.0
         },
         "Chaos Rune": {
           "count": 1187.3197492163008,
@@ -6096,7 +6096,7 @@
         "Mind Rune": {
           "count": 429.3364681295716,
           "min": 1,
-          "max": 60.0
+          "max": 56.0
         },
         "Satchel": {
           "count": 19.571577847439915,
@@ -6120,18 +6120,18 @@
         },
         "Fire Rune": {
           "count": 1005.9665621734587,
-          "min": 6,
+          "min": 4,
           "max": 56.0
         },
         "Cosmic Rune": {
           "count": 441.08672936259137,
           "min": 2,
-          "max": 59.0
+          "max": 54.0
         },
         "Stygian Boots": {
           "count": 12.628004179728316,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Mysterious Seed": {
           "count": 3.7878787878787876,
@@ -6141,7 +6141,7 @@
         "Moss Maul": {
           "count": 2.2727272727272725,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         }
       }
     },
@@ -6176,7 +6176,7 @@
         "Cosmic Rune": {
           "count": 390.7105538140021,
           "min": 1,
-          "max": 62.0
+          "max": 56.0
         },
         "Satchel": {
           "count": 36.238244514106576,
@@ -6196,11 +6196,11 @@
         "Raw Tuna": {
           "count": 778.4848484848485,
           "min": 1,
-          "max": 58.0
+          "max": 54.0
         },
         "Earth Rune": {
           "count": 1158.4326018808777,
-          "min": 12,
+          "min": 2,
           "max": 113.0
         },
         "Death Rune": {
@@ -6211,7 +6211,7 @@
         "Mind Rune": {
           "count": 422.7272727272727,
           "min": 1,
-          "max": 48.0
+          "max": 47.0
         },
         "Raw Anchovy": {
           "count": 2161.0919540229884,
@@ -6225,8 +6225,8 @@
         },
         "Raw Lobster": {
           "count": 1495.8359456635314,
-          "min": 3,
-          "max": 79.0
+          "min": 1,
+          "max": 74.0
         },
         "Blood Rune": {
           "count": 496.2121212121212,
@@ -6246,7 +6246,7 @@
         "Chaos Rune": {
           "count": 255.3239289446186,
           "min": 5,
-          "max": 42.0
+          "max": 41.0
         },
         "Stygian Boots": {
           "count": 15.151515151515152,
@@ -6256,7 +6256,7 @@
         "Nature Rune": {
           "count": 449.8432601880878,
           "min": 2,
-          "max": 57.0
+          "max": 52.0
         },
         "King's Crown": {
           "count": 0.7575757575757576,
@@ -6276,27 +6276,27 @@
         "Earth Rune": {
           "count": 920.7575757575756,
           "min": 1,
-          "max": 58.0
+          "max": 52.0
         },
         "Blood Rune": {
           "count": 1020.3500522466038,
           "min": 2,
-          "max": 54.0
+          "max": 52.0
         },
         "Death Rune": {
           "count": 975.1724137931035,
-          "min": 2,
+          "min": 1,
           "max": 55.0
         },
         "Chaos Rune": {
           "count": 6518.252351097179,
           "min": 2,
-          "max": 154.0
+          "max": 152.0
         },
         "Mind Rune": {
           "count": 1165.1489028213168,
           "min": 1,
-          "max": 57.0
+          "max": 56.0
         },
         "Cosmic Rune": {
           "count": 1046.5047021943574,
@@ -6311,11 +6311,11 @@
         "Mysterious Seed": {
           "count": 37.12121212121212,
           "min": 1,
-          "max": 4.0
+          "max": 3.0
         },
         "Air Rune": {
           "count": 1012.6750261233019,
-          "min": 6,
+          "min": 3,
           "max": 56.0
         },
         "Fire Rune": {
@@ -6326,27 +6326,27 @@
         "Useless Scraps": {
           "count": 17.68025078369906,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Satchel": {
           "count": 34.221525600835946,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Chaos Fragment": {
           "count": 46.08672936259143,
           "min": 1,
-          "max": 4.0
+          "max": 3.0
         },
         "Nature Rune": {
           "count": 1183.064263322884,
           "min": 1,
-          "max": 60.0
+          "max": 56.0
         },
         "Scroll of Fortitude": {
           "count": 15.90909090909091,
           "min": 1,
-          "max": 4.0
+          "max": 3.0
         },
         "Ancient Nature Amulet": {
           "count": 3.0303030303030303,
@@ -6405,7 +6405,7 @@
       "loot": {
         "Stone": {
           "count": 38989.18234064785,
-          "min": 30,
+          "min": 4,
           "max": 1851.0
         }
       }
@@ -6427,18 +6427,18 @@
       "loot": {
         "Smelly Meat Bait": {
           "count": 2883.583806889776,
-          "min": 40,
-          "max": 136.0
+          "min": 25,
+          "max": 99.0
         },
         "Writhing Tentacle Bait": {
           "count": 643.3675821599907,
-          "min": 13.0,
-          "max": 31.0
+          "min": 10,
+          "max": 30.0
         },
         "Forgotten Soul": {
           "count": 2.466858253680857,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Sunken Treasure": {
           "count": 1.0695187165775402,
@@ -6457,12 +6457,12 @@
         },
         "Aquamarine": {
           "count": 15.144381247901396,
-          "min": 3.0,
+          "min": 3,
           "max": 13.0
         },
         "Satchel": {
           "count": 4.253971348094461,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Mysterious Seed": {
@@ -6483,12 +6483,12 @@
         "Writhing Tentacle Bait": {
           "count": 710.8120970953084,
           "min": 10,
-          "max": 31.0
+          "max": 30.0
         },
         "Mystical Driftwood": {
           "count": 283.07847742526036,
           "min": 1,
-          "max": 9.0
+          "max": 8.0
         },
         "Ancient Treasure": {
           "count": 0.7575757575757576,
@@ -6503,22 +6503,22 @@
         "Mysterious Seed": {
           "count": 14.594510911335457,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Modified Diving Gloves": {
           "count": 2.3075730943956976,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Fisherman's Waders": {
           "count": 1.7092824961050992,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Aquamarine": {
           "count": 18.464731557710685,
           "min": 1,
-          "max": 10.0
+          "max": 7.0
         },
         "Fisherman's Bucket Hat": {
           "count": 1.0695187165775402,
@@ -6724,7 +6724,7 @@
         },
         "Mysterious Seed": {
           "count": 7.7279197903673,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Ruby": {
@@ -7033,7 +7033,7 @@
       "loot": {
         "Gold Ore": {
           "count": 3765.7967873666016,
-          "min": 2,
+          "min": 1,
           "max": 20.0
         },
         "Ichor": {
@@ -7063,7 +7063,7 @@
         },
         "Nature Rune": {
           "count": 24.417701863354036,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Fire Rune": {
@@ -7083,7 +7083,7 @@
         },
         "Blood Rune": {
           "count": 19.382999031283834,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Infernal Flame": {
@@ -7108,7 +7108,7 @@
         },
         "Mind Rune": {
           "count": 26.443558037495016,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Cosmic Rune": {
@@ -7185,12 +7185,12 @@
         },
         "Gold Ore": {
           "count": 204.4756442514544,
-          "min": 7,
-          "max": 34.0
+          "min": 2,
+          "max": 32.0
         },
         "Ichor": {
           "count": 35.395820570417264,
-          "min": 1.0,
+          "min": 1,
           "max": 4.0
         },
         "Chaos Rune": {
@@ -7200,13 +7200,13 @@
         },
         "Ashes": {
           "count": 23.575844232204414,
-          "min": 3,
-          "max": 7.0
+          "min": 1,
+          "max": 5.0
         },
         "Air Rune": {
           "count": 1.2775651540003645,
           "min": 2,
-          "max": 4.0
+          "max": 2.0
         },
         "Scroll": {
           "count": 1.8735960792321833,
@@ -7215,12 +7215,12 @@
         },
         "Earth Rune": {
           "count": 1.9285601140503723,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Cosmic Rune": {
           "count": 3.747192158464366,
-          "min": 3,
+          "min": 2,
           "max": 3.0
         },
         "Rune Slate": {
@@ -7265,13 +7265,13 @@
       "loot": {
         "Burnt Fish": {
           "count": 69.21433530495135,
-          "min": 1.0,
-          "max": 3.0
+          "min": 1,
+          "max": 2.0
         },
         "Gold Ore": {
           "count": 1074.65887816274,
-          "min": 4.0,
-          "max": 57.0
+          "min": 1,
+          "max": 51.0
         },
         "Rune Slate": {
           "count": 497.7675426826492,
@@ -7281,42 +7281,42 @@
         "Sapphire": {
           "count": 31.51284304051824,
           "min": 1,
-          "max": 4.0
+          "max": 3.0
         },
         "Earth Rune": {
           "count": 174.36465554405234,
-          "min": 1.0,
+          "min": 1,
           "max": 25.0
         },
         "Death Rune": {
           "count": 192.63047211918348,
-          "min": 2,
-          "max": 27.0
+          "min": 1,
+          "max": 20.0
         },
         "Mind Rune": {
           "count": 221.9325063391922,
-          "min": 1.0,
-          "max": 33.0
+          "min": 1,
+          "max": 31.0
         },
         "Ichor": {
           "count": 102.81975359063372,
-          "min": 3.0,
+          "min": 1,
           "max": 8.0
         },
         "Scroll": {
           "count": 106.15059585245378,
-          "min": 1.0,
+          "min": 1,
           "max": 4.0
         },
         "Ashes": {
           "count": 1054.1424361755517,
-          "min": 11,
-          "max": 70.0
+          "min": 1,
+          "max": 60.0
         },
         "Ruby": {
           "count": 9.508126885245977,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Blood Rune": {
           "count": 210.30902129580457,
@@ -7330,13 +7330,13 @@
         },
         "Cosmic Rune": {
           "count": 213.01368229389192,
-          "min": 6,
+          "min": 5,
           "max": 37.0
         },
         "Diamond": {
           "count": 6.568194516619284,
-          "min": 1.0,
-          "max": 3.0
+          "min": 1,
+          "max": 2.0
         },
         "Emerald": {
           "count": 17.17986712575958,
@@ -7346,32 +7346,32 @@
         "Air Rune": {
           "count": 164.84315785323253,
           "min": 1,
-          "max": 26.0
+          "max": 20.0
         },
         "Water Rune": {
           "count": 142.89782287712546,
           "min": 1,
-          "max": 25.0
+          "max": 21.0
         },
         "Black Opal": {
           "count": 5.687155401266082,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Chaos Rune": {
           "count": 121.24544431488033,
-          "min": 2,
-          "max": 29.0
+          "min": 1,
+          "max": 20.0
         },
         "Adamantite Boots": {
           "count": 11.826025070158854,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Fire Rune": {
           "count": 195.72187053297938,
           "min": 2,
-          "max": 26.0
+          "max": 22.0
         },
         "Mysterious Seed": {
           "count": 1.471989653529372,
@@ -7380,12 +7380,12 @@
         },
         "Runite Boots": {
           "count": 2.391383903077687,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Satchel": {
           "count": 2.0965216799400994,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         }
       }
@@ -7395,83 +7395,83 @@
       "loot": {
         "Book": {
           "count": 35.41011611345334,
-          "min": 1.0,
-          "max": 3.0
+          "min": 1,
+          "max": 2.0
         },
         "Burnt Fish": {
           "count": 34.060544923997696,
-          "min": 1.0,
-          "max": 3.0
+          "min": 1,
+          "max": 2.0
         },
         "Gold Ore": {
           "count": 358.6826612298659,
-          "min": 6.0,
-          "max": 52.0
+          "min": 1,
+          "max": 29.0
         },
         "Rune Slate": {
           "count": 294.83041017793397,
-          "min": 2.0,
-          "max": 63.0
+          "min": 2,
+          "max": 40.0
         },
         "Air Rune": {
           "count": 234.33864772385712,
-          "min": 7.0,
+          "min": 7,
           "max": 58.0
         },
         "Earth Rune": {
           "count": 310.1184360134108,
-          "min": 11,
-          "max": 65.0
+          "min": 1,
+          "max": 43.0
         },
         "Water Rune": {
           "count": 252.0476600402212,
           "min": 1,
-          "max": 61.0
+          "max": 42.0
         },
         "Ichor": {
           "count": 196.0060581308284,
-          "min": 8,
+          "min": 2,
           "max": 30.0
         },
         "Runite Boots": {
           "count": 5.266274009544871,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Scroll": {
           "count": 117.1060952893428,
-          "min": 2,
+          "min": 1,
           "max": 9.0
         },
         "Ashes": {
           "count": 1270.4457290305127,
-          "min": 17,
-          "max": 112.0
+          "min": 1,
+          "max": 111.0
         },
         "Diamond": {
           "count": 7.114216409436257,
-          "min": 1.0,
-          "max": 4.0
+          "min": 1,
+          "max": 2.0
         },
         "Fire Rune": {
           "count": 268.3527907842978,
-          "min": 7,
+          "min": 5,
           "max": 48.0
         },
         "Blood Rune": {
           "count": 253.58963243971422,
-          "min": 2.0,
-          "max": 56.0
+          "min": 2,
+          "max": 47.0
         },
         "Chaos Rune": {
           "count": 298.4421583361083,
-          "min": 8,
-          "max": 63.0
+          "min": 3,
+          "max": 49.0
         },
         "Nature Rune": {
           "count": 202.29964671489034,
           "min": 9,
-          "max": 77.0
+          "max": 33.0
         },
         "Adamantite Boots": {
           "count": 5.7497536376273155,
@@ -7480,48 +7480,48 @@
         },
         "Emerald": {
           "count": 13.195274621836502,
-          "min": 1.0,
+          "min": 1,
           "max": 4.0
         },
         "Death Rune": {
           "count": 193.42411510401612,
-          "min": 6.0,
+          "min": 6,
           "max": 41.0
         },
         "Sapphire": {
           "count": 21.585509244102273,
           "min": 1,
-          "max": 6.0
+          "max": 5.0
         },
         "Mind Rune": {
           "count": 246.1123385536648,
-          "min": 13.0,
+          "min": 2,
           "max": 43.0
         },
         "Cosmic Rune": {
           "count": 215.84678503169627,
-          "min": 6.0,
-          "max": 76.0
+          "min": 5,
+          "max": 67.0
         },
         "Ruby": {
           "count": 5.817028865168138,
-          "min": 2.0,
-          "max": 4.0
+          "min": 2,
+          "max": 3.0
         },
         "Black Opal": {
           "count": 4.795452998434416,
-          "min": 1.0,
-          "max": 3.0
+          "min": 1,
+          "max": 2.0
         },
         "Mysterious Seed": {
           "count": 2.0360869957708023,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Satchel": {
           "count": 1.0368577112187067,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         }
       }
     },
@@ -7530,23 +7530,23 @@
       "loot": {
         "Burnt Fish": {
           "count": 7656.888976680654,
-          "min": 65,
-          "max": 712.0
+          "min": 4,
+          "max": 689.0
         },
         "Coal": {
           "count": 5007.721196368013,
-          "min": 74.0,
-          "max": 579.0
+          "min": 26,
+          "max": 342.0
         },
         "Fire Talisman": {
           "count": 33.3371405322888,
-          "min": 1.0,
-          "max": 3.0
+          "min": 1,
+          "max": 2.0
         },
         "Air Rune": {
           "count": 236.9099748121385,
-          "min": 5,
-          "max": 55.0
+          "min": 3,
+          "max": 47.0
         },
         "Earth Rune": {
           "count": 234.3775983840114,
@@ -7555,52 +7555,52 @@
         },
         "Fire Rune": {
           "count": 1119.6020106931626,
-          "min": 12.0,
-          "max": 88.0
+          "min": 1,
+          "max": 86.0
         },
         "Water Rune": {
           "count": 376.06015719246983,
-          "min": 9,
+          "min": 2,
           "max": 41.0
         },
         "Blood Rune": {
           "count": 191.96394931030397,
           "min": 4,
-          "max": 59.0
+          "max": 29.0
         },
         "Ashes": {
           "count": 1627.458234492005,
-          "min": 11.0,
-          "max": 175.0
+          "min": 5,
+          "max": 112.0
         },
         "Chaos Rune": {
           "count": 40.7873375332472,
           "min": 1,
-          "max": 32.0
+          "max": 23.0
         },
         "Death Rune": {
           "count": 53.31461869921858,
           "min": 9,
-          "max": 45.0
+          "max": 16.0
         },
         "Stygian Boots": {
           "count": 2.088649842673043,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Nature Rune": {
           "count": 70.97825803451411,
-          "min": 6.0,
-          "max": 39.0
+          "min": 6,
+          "max": 25.0
         },
         "Satchel": {
           "count": 2.927762823295416,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Cosmic Rune": {
           "count": 94.86480117698224,
-          "min": 20,
+          "min": 8,
           "max": 36.0
         },
         "Mysterious Seed": {
@@ -7610,8 +7610,8 @@
         },
         "Mind Rune": {
           "count": 34.691450738801876,
-          "min": 9,
-          "max": 33.0
+          "min": 2,
+          "max": 21.0
         },
         "Ancient Fire Amulet": {
           "count": 0.22434931162697216,
@@ -7625,8 +7625,8 @@
       "loot": {
         "Feather": {
           "count": 33.28087817136764,
-          "min": 1.0,
-          "max": 3.0
+          "min": 1,
+          "max": 2.0
         }
       }
     },
@@ -7635,23 +7635,23 @@
       "loot": {
         "Feather": {
           "count": 13183.976284272354,
-          "min": 106,
+          "min": 102,
           "max": 565.0
         },
         "Mysterious Seed": {
           "count": 15.201660999834456,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Satchel": {
           "count": 15.857584386980754,
           "min": 1,
-          "max": 4.0
+          "max": 3.0
         },
         "Ancient Fire Amulet": {
           "count": 1.997090829811841,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         }
       }
     },
@@ -7660,37 +7660,37 @@
       "loot": {
         "Heat": {
           "count": 1447991.2213005696,
-          "min": 30489.0,
+          "min": 27235,
           "max": 150960.0
         },
         "Gold Ore": {
           "count": 27434.304790947393,
-          "min": 353.0,
-          "max": 3735.0
+          "min": 353,
+          "max": 2874.0
         },
         "Coal": {
           "count": 12350.67181576003,
-          "min": 568.0,
-          "max": 2373.0
+          "min": 436,
+          "max": 1816.0
         },
         "Rune Slate": {
           "count": 6323.778846897999,
           "min": 58,
-          "max": 696.0
+          "max": 601.0
         },
         "Mysterious Seed": {
           "count": 55.89307091101466,
-          "min": 2,
+          "min": 1,
           "max": 9.0
         },
         "Sapphire": {
           "count": 329.76874960232635,
-          "min": 7.0,
+          "min": 6,
           "max": 46.0
         },
         "Ruby": {
           "count": 117.79457984984447,
-          "min": 3.0,
+          "min": 1,
           "max": 14.0
         },
         "Diamond": {
@@ -7701,57 +7701,57 @@
         "Black Opal": {
           "count": 2.3336978312374703,
           "min": 1,
-          "max": 2.0
+          "max": 1.0
         },
         "Feather": {
           "count": 81990.9404315545,
-          "min": 1310.0,
-          "max": 12802.0
+          "min": 590,
+          "max": 10092.0
         },
         "Ichor": {
           "count": 1301.0108063744096,
-          "min": 27.0,
-          "max": 173.0
+          "min": 25,
+          "max": 108.0
         },
         "Satchel": {
           "count": 68.52581221602352,
           "min": 1,
-          "max": 11.0
+          "max": 10.0
         },
         "Raw Chicken": {
           "count": 25.804791343460415,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Ashes": {
           "count": 2985.3744103841423,
-          "min": 77.0,
+          "min": 32,
           "max": 373.0
         },
         "Egg": {
           "count": 25.757699145909285,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Burnt Fish": {
           "count": 4844.815130590783,
-          "min": 185.0,
-          "max": 1618.0
+          "min": 185,
+          "max": 917.0
         },
         "Burnt Food": {
           "count": 4778.09582032687,
-          "min": 461,
-          "max": 1249.0
+          "min": 350,
+          "max": 1205.0
         },
         "Emerald": {
           "count": 54.227835236533174,
-          "min": 10,
-          "max": 27.0
+          "min": 4,
+          "max": 13.0
         },
         "Scroll": {
           "count": 328.97480003456593,
-          "min": 20.0,
-          "max": 37.0
+          "min": 17,
+          "max": 35.0
         },
         "Ancient Fire Amulet": {
           "count": 0.4016064257028113,
@@ -7778,32 +7778,32 @@
         "Gold Ore": {
           "count": 369.62203940533306,
           "min": 1,
-          "max": 26.0
+          "max": 19.0
         },
         "Fire Rune": {
           "count": 149.3069784711717,
-          "min": 22.0,
+          "min": 21,
           "max": 44.0
         },
         "Water Rune": {
           "count": 280.52055587612136,
-          "min": 6.0,
-          "max": 70.0
+          "min": 6,
+          "max": 51.0
         },
         "Nature Rune": {
           "count": 250.22422928483735,
-          "min": 9,
-          "max": 73.0
+          "min": 2,
+          "max": 40.0
         },
         "Scroll": {
           "count": 81.84864472137058,
           "min": 1,
-          "max": 7.0
+          "max": 5.0
         },
         "Ashes": {
           "count": 1167.5243982539566,
-          "min": 6,
-          "max": 87.0
+          "min": 2,
+          "max": 71.0
         },
         "Infernal Flame": {
           "count": 4.370500514585485,
@@ -7817,63 +7817,63 @@
         },
         "Emerald": {
           "count": 13.39081231234617,
-          "min": 3,
-          "max": 5.0
+          "min": 2,
+          "max": 4.0
         },
         "Diamond": {
           "count": 7.665254879601051,
           "min": 3,
-          "max": 4.0
+          "max": 3.0
         },
         "Air Rune": {
           "count": 217.9367725694852,
-          "min": 13,
-          "max": 70.0
+          "min": 6,
+          "max": 42.0
         },
         "Earth Rune": {
           "count": 247.35417163056732,
-          "min": 23.0,
-          "max": 58.0
+          "min": 13,
+          "max": 49.0
         },
         "Blood Rune": {
           "count": 166.02674825904646,
-          "min": 14.0,
-          "max": 43.0
+          "min": 2,
+          "max": 40.0
         },
         "Death Rune": {
           "count": 318.7709029535886,
-          "min": 25.0,
-          "max": 55.0
+          "min": 1,
+          "max": 52.0
         },
         "Mind Rune": {
           "count": 181.47914709253797,
-          "min": 17,
-          "max": 52.0
+          "min": 14,
+          "max": 45.0
         },
         "Molten Ashes": {
           "count": 9.066284431975786,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Rune Slate": {
           "count": 270.30119120875827,
-          "min": 5,
-          "max": 43.0
+          "min": 2,
+          "max": 36.0
         },
         "Chaos Rune": {
           "count": 294.10624531855996,
-          "min": 15.0,
+          "min": 15,
           "max": 68.0
         },
         "Cosmic Rune": {
           "count": 168.4656313153997,
-          "min": 8.0,
+          "min": 7,
           "max": 48.0
         },
         "Ichor": {
           "count": 124.87759315656199,
-          "min": 3.0,
-          "max": 19.0
+          "min": 3,
+          "max": 16.0
         },
         "Adamantite Boots": {
           "count": 1.994265909049575,
@@ -7882,18 +7882,18 @@
         },
         "Runite Boots": {
           "count": 8.645753169108978,
-          "min": 1.0,
+          "min": 1,
           "max": 2.0
         },
         "Ruby": {
           "count": 8.038904475909252,
-          "min": 2.0,
+          "min": 2,
           "max": 5.0
         },
         "Black Opal": {
           "count": 2.797620140661439,
           "min": 1,
-          "max": 4.0
+          "max": 2.0
         }
       }
     },
@@ -7907,28 +7907,28 @@
         },
         "Gold Ore": {
           "count": 2204.682655741385,
-          "min": 4,
+          "min": 1,
           "max": 49.0
         },
         "Rune Slate": {
           "count": 1522.414036345265,
-          "min": 23,
-          "max": 127.0
+          "min": 1,
+          "max": 87.0
         },
         "Ruby": {
           "count": 15.393677878154644,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Earth Rune": {
           "count": 465.9688582155151,
-          "min": 2,
+          "min": 1,
           "max": 30.0
         },
         "Mind Rune": {
           "count": 441.3971837867652,
-          "min": 4.0,
-          "max": 30.0
+          "min": 1,
+          "max": 26.0
         },
         "Scroll": {
           "count": 189.49250971527792,
@@ -7943,7 +7943,7 @@
         "Sapphire": {
           "count": 58.47340550012104,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Emerald": {
           "count": 33.31181234938356,
@@ -7952,28 +7952,28 @@
         },
         "Air Rune": {
           "count": 392.21459726035107,
-          "min": 5.0,
+          "min": 1,
           "max": 24.0
         },
         "Molten Ashes": {
           "count": 21.262409055841893,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Chaos Rune": {
           "count": 409.1606700238408,
           "min": 2,
-          "max": 27.0
+          "max": 25.0
         },
         "Adamantite Boots": {
           "count": 26.559697039906908,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Nature Rune": {
           "count": 331.26359229995506,
-          "min": 3.0,
-          "max": 23.0
+          "min": 1,
+          "max": 20.0
         },
         "Blood Rune": {
           "count": 469.0526586516577,
@@ -7982,47 +7982,47 @@
         },
         "Death Rune": {
           "count": 392.08987874238136,
-          "min": 10.0,
+          "min": 2,
           "max": 26.0
         },
         "Cosmic Rune": {
           "count": 297.08495235793816,
           "min": 2,
-          "max": 37.0
+          "max": 29.0
         },
         "Fire Rune": {
           "count": 333.60592059483747,
-          "min": 7,
+          "min": 1,
           "max": 28.0
         },
         "Water Rune": {
           "count": 338.0059690967129,
           "min": 1,
-          "max": 21.0
+          "max": 20.0
         },
         "Ichor": {
           "count": 161.30777793237743,
-          "min": 1.0,
+          "min": 1,
           "max": 6.0
         },
         "Black Opal": {
           "count": 7.06913654171772,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Mysterious Seed": {
           "count": 3.7383729380132253,
-          "min": 1.0,
+          "min": 1,
           "max": 3.0
         },
         "Diamond": {
           "count": 8.335347925324815,
           "min": 1,
-          "max": 3.0
+          "max": 2.0
         },
         "Infernal Flame": {
           "count": 16.3330995031784,
-          "min": 2,
+          "min": 1,
           "max": 2.0
         },
         "Satchel": {
