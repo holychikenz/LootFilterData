@@ -9,6 +9,8 @@ zonegroupsize = {"29":2, "604":10, "700":5, "701":3, "702":3}
 zonegroupsizeexclude = {"29":[2]}
 # Some scrolls are weird (info apparently)
 zonescrolloverride = {"604":1}
+# Dungeons augment for +0.25 multiplier and +4 TH
+# Scrolls augment for +0.1 multiplier and +1 TH
 
 # Read the data directory and create a single final table
 # Read data in order:
