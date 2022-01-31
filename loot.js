@@ -62,8 +62,8 @@ class lootshow {
     // Convert dictionary to a set of tables
     let zoneMarket = 0
     for( const [monster, log] of Object.entries(dtable) ){
-		// fixing kills to take th into consideration
-	  let modified_kills = log.kills / modifier
+      // fixing kills to take th into consideration
+      let modified_kills = log.kills / modifier
 	  
       let market = 0
       let title = document.createElement("h3")
@@ -136,7 +136,8 @@ class lootshow {
     // Update GPH
     let kph = document.getElementById("kph")
     let gph = document.getElementById("gph")
-    gph.innerText = numberWithCommas((zoneMarket * kph.value * (1+th*0.03) * lootMult).toFixed(0))
+    //gph.innerText = numberWithCommas((zoneMarket * kph.value * (1+th*0.03) * lootMult).toFixed(0))
+    gph.innerText = numberWithCommas((zoneMarket * kph.value).toFixed(0))
     msg = JSON.stringify(dtable)
     //self.dom.innerText=msg
     self.dom.append(newdiv)
