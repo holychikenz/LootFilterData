@@ -7,7 +7,7 @@
 <script>
 window.onload = function() {
     async function startup() {
-      let dataURL = await fetch("https://raw.githubusercontent.com/holychikenz/LootFilterData/main/compiledTables.json")
+      let dataURL = await fetch("https://raw.githubusercontent.com/holychikenz/LootFilterData/main/compiledTablesV2.json")
       let data = await dataURL.json();
       let lshow = new lootshow(data)
     }

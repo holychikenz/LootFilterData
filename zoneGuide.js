@@ -90,7 +90,7 @@ class zoneshow {
           //console.log(item, stats)
           let marketValue = self.itemdata[item]
           marketValue = (typeof(marketValue) === 'undefined')? 1 : marketValue
-          let gpk = marketValue * (stats/log.kills)
+          let gpk = marketValue * (stats.count/log.kills)
           market += gpk
         }
         try{

@@ -40,11 +40,11 @@ class lootshow {
   }
   updateView(self){
 	// Gets TH and scroll info
-	let th = parseFloat(document.getElementById("treasure").value)
+    let th = parseFloat(document.getElementById("treasure").value)
     let loot = parseFloat(document.getElementById("scroll").value)
-	let n = Math.floor(loot)
-	let lootMult = n*(n+1)/(2*loot) + (n + 1) * (loot - n) / loot
-	let modifier = 1*(1 + 0.03*th)*lootMult
+    let n = Math.floor(loot)
+    let lootMult = n*(n+1)/(2*loot) + (n + 1) * (loot - n) / loot
+    let modifier = 1*(1 + 0.03*th)*lootMult
     let zoneSelector = document.getElementById("zone")
     let zonevalue = zoneSelector.value
     let msg = ''
@@ -98,17 +98,17 @@ class lootshow {
         let total = document.createElement("td")
         row.append(total)
         //console.log(item, stats)
-        total.innerText = (modified_kills/stats).toFixed(2)
+        total.innerText = (modified_kills/stats.count).toFixed(2)
         let frequency = document.createElement("td")
         row.append(frequency)
-        frequency.innerText = (stats/modified_kills).toFixed(4)
+        frequency.innerText = (stats.count/modified_kills).toFixed(4)
         let goldpk = document.createElement("td")
         row.append(goldpk)
         table.append(row)
         // Get market value
         let marketValue = self.itemdata[item]
         marketValue = (typeof(marketValue) === 'undefined')? 1 : marketValue
-        let gpk = marketValue * (stats/modified_kills)
+        let gpk = marketValue * (stats.count/modified_kills)
         goldpk.innerText = gpk.toFixed(2)
         market += gpk
       }
