@@ -85,10 +85,14 @@ class lootshow {
       let goldPerKill = document.createElement("th")
       goldPerKill.innerText = "Gold Per Kill"
       goldPerKill.addEventListener('click', ()=>sortTable(table, 3, "num"))
+      let rollRangeHead = document.createElement("th")
+      rollRangeHead.innerText = "Range"
+      rollRangeHead.addEventListener('click', ()=>sortTable(table, 4, "num"))
       head.append(itemName)
       head.append(dropCount)
       head.append(dropFreq)
       head.append(goldPerKill)
+      head.append(rollRangeHead)
       table.append(head)
       for( const [item, stats] of Object.entries(log.loot) ){
         let row = document.createElement("tr")
@@ -111,6 +115,11 @@ class lootshow {
         let gpk = marketValue * (stats.count/modified_kills)
         goldpk.innerText = gpk.toFixed(2)
         market += gpk
+        // Roll Range
+        let rangetd = document.createElement("td")
+        row.append(rangetd)
+        let rollRange = `${stats.min} - ${stats.max}`
+        rangetd.innerText = rollRange
       }
       // add to zoneMarket
       try{
