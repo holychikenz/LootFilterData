@@ -242,6 +242,7 @@ const zoneFrequency = {
   "701": {"Goblin": 7, "Elite Goblin": 3, "Goblin Village": 1},
   "700": {"Chaos Giant": 2, "Elite Chaos Giant": 1, "Elite Fire Giant": 1, "Elite Ice Giant": 1, "Elite Moss Giant": 1, "Enraged Giant King": 1, "Giant King": 1, "Giant's Keep": 1, "The Advisor": 1},
   "702": {"Black Knight": 7, "Black Knight Titan": 4, "Familiar Stranger": 1, "Black Knight's Fortress": 1},
+  "704": {"Ember Demon": 1, "Flame Demon": 2, "Inferno Demon": 1, "Inferno Giant": 1, "Just a Chiken": 1, "Phoenix": 4, "Palace of Flames": 1},
   "705": {"Krampus": 3, "Krampus' Lair": 1},
 }
 
