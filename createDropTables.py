@@ -69,18 +69,19 @@ def createTables(**kwargs):
                 for (name, count) in F["loot"].items():
                   countMin = count["minimum"]
                   countMax = count["maximum"]
-                  estimatedMax = truemax(countMin, countMax, 1 + scrollLevel * augMultiplier)
+                  estimatedMin = min(countMin, bigmonster["loot"][name]["min"]) if name in bigmonster["loot"] else countMin
+                  estimatedMax = truemax(estimatedMin, countMax, 1 + scrollLevel * augMultiplier)
                   modifier = lootmult(eval(TH)+scrollLevel*augTreasure, 1+scrollLevel*augMultiplier) * (1 + leadboost)
                   countTotal = count["total"] / modifier
                   if name not in bigmonster["loot"]:
                     bigmonster["loot"][name] = {
                                 "count": countTotal,
-                                "min": countMin,
+                                "min": estimatedMin,
                                 "max": estimatedMax
                             }
                   else:
                     bigmonster["loot"][name]["count"] += countTotal
-                    bigmonster["loot"][name]["min"] = min(bigmonster["loot"][name]["min"], estimatedMax)
+                    bigmonster["loot"][name]["min"] = estimatedMin
                     bigmonster["loot"][name]["max"] = max(bigmonster["loot"][name]["max"], estimatedMax)
   with open(outfile, "w") as jj:
     json.dump(baseDict, jj, indent=2)
