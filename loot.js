@@ -39,6 +39,12 @@ class lootshow {
     document.body.append(self.dom)
   }
   updateView(self){
+	// Gets TH and scroll info
+	let th = parseFloat(document.getElementById("treasure").value)
+    let loot = parseFloat(document.getElementById("scroll").value)
+	let n = Math.floor(loot)
+	let lootMult = n*(n+1)/(2*loot) + (n + 1) * (loot - n) / loot
+	let modifier = 1*(1 + 0.03*th)*lootMult
     let zoneSelector = document.getElementById("zone")
     let zonevalue = zoneSelector.value
     let msg = ''
@@ -56,6 +62,9 @@ class lootshow {
     // Convert dictionary to a set of tables
     let zoneMarket = 0
     for( const [monster, log] of Object.entries(dtable) ){
+		// fixing kills to take th into consideration
+	  let modified_kills = log.kills / modifier
+	  
       let market = 0
       let title = document.createElement("h3")
       title.className = "text-light"
@@ -89,17 +98,17 @@ class lootshow {
         let total = document.createElement("td")
         row.append(total)
         //console.log(item, stats)
-        total.innerText = (log.kills/stats).toFixed(2)
+        total.innerText = (modified_kills/stats).toFixed(2)
         let frequency = document.createElement("td")
         row.append(frequency)
-        frequency.innerText = (stats/log.kills).toFixed(4)
+        frequency.innerText = (stats/modified_kills).toFixed(4)
         let goldpk = document.createElement("td")
         row.append(goldpk)
         table.append(row)
         // Get market value
         let marketValue = self.itemdata[item]
         marketValue = (typeof(marketValue) === 'undefined')? 1 : marketValue
-        let gpk = marketValue * (stats/log.kills)
+        let gpk = marketValue * (stats/modified_kills)
         goldpk.innerText = gpk.toFixed(2)
         market += gpk
       }
@@ -113,14 +122,12 @@ class lootshow {
       // Default sort
       sortTable(table, 1, "num")
       // Summary in header
-      title.innerText = `${monster}: ${numberWithCommas((log.kills).toFixed(0))} kills -> ${numberWithCommas(market.toFixed(0))} gp/kill`
+      title.innerText = `${monster}: ${numberWithCommas((modified_kills).toFixed(0))} kills -> ${numberWithCommas(market.toFixed(0))} gp/kill`
     }
     // Update GPH
     let kph = document.getElementById("kph")
-    let th = document.getElementById("treasure")
-    let scroll = document.getElementById("scroll")
     let gph = document.getElementById("gph")
-    gph.innerText = numberWithCommas((zoneMarket * kph.value * (1+th.value*0.03+scroll.value*0.03) * (1 + 0.1*scroll.value)).toFixed(0))
+    gph.innerText = numberWithCommas((zoneMarket * kph.value * (1+th*0.03) * lootMult).toFixed(0))
     msg = JSON.stringify(dtable)
     //self.dom.innerText=msg
     self.dom.append(newdiv)
