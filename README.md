@@ -13,7 +13,7 @@ found in, these can be translated into zone names by loading data from
 There is also a "header" key that can be ignored, which shows the order the
 dictionary is nested in, that order is:
 ```
-["Zone", "Treasure Hunter", "Scroll Size", "Group Lead", "Group Size", "Monster Name"]
+["Zone", "Treasure Hunter", "Scroll Size", "Group Size", "Group Lead", "Monster Name"]
 ```
 **Zone** is the combat area, which includes dungeons and scrolls
 
