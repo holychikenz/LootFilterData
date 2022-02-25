@@ -42,9 +42,7 @@ class lootshow {
 	// Gets TH and scroll info
     let th = parseFloat(document.getElementById("treasure").value)
     let loot = parseFloat(document.getElementById("scroll").value)
-    let n = Math.floor(loot)
-    let lootMult = n*(n+1)/(2*loot) + (n + 1) * (loot - n) / loot
-    let modifier = 1*(1 + 0.03*th)*lootMult
+    let th_modifier = 1*(1 + 0.03*th)
     let zoneSelector = document.getElementById("zone")
     let zonevalue = zoneSelector.value
     let msg = ''
@@ -62,8 +60,6 @@ class lootshow {
     // Convert dictionary to a set of tables
     let zoneMarket = 0
     for( const [monster, log] of Object.entries(dtable) ){
-      // fixing kills to take th into consideration
-      let modified_kills = log.kills / modifier
 	  
       let market = 0
       let title = document.createElement("h3")
@@ -94,31 +90,47 @@ class lootshow {
       head.append(goldPerKill)
       head.append(rollRangeHead)
       table.append(head)
+	  
+	  let kills = log.kills
       for( const [item, stats] of Object.entries(log.loot) ){
+		// Read data and calculate weights
+		let modifier = th_modifier*lootMult(loot, stats.min, stats.max)
+		console.log(`d: ${stats.max - stats.min}`)
+		console.log(loot)
+		console.log(lootMult(loot, stats.min, stats.max))
+		let modified_count = stats.count * modifier
+		
         let row = document.createElement("tr")
+		// Name of Item
         let name = document.createElement("td")
         name.innerText = item
         row.append(name)
+		
+		// total = Kills / Drop
         let total = document.createElement("td")
         row.append(total)
-        //console.log(item, stats)
-        total.innerText = (modified_kills/stats.count).toFixed(2)
+        total.innerText = (kills/modified_count).toFixed(2)
+		
+		// Frequency = Drops / Kill
         let frequency = document.createElement("td")
         row.append(frequency)
-        frequency.innerText = (stats.count/modified_kills).toFixed(4)
+        frequency.innerText = (modified_count/kills).toFixed(4)
+		
+		// goldpk = ItemPrice * Frequency
         let goldpk = document.createElement("td")
         row.append(goldpk)
         table.append(row)
         // Get market value
         let marketValue = self.itemdata[item]
         marketValue = (typeof(marketValue) === 'undefined')? 1 : marketValue
-        let gpk = marketValue * (stats.count/modified_kills)
+        let gpk = marketValue * (modified_count/kills)
         goldpk.innerText = gpk.toFixed(2)
         market += gpk
-        // Roll Range
+		
+        // Roll Range = minRoll - maxRoll
         let rangetd = document.createElement("td")
         row.append(rangetd)
-        let rollRange = `${stats.min} - ${stats.max}`
+        let rollRange = `${stats.min} - ${Math.floor((1 - 1e-10)*loot*(stats.max - stats.min + 1) + stats.min)}`
         rangetd.innerText = rollRange
       }
       // add to zoneMarket
@@ -131,7 +143,7 @@ class lootshow {
       // Default sort
       sortTable(table, 1, "num")
       // Summary in header
-      title.innerText = `${monster}: ${numberWithCommas((modified_kills).toFixed(0))} kills -> ${numberWithCommas(market.toFixed(0))} gp/kill`
+      title.innerText = `${monster}: ${numberWithCommas((kills).toFixed(0))} kills -> ${numberWithCommas(market.toFixed(0))} gp/kill`
     }
     // Update GPH
     let kph = document.getElementById("kph")
@@ -249,4 +261,15 @@ const zoneFrequency = {
 
 function numberWithCommas(x) {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
+function lootMult(loot, lb, ub) {
+	let newD = loot*(ub - lb + 1)
+	let newFloorD = Math.floor(newD)
+	let avgCoveredArea = lb + (newFloorD - 1) / 2
+	let avgPartialArea = lb + newFloorD
+	let weightCovered = newFloorD
+	let weightPartial = newD - newFloorD
+	let avgLootDrop = (avgCoveredArea*weightCovered + avgPartialArea*weightPartial)/(weightCovered + weightPartial)
+	return avgLootDrop / (lb + (ub - lb) / 2)
 }
